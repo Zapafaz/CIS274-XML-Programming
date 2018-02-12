@@ -4,28 +4,28 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace CIS274_XML_Programming_Project
 {
     class Program
     {
+        private XDocument poemSet;
+
         static void Main(string[] args)
         {
-            CombinePoemsToXml();
+            CreatePoemDoc();
             ContinuePrompt();
         }
 
-        public static void CombinePoemsToXml()
+        public static void CreatePoemDoc()
         {
             var sourcePath = @"H:\Google Drive\Projects\School\SPRING 2018\CIS274 XML Programming\Resources\Poems";
-            var targetPath = @"H:\Google Drive\Projects\School\SPRING 2018\CIS274 XML Programming\ScriptOutput\week2.xml";
-            var converter = new PoemConverter(sourcePath, targetPath);
-            string[] allFiles = Directory.GetFiles(sourcePath);
-            foreach (string file in allFiles)
-            {
-                var fileLines = converter.FileTextToLines(file);
-                converter.LinesToXml(fileLines);
-            }
+            var targetPath = @"H:\Google Drive\Projects\School\SPRING 2018\CIS274 XML Programming\ScriptOutput\week3.xml";
+            var doc = new XDocument();
+            var converter = new PoemConverter(sourcePath);
+            doc.Add(converter.ConvertFilesToPoemSet());
+            doc.Save(targetPath);
         }
 
         /// <summary>

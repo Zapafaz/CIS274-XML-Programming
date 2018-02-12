@@ -1,5 +1,5 @@
 Green Eggs and Ham
-By Doctor Seuss
+Doctor Seuss
 
 I am Daniel
 
@@ -152,7 +152,7 @@ I do not like them here or there.
 I do not like them anywhere!
 
 I do not like
-Green egss
+Green eggs
 And ham!
 
 I do not like them,

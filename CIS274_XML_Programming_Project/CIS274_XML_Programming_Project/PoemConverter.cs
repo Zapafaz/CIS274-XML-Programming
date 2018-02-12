@@ -4,24 +4,33 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml;
+using System.Xml.Linq;
 
 namespace CIS274_XML_Programming_Project
 {
     public class PoemConverter
     {
         public string SourceFolderPath { get; }
-        public string TargetFilePath { get; }
-        public XmlDocument PoemSet { get; }
+        private char poemId = 'A';
 
-        public PoemConverter(string folderPath, string targetFilePath)
+        public PoemConverter(string folderPath)
         {
             SourceFolderPath = folderPath;
-            TargetFilePath = targetFilePath;
-            PoemSet = new XmlDocument();
         }
 
-        public string[] FileTextToLines(string path)
+        public XElement ConvertFilesToPoemSet()
+        {
+            string[] allFiles = Directory.GetFiles(SourceFolderPath);
+            var poemSet = new XElement("PoemSet");
+            foreach (string file in allFiles)
+            {
+                poemSet.Add(ConvertPoem(ReadFileLines(file)));
+                poemId++;
+            }
+            return poemSet;
+        }
+
+        private string[] ReadFileLines(string path)
         {
             var lines = new List<string>();
             using (var reader = new StreamReader(path))
@@ -34,31 +43,39 @@ namespace CIS274_XML_Programming_Project
             return lines.ToArray();
         }
 
-        public void LinesToXml(string[] allLines)
+        private XElement ConvertPoem(string[] allLines)
         {
-            bool startNewStanza = true;
-            using (var writer = new StreamWriter(TargetFilePath, true))
+            var xmlPoem = new XElement("Poem",
+                        new XElement("PoemTitle", allLines[0]),
+                        new XElement("PoemAuthor", allLines[1]),
+                        new XAttribute("ID", poemId)
+                     );
+            return AddStanzasToPoem(allLines, xmlPoem);
+        }
+
+        private XElement AddStanzasToPoem(string[] allLines, XElement poemWithoutStanzas)
+        {
+            var currentStanza = new XElement("Stanza");
+            var currentLine = new XElement("PoemLine");
+            var poem = new XElement(poemWithoutStanzas);
+            int stanzaCount = 1;
+            for (int i = 2; i < allLines.Length; i++)
             {
-                writer.WriteLine("\t<Poem>");
-                foreach(string line in allLines)
+                if (allLines[i].Length > 0)
                 {
-                    if (startNewStanza)
-                    {
-                        writer.WriteLine("\t\t<Stanza>");
-                        startNewStanza = false;
-                    }
-                    if (line.Length > 0)
-                    {
-                        writer.WriteLine($"\t\t\t<PoemLine>{line}</PoemLine>");
-                    }
-                    else
-                    {
-                        writer.WriteLine("\t\t</Stanza>");
-                        startNewStanza = true;
-                    }
+                    currentLine.Add(allLines[i]);
+                    currentStanza.Add(new XElement(currentLine));
+                    currentLine.RemoveAll();
                 }
-                writer.WriteLine("\t</Poem>");
+                else if (currentStanza.HasElements)
+                {
+                    currentStanza.Add(new XAttribute("ID", $"{poemId}:{stanzaCount}"));
+                    poem.Add(new XElement(currentStanza));
+                    currentStanza.RemoveAll();
+                    stanzaCount++;
+                }
             }
+            return poem;
         }
     }
 }
