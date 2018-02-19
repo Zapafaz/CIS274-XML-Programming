@@ -1,450 +1,195 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PoemSet>
-  <Poem ID="A">
-    <PoemTitle>Richard Cory</PoemTitle>
-    <PoemAuthor>Edwin Arlington Robinson</PoemAuthor>
-    <Stanza ID="A:1">
-      <PoemLine>Whenever Richard Cory went down town,</PoemLine>
-      <PoemLine>We people on the pavement looked at him;</PoemLine>
-      <PoemLine>He was a gentleman from sole to crown,</PoemLine>
-      <PoemLine>Clean favored, and imperially slim.</PoemLine>
-    </Stanza>
-    <Stanza ID="A:2">
-      <PoemLine>And he was always quietly arrayed,</PoemLine>
-      <PoemLine>And he was always human when he talked;</PoemLine>
-      <PoemLine>But still he fluttered pulses when he said,</PoemLine>
-      <PoemLine>"Good-morning," and he glittered when he walked.</PoemLine>
-    </Stanza>
-    <Stanza ID="A:3">
-      <PoemLine>And he was rich - yes, richer than a king,</PoemLine>
-      <PoemLine>And admirably schooled in every grace;</PoemLine>
-      <PoemLine>In fine, we thought that he was everything</PoemLine>
-      <PoemLine>To make us wish that we were in his place.</PoemLine>
-    </Stanza>
-  </Poem>
-  <Poem ID="B">
-    <PoemTitle>The Charge of the Light Brigade</PoemTitle>
-    <PoemAuthor>Alfred Tennyson</PoemAuthor>
-    <Stanza ID="B:1">
-      <PoemLine>Half a league, half a league,</PoemLine>
-      <PoemLine>Half a league onward,</PoemLine>
-      <PoemLine>All in the valley of Death</PoemLine>
-      <PoemLine>Rode the six hundred.</PoemLine>
-      <PoemLine>"Forward, the Light Brigade!</PoemLine>
-      <PoemLine>"Charge for the guns!" he said:</PoemLine>
-      <PoemLine>Into the valley of Death</PoemLine>
-      <PoemLine>Rode the six hundred.</PoemLine>
-    </Stanza>
-    <Stanza ID="B:2">
-      <PoemLine>"Forward, the Light Brigade!"</PoemLine>
-      <PoemLine>Was there a man dismay'd?</PoemLine>
-      <PoemLine>Not tho' the soldier knew</PoemLine>
-      <PoemLine>Someone had blunder'd:</PoemLine>
-      <PoemLine>Theirs not to make reply,</PoemLine>
-      <PoemLine>Theirs not to reason why,</PoemLine>
-      <PoemLine>Theirs but to do and die:</PoemLine>
-      <PoemLine>Into the valley of Death</PoemLine>
-      <PoemLine>Rode the six hundred.</PoemLine>
-    </Stanza>
-    <Stanza ID="B:3">
-      <PoemLine>Cannon to right of them,</PoemLine>
-      <PoemLine>Cannon to left of them,</PoemLine>
-      <PoemLine>Cannon in front of them</PoemLine>
-      <PoemLine>Volley'd and thunder'd;</PoemLine>
-      <PoemLine>Storm'd at with shot and shell,</PoemLine>
-      <PoemLine>Boldly they rode and well,</PoemLine>
-      <PoemLine>Into the jaws of Death,</PoemLine>
-      <PoemLine>Into the mouth of Hell</PoemLine>
-      <PoemLine>Rode the six hundred.</PoemLine>
-    </Stanza>
-    <Stanza ID="B:4">
-      <PoemLine>Flash'd all their sabres bare,</PoemLine>
-      <PoemLine>Flash'd as they turn'd in air,</PoemLine>
-      <PoemLine>Sabring the gunners there,</PoemLine>
-      <PoemLine>Charging an army, while</PoemLine>
-      <PoemLine>All the world wonder'd:</PoemLine>
-      <PoemLine>Plunged in the battery-smoke</PoemLine>
-      <PoemLine>Right thro' the line they broke;</PoemLine>
-      <PoemLine>Cossack and Russian</PoemLine>
-      <PoemLine>Reel'd from the sabre stroke</PoemLine>
-      <PoemLine>Shatter'd and sunder'd.</PoemLine>
-      <PoemLine>Then they rode back, but not</PoemLine>
-      <PoemLine>Not the six hundred.</PoemLine>
-    </Stanza>
-    <Stanza ID="B:5">
-      <PoemLine>Cannon to right of them,</PoemLine>
-      <PoemLine>Cannon to left of them,</PoemLine>
-      <PoemLine>Cannon behind them</PoemLine>
-      <PoemLine>Volley'd and thunder'd;</PoemLine>
-      <PoemLine>Storm'd at with shot and shell,</PoemLine>
-      <PoemLine>While horse and hero fell,</PoemLine>
-      <PoemLine>They that had fought so well</PoemLine>
-      <PoemLine>Came thro' the jaws of Death</PoemLine>
-      <PoemLine>Back from the mouth of Hell,</PoemLine>
-      <PoemLine>All that was left of them,</PoemLine>
-      <PoemLine>Left of six hundred.</PoemLine>
-    </Stanza>
-  </Poem>
-  <Poem ID="C">
-    <PoemTitle>The Raven</PoemTitle>
-    <PoemAuthor>Edgar Allan Poe</PoemAuthor>
-    <Stanza ID="C:1">
-      <PoemLine>Once upon a midnight dreary, while I pondered, weak and weary,</PoemLine>
-      <PoemLine>Over many a quaint and curious volume of forgotten lore—</PoemLine>
-      <PoemLine>    While I nodded, nearly napping, suddenly there came a tapping,</PoemLine>
-      <PoemLine>As of some one gently rapping, rapping at my chamber door.</PoemLine>
-      <PoemLine>“’Tis some visitor,” I muttered, “tapping at my chamber door—</PoemLine>
-      <PoemLine>            Only this and nothing more.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:2">
-      <PoemLine>    Ah, distinctly I remember it was in the bleak December;</PoemLine>
-      <PoemLine>And each separate dying ember wrought its ghost upon the floor.</PoemLine>
-      <PoemLine>    Eagerly I wished the morrow;—vainly I had sought to borrow</PoemLine>
-      <PoemLine>    From my books surcease of sorrow—sorrow for the lost Lenore—</PoemLine>
-      <PoemLine>For the rare and radiant maiden whom the angels name Lenore—</PoemLine>
-      <PoemLine>            Nameless here for evermore.</PoemLine>
-    </Stanza>
-    <Stanza ID="C:3">
-      <PoemLine>    And the silken, sad, uncertain rustling of each purple curtain</PoemLine>
-      <PoemLine>Thrilled me—filled me with fantastic terrors never felt before;</PoemLine>
-      <PoemLine>    So that now, to still the beating of my heart, I stood repeating</PoemLine>
-      <PoemLine>    “’Tis some visitor entreating entrance at my chamber door—</PoemLine>
-      <PoemLine>Some late visitor entreating entrance at my chamber door;—</PoemLine>
-      <PoemLine>            This it is and nothing more.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:4">
-      <PoemLine>    Presently my soul grew stronger; hesitating then no longer,</PoemLine>
-      <PoemLine>“Sir,” said I, “or Madam, truly your forgiveness I implore;</PoemLine>
-      <PoemLine>    But the fact is I was napping, and so gently you came rapping,</PoemLine>
-      <PoemLine>    And so faintly you came tapping, tapping at my chamber door,</PoemLine>
-      <PoemLine>That I scarce was sure I heard you”—here I opened wide the door;—</PoemLine>
-      <PoemLine>            Darkness there and nothing more.</PoemLine>
-    </Stanza>
-    <Stanza ID="C:5">
-      <PoemLine>    Deep into that darkness peering, long I stood there wondering, fearing,</PoemLine>
-      <PoemLine>Doubting, dreaming dreams no mortal ever dared to dream before;</PoemLine>
-      <PoemLine>    But the silence was unbroken, and the stillness gave no token,</PoemLine>
-      <PoemLine>    And the only word there spoken was the whispered word, “Lenore?”</PoemLine>
-      <PoemLine>This I whispered, and an echo murmured back the word, “Lenore!”—</PoemLine>
-      <PoemLine>            Merely this and nothing more.</PoemLine>
-    </Stanza>
-    <Stanza ID="C:6">
-      <PoemLine>    Back into the chamber turning, all my soul within me burning,</PoemLine>
-      <PoemLine>Soon again I heard a tapping somewhat louder than before.</PoemLine>
-      <PoemLine>    “Surely,” said I, “surely that is something at my window lattice;</PoemLine>
-      <PoemLine>      Let me see, then, what thereat is, and this mystery explore—</PoemLine>
-      <PoemLine>Let my heart be still a moment and this mystery explore;—</PoemLine>
-      <PoemLine>            ’Tis the wind and nothing more!”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:7">
-      <PoemLine>    Open here I flung the shutter, when, with many a flirt and flutter,</PoemLine>
-      <PoemLine>In there stepped a stately Raven of the saintly days of yore;</PoemLine>
-      <PoemLine>    Not the least obeisance made he; not a minute stopped or stayed he;</PoemLine>
-      <PoemLine>    But, with mien of lord or lady, perched above my chamber door—</PoemLine>
-      <PoemLine>Perched upon a bust of Pallas just above my chamber door—</PoemLine>
-      <PoemLine>            Perched, and sat, and nothing more.</PoemLine>
-    </Stanza>
-    <Stanza ID="C:8">
-      <PoemLine>Then this ebony bird beguiling my sad fancy into smiling,</PoemLine>
-      <PoemLine>By the grave and stern decorum of the countenance it wore,</PoemLine>
-      <PoemLine>“Though thy crest be shorn and shaven, thou,” I said, “art sure no craven,</PoemLine>
-      <PoemLine>Ghastly grim and ancient Raven wandering from the Nightly shore—</PoemLine>
-      <PoemLine>Tell me what thy lordly name is on the Night’s Plutonian shore!”</PoemLine>
-      <PoemLine>            Quoth the Raven “Nevermore.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:9">
-      <PoemLine>    Much I marvelled this ungainly fowl to hear discourse so plainly,</PoemLine>
-      <PoemLine>Though its answer little meaning—little relevancy bore;</PoemLine>
-      <PoemLine>    For we cannot help agreeing that no living human being</PoemLine>
-      <PoemLine>    Ever yet was blessed with seeing bird above his chamber door—</PoemLine>
-      <PoemLine>Bird or beast upon the sculptured bust above his chamber door,</PoemLine>
-      <PoemLine>            With such name as “Nevermore.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:10">
-      <PoemLine>    But the Raven, sitting lonely on the placid bust, spoke only</PoemLine>
-      <PoemLine>That one word, as if his soul in that one word he did outpour.</PoemLine>
-      <PoemLine>    Nothing farther then he uttered—not a feather then he fluttered—</PoemLine>
-      <PoemLine>    Till I scarcely more than muttered “Other friends have flown before—</PoemLine>
-      <PoemLine>On the morrow he will leave me, as my Hopes have flown before.”</PoemLine>
-      <PoemLine>            Then the bird said “Nevermore.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:11">
-      <PoemLine>    Startled at the stillness broken by reply so aptly spoken,</PoemLine>
-      <PoemLine>“Doubtless,” said I, “what it utters is its only stock and store</PoemLine>
-      <PoemLine>    Caught from some unhappy master whom unmerciful Disaster</PoemLine>
-      <PoemLine>    Followed fast and followed faster till his songs one burden bore—</PoemLine>
-      <PoemLine>Till the dirges of his Hope that melancholy burden bore</PoemLine>
-      <PoemLine>            Of ‘Never—nevermore’.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:12">
-      <PoemLine>    But the Raven still beguiling all my fancy into smiling,</PoemLine>
-      <PoemLine>Straight I wheeled a cushioned seat in front of bird, and bust and door;</PoemLine>
-      <PoemLine>    Then, upon the velvet sinking, I betook myself to linking</PoemLine>
-      <PoemLine>    Fancy unto fancy, thinking what this ominous bird of yore—</PoemLine>
-      <PoemLine>What this grim, ungainly, ghastly, gaunt, and ominous bird of yore</PoemLine>
-      <PoemLine>            Meant in croaking “Nevermore.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:13">
-      <PoemLine>    This I sat engaged in guessing, but no syllable expressing</PoemLine>
-      <PoemLine>To the fowl whose fiery eyes now burned into my bosom’s core;</PoemLine>
-      <PoemLine>    This and more I sat divining, with my head at ease reclining</PoemLine>
-      <PoemLine>    On the cushion’s velvet lining that the lamp-light gloated o’er,</PoemLine>
-      <PoemLine>But whose velvet-violet lining with the lamp-light gloating o’er,</PoemLine>
-      <PoemLine>            She shall press, ah, nevermore!</PoemLine>
-    </Stanza>
-    <Stanza ID="C:14">
-      <PoemLine>    Then, methought, the air grew denser, perfumed from an unseen censer</PoemLine>
-      <PoemLine>Swung by Seraphim whose foot-falls tinkled on the tufted floor.</PoemLine>
-      <PoemLine>    “Wretch,” I cried, “thy God hath lent thee—by these angels he hath sent thee</PoemLine>
-      <PoemLine>    Respite—respite and nepenthe from thy memories of Lenore;</PoemLine>
-      <PoemLine>Quaff, oh quaff this kind nepenthe and forget this lost Lenore!”</PoemLine>
-      <PoemLine>            Quoth the Raven “Nevermore.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:15">
-      <PoemLine>    “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!—</PoemLine>
-      <PoemLine>Whether Tempter sent, or whether tempest tossed thee here ashore,</PoemLine>
-      <PoemLine>    Desolate yet all undaunted, on this desert land enchanted—</PoemLine>
-      <PoemLine>    On this home by Horror haunted—tell me truly, I implore—</PoemLine>
-      <PoemLine>Is there—is there balm in Gilead?—tell me—tell me, I implore!”</PoemLine>
-      <PoemLine>            Quoth the Raven “Nevermore.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:16">
-      <PoemLine>    “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!</PoemLine>
-      <PoemLine>By that Heaven that bends above us—by that God we both adore—</PoemLine>
-      <PoemLine>    Tell this soul with sorrow laden if, within the distant Aidenn,</PoemLine>
-      <PoemLine>    It shall clasp a sainted maiden whom the angels name Lenore—</PoemLine>
-      <PoemLine>Clasp a rare and radiant maiden whom the angels name Lenore.”</PoemLine>
-      <PoemLine>            Quoth the Raven “Nevermore.”</PoemLine>
-    </Stanza>
-    <Stanza ID="C:17">
-      <PoemLine>    “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting—</PoemLine>
-      <PoemLine>“Get thee back into the tempest and the Night’s Plutonian shore!</PoemLine>
-      <PoemLine>    Leave no black plume as a token of that lie thy soul hath spoken!</PoemLine>
-      <PoemLine>    Leave my loneliness unbroken!—quit the bust above my door!</PoemLine>
-      <PoemLine>Take thy beak from out my heart, and take thy form from off my door!”</PoemLine>
-      <PoemLine>            Quoth the Raven “Nevermore.”</PoemLine>
-    </Stanza>
-  </Poem>
-  <Poem ID="D">
-    <PoemTitle>Green Eggs and Ham</PoemTitle>
-    <PoemAuthor>Doctor Seuss</PoemAuthor>
-    <Stanza ID="D:1">
-      <PoemLine>I am Daniel</PoemLine>
-    </Stanza>
-    <Stanza ID="D:2">
-      <PoemLine>I am Sam</PoemLine>
-      <PoemLine>Sam I am</PoemLine>
-    </Stanza>
-    <Stanza ID="D:3">
-      <PoemLine>That Sam-I-am</PoemLine>
-      <PoemLine>That Sam-I-am!</PoemLine>
-      <PoemLine>I do not like</PoemLine>
-      <PoemLine>That Sam-I-am</PoemLine>
-    </Stanza>
-    <Stanza ID="D:4">
-      <PoemLine>Do you like</PoemLine>
-      <PoemLine>Green eggs and ham</PoemLine>
-    </Stanza>
-    <Stanza ID="D:5">
-      <PoemLine>I do not like them,</PoemLine>
-      <PoemLine>Sam-I-am.</PoemLine>
-      <PoemLine>I do not like</PoemLine>
-      <PoemLine>Green eggs and ham.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:6">
-      <PoemLine>Would you like them</PoemLine>
-      <PoemLine>Here or there?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:7">
-      <PoemLine>I would not like them</PoemLine>
-      <PoemLine>Here or there.</PoemLine>
-      <PoemLine>I would not like them</PoemLine>
-      <PoemLine>Anywhere.</PoemLine>
-      <PoemLine>I do not like</PoemLine>
-      <PoemLine>Green eggs and ham.</PoemLine>
-      <PoemLine>I do not like them,</PoemLine>
-      <PoemLine>Sam-I-am</PoemLine>
-    </Stanza>
-    <Stanza ID="D:8">
-      <PoemLine>Would you like them</PoemLine>
-      <PoemLine>In a house?</PoemLine>
-      <PoemLine>Would you like them</PoemLine>
-      <PoemLine>With a mouse?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:9">
-      <PoemLine>I do not like them</PoemLine>
-      <PoemLine>In a house.</PoemLine>
-      <PoemLine>I do not like them</PoemLine>
-      <PoemLine>With a mouse.</PoemLine>
-      <PoemLine>I do not like them</PoemLine>
-      <PoemLine>Here or there.</PoemLine>
-      <PoemLine>I do not like them</PoemLine>
-      <PoemLine>Anywhere.</PoemLine>
-      <PoemLine>I do not like green eggs and ham.</PoemLine>
-      <PoemLine>I do not like them, Sam-I-am.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:10">
-      <PoemLine>Would you eat them</PoemLine>
-      <PoemLine>In a box?</PoemLine>
-      <PoemLine>Would you eat them</PoemLine>
-      <PoemLine>With a fox?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:11">
-      <PoemLine>Not in a box.</PoemLine>
-      <PoemLine>Not with a fox.</PoemLine>
-      <PoemLine>Not in a house.</PoemLine>
-      <PoemLine>Not with a mouse.</PoemLine>
-      <PoemLine>I would not eat them here or there.</PoemLine>
-      <PoemLine>I would not eat them anywhere.</PoemLine>
-      <PoemLine>I would not eat green eggs and ham.</PoemLine>
-      <PoemLine>I do not like them, Sam-I-am.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:12">
-      <PoemLine>Would you? Could you?</PoemLine>
-      <PoemLine>In a car?</PoemLine>
-      <PoemLine>Eat them! Eat them!</PoemLine>
-      <PoemLine>Here they are.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:13">
-      <PoemLine>I would not,</PoemLine>
-      <PoemLine>Could not,</PoemLine>
-      <PoemLine>In a car</PoemLine>
-    </Stanza>
-    <Stanza ID="D:14">
-      <PoemLine>You may like them.</PoemLine>
-      <PoemLine>You will see.</PoemLine>
-      <PoemLine>You may like them</PoemLine>
-      <PoemLine>In a tree?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:15">
-      <PoemLine>I would not, could not in a tree.</PoemLine>
-      <PoemLine>Not in a car! You let me be.</PoemLine>
-      <PoemLine>I do not like them in a box.</PoemLine>
-      <PoemLine>I do not like them with a fox</PoemLine>
-      <PoemLine>I do not like them in a house</PoemLine>
-      <PoemLine>I do not like them with a mouse</PoemLine>
-      <PoemLine>I do not like them here or there.</PoemLine>
-      <PoemLine>I do not like them anywhere.</PoemLine>
-      <PoemLine>I do not like green eggs and ham.</PoemLine>
-      <PoemLine>I do not like them, Sam-I-am.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:16">
-      <PoemLine>A train! A train!</PoemLine>
-      <PoemLine>A train! A train!</PoemLine>
-      <PoemLine>Could you, would you</PoemLine>
-      <PoemLine>On a train?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:17">
-      <PoemLine>Not on a train! Not in a tree!</PoemLine>
-      <PoemLine>Not in a car! Sam! Let me be!</PoemLine>
-      <PoemLine>I would not, could not, in a box.</PoemLine>
-      <PoemLine>I could not, would not, with a fox.</PoemLine>
-      <PoemLine>I will not eat them with a mouse</PoemLine>
-      <PoemLine>I will not eat them in a house.</PoemLine>
-      <PoemLine>I will not eat them here or there.</PoemLine>
-      <PoemLine>I will not eat them anywhere.</PoemLine>
-      <PoemLine>I do not like them, Sam-I-am.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:18">
-      <PoemLine>Say!</PoemLine>
-      <PoemLine>In the dark?</PoemLine>
-      <PoemLine>Here in the dark!</PoemLine>
-      <PoemLine>Would you, could you, in the dark?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:19">
-      <PoemLine>I would not, could not,</PoemLine>
-      <PoemLine>In the dark.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:20">
-      <PoemLine>Would you, could you,</PoemLine>
-      <PoemLine>In the rain?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:21">
-      <PoemLine>I would not, could not, in the rain.</PoemLine>
-      <PoemLine>Not in the dark. Not on a train,</PoemLine>
-      <PoemLine>Not in a car, Not in a tree.</PoemLine>
-      <PoemLine>I do not like them, Sam, you see.</PoemLine>
-      <PoemLine>Not in a house. Not in a box.</PoemLine>
-      <PoemLine>Not with a mouse. Not with a fox.</PoemLine>
-      <PoemLine>I will not eat them here or there.</PoemLine>
-      <PoemLine>I do not like them anywhere!</PoemLine>
-    </Stanza>
-    <Stanza ID="D:22">
-      <PoemLine>You do not like</PoemLine>
-      <PoemLine>Green eggs and ham?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:23">
-      <PoemLine>I do not</PoemLine>
-      <PoemLine>Like them,</PoemLine>
-      <PoemLine>Sam-I-am.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:24">
-      <PoemLine>Could you, would you,</PoemLine>
-      <PoemLine>With a goat?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:25">
-      <PoemLine>I would not,</PoemLine>
-      <PoemLine>Could not.</PoemLine>
-      <PoemLine>With a goat!</PoemLine>
-    </Stanza>
-    <Stanza ID="D:26">
-      <PoemLine>Would you, could you,</PoemLine>
-      <PoemLine>On a boat?</PoemLine>
-    </Stanza>
-    <Stanza ID="D:27">
-      <PoemLine>I could not, would not, on a boat.</PoemLine>
-      <PoemLine>I will not, will not, with a goat.</PoemLine>
-      <PoemLine>I will not eat them in the rain.</PoemLine>
-      <PoemLine>I will not eat them on a train.</PoemLine>
-      <PoemLine>Not in the dark! Not in a tree!</PoemLine>
-      <PoemLine>Not in a car! You let me be!</PoemLine>
-      <PoemLine>I do not like them in a box.</PoemLine>
-      <PoemLine>I do not like them with a fox.</PoemLine>
-      <PoemLine>I will not eat them in a house.</PoemLine>
-      <PoemLine>I do not like them with a mouse.</PoemLine>
-      <PoemLine>I do not like them here or there.</PoemLine>
-      <PoemLine>I do not like them anywhere!</PoemLine>
-    </Stanza>
-    <Stanza ID="D:28">
-      <PoemLine>I do not like</PoemLine>
-      <PoemLine>Green eggs</PoemLine>
-      <PoemLine>And ham!</PoemLine>
-    </Stanza>
-    <Stanza ID="D:29">
-      <PoemLine>I do not like them,</PoemLine>
-      <PoemLine>Sam-I-am.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:30">
-      <PoemLine>You do not like them.</PoemLine>
-      <PoemLine>So you say.</PoemLine>
-      <PoemLine>Try them! Try them!</PoemLine>
-      <PoemLine>And you may.</PoemLine>
-      <PoemLine>Try them and you may I say.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:31">
-      <PoemLine>Sam!</PoemLine>
-      <PoemLine>If you will let me be,</PoemLine>
-      <PoemLine>I will try them.</PoemLine>
-      <PoemLine>You will see.</PoemLine>
-    </Stanza>
-    <Stanza ID="D:32">
-      <PoemLine>Say!</PoemLine>
-      <PoemLine>I like green eggs and ham!</PoemLine>
-      <PoemLine>I do! I like them, Sam-I-am!</PoemLine>
-      <PoemLine>And I would eat them in a boat!</PoemLine>
-      <PoemLine>And I would eat them with a goat.</PoemLine>
-      <PoemLine>And I will eat them in the rain.</PoemLine>
-      <PoemLine>And in the dark. And on a train.</PoemLine>
-      <PoemLine>And in a car. And in a tree.</PoemLine>
-      <PoemLine>They are so good so good you see!</PoemLine>
-    </Stanza>
-    <Stanza ID="D:33">
-      <PoemLine>So I will eat them in a box.</PoemLine>
-      <PoemLine>And I will eat them with a fox.</PoemLine>
-      <PoemLine>And I will eat them in a house.</PoemLine>
-      <PoemLine>And I will eat them with a mouse.</PoemLine>
-      <PoemLine>And I will eat them here and there.</PoemLine>
-      <PoemLine>Say! I will eat them anywhere!</PoemLine>
-    </Stanza>
-  </Poem>
-</PoemSet>
+<DocumentSet>
+  <Document ID="A">
+    <DocumentTitle>Richard Cory</DocumentTitle>
+    <DocumentAuthor>Edwin Arlington Robinson</DocumentAuthor>
+    <DocumentSection ID="A:1">
+      <DocumentLine>Whenever Richard Cory went down town,</DocumentLine>
+      <DocumentLine>We people on the pavement looked at him;</DocumentLine>
+      <DocumentLine>He was a gentleman from sole to crown,</DocumentLine>
+      <DocumentLine>Clean favored, and imperially slim.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="A:2">
+      <DocumentLine>And he was always quietly arrayed,</DocumentLine>
+      <DocumentLine>And he was always human when he talked;</DocumentLine>
+      <DocumentLine>But still he fluttered pulses when he said,</DocumentLine>
+      <DocumentLine>"Good-morning," and he glittered when he walked.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="A:3">
+      <DocumentLine>And he was rich - yes, richer than a king,</DocumentLine>
+      <DocumentLine>And admirably schooled in every grace;</DocumentLine>
+      <DocumentLine>In fine, we thought that he was everything</DocumentLine>
+      <DocumentLine>To make us wish that we were in his place.</DocumentLine>
+    </DocumentSection>
+  </Document>
+  <Document ID="B">
+    <DocumentTitle>The Charge of the Light Brigade</DocumentTitle>
+    <DocumentAuthor>Alfred Tennyson</DocumentAuthor>
+    <DocumentSection ID="B:1">
+      <DocumentLine>Half a league, half a league,</DocumentLine>
+      <DocumentLine>Half a league onward,</DocumentLine>
+      <DocumentLine>All in the valley of Death</DocumentLine>
+      <DocumentLine>Rode the six hundred.</DocumentLine>
+      <DocumentLine>"Forward, the Light Brigade!</DocumentLine>
+      <DocumentLine>"Charge for the guns!" he said:</DocumentLine>
+      <DocumentLine>Into the valley of Death</DocumentLine>
+      <DocumentLine>Rode the six hundred.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="B:2">
+      <DocumentLine>"Forward, the Light Brigade!"</DocumentLine>
+      <DocumentLine>Was there a man dismay'd?</DocumentLine>
+      <DocumentLine>Not tho' the soldier knew</DocumentLine>
+      <DocumentLine>Someone had blunder'd:</DocumentLine>
+      <DocumentLine>Theirs not to make reply,</DocumentLine>
+      <DocumentLine>Theirs not to reason why,</DocumentLine>
+      <DocumentLine>Theirs but to do and die:</DocumentLine>
+      <DocumentLine>Into the valley of Death</DocumentLine>
+      <DocumentLine>Rode the six hundred.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="B:3">
+      <DocumentLine>Cannon to right of them,</DocumentLine>
+      <DocumentLine>Cannon to left of them,</DocumentLine>
+      <DocumentLine>Cannon in front of them</DocumentLine>
+      <DocumentLine>Volley'd and thunder'd;</DocumentLine>
+      <DocumentLine>Storm'd at with shot and shell,</DocumentLine>
+      <DocumentLine>Boldly they rode and well,</DocumentLine>
+      <DocumentLine>Into the jaws of Death,</DocumentLine>
+      <DocumentLine>Into the mouth of Hell</DocumentLine>
+      <DocumentLine>Rode the six hundred.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="B:4">
+      <DocumentLine>Flash'd all their sabres bare,</DocumentLine>
+      <DocumentLine>Flash'd as they turn'd in air,</DocumentLine>
+      <DocumentLine>Sabring the gunners there,</DocumentLine>
+      <DocumentLine>Charging an army, while</DocumentLine>
+      <DocumentLine>All the world wonder'd:</DocumentLine>
+      <DocumentLine>Plunged in the battery-smoke</DocumentLine>
+      <DocumentLine>Right thro' the line they broke;</DocumentLine>
+      <DocumentLine>Cossack and Russian</DocumentLine>
+      <DocumentLine>Reel'd from the sabre stroke</DocumentLine>
+      <DocumentLine>Shatter'd and sunder'd.</DocumentLine>
+      <DocumentLine>Then they rode back, but not</DocumentLine>
+      <DocumentLine>Not the six hundred.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="B:5">
+      <DocumentLine>Cannon to right of them,</DocumentLine>
+      <DocumentLine>Cannon to left of them,</DocumentLine>
+      <DocumentLine>Cannon behind them</DocumentLine>
+      <DocumentLine>Volley'd and thunder'd;</DocumentLine>
+      <DocumentLine>Storm'd at with shot and shell,</DocumentLine>
+      <DocumentLine>While horse and hero fell,</DocumentLine>
+      <DocumentLine>They that had fought so well</DocumentLine>
+      <DocumentLine>Came thro' the jaws of Death</DocumentLine>
+      <DocumentLine>Back from the mouth of Hell,</DocumentLine>
+      <DocumentLine>All that was left of them,</DocumentLine>
+      <DocumentLine>Left of six hundred.</DocumentLine>
+    </DocumentSection>
+  </Document>
+  <Document ID="C">
+    <DocumentTitle>The Declaration of Independence</DocumentTitle>
+    <DocumentAuthor>United States Congress of July 4th, 1776</DocumentAuthor>
+    <DocumentSection ID="C:1">
+      <DocumentLine>The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:2">
+      <DocumentLine>We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.--Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government. The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:3">
+      <DocumentLine>He has refused his Assent to Laws, the most wholesome and necessary for the public good.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:4">
+      <DocumentLine>He has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected to attend to them.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:5">
+      <DocumentLine>He has refused to pass other Laws for the accommodation of large districts of people, unless those people would relinquish the right of Representation in the Legislature, a right inestimable to them and formidable to tyrants only.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:6">
+      <DocumentLine>He has called together legislative bodies at places unusual, uncomfortable, and distant from the depository of their public Records, for the sole purpose of fatiguing them into compliance with his measures.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:7">
+      <DocumentLine>He has dissolved Representative Houses repeatedly, for opposing with manly firmness his invasions on the rights of the people.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:8">
+      <DocumentLine>He has refused for a long time, after such dissolutions, to cause others to be elected; whereby the Legislative powers, incapable of Annihilation, have returned to the People at large for their exercise; the State remaining in the mean time exposed to all the dangers of invasion from without, and convulsions within.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:9">
+      <DocumentLine>He has endeavoured to prevent the population of these States; for that purpose obstructing the Laws for Naturalization of Foreigners; refusing to pass others to encourage their migrations hither, and raising the conditions of new Appropriations of Lands.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:10">
+      <DocumentLine>He has obstructed the Administration of Justice, by refusing his Assent to Laws for establishing Judiciary powers.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:11">
+      <DocumentLine>He has made Judges dependent on his Will alone, for the tenure of their offices, and the amount and payment of their salaries.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:12">
+      <DocumentLine>He has erected a multitude of New Offices, and sent hither swarms of Officers to harrass our people, and eat out their substance.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:13">
+      <DocumentLine>He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:14">
+      <DocumentLine>He has affected to render the Military independent of and superior to the Civil power.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:15">
+      <DocumentLine>He has combined with others to subject us to a jurisdiction foreign to our constitution, and unacknowledged by our laws; giving his Assent to their Acts of pretended Legislation:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:16">
+      <DocumentLine>For Quartering large bodies of armed troops among us:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:17">
+      <DocumentLine>For protecting them, by a mock Trial, from punishment for any Murders which they should commit on the Inhabitants of these States:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:18">
+      <DocumentLine>For cutting off our Trade with all parts of the world:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:19">
+      <DocumentLine>For imposing Taxes on us without our Consent:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:20">
+      <DocumentLine>For depriving us in many cases, of the benefits of Trial by Jury:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:21">
+      <DocumentLine>For transporting us beyond Seas to be tried for pretended offences</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:22">
+      <DocumentLine>For abolishing the free System of English Laws in a neighbouring Province, establishing therein an Arbitrary government, and enlarging its Boundaries so as to render it at once an example and fit instrument for introducing the same absolute rule into these Colonies:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:23">
+      <DocumentLine>For taking away our Charters, abolishing our most valuable Laws, and altering fundamentally the Forms of our Governments:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:24">
+      <DocumentLine>For suspending our own Legislatures, and declaring themselves invested with power to legislate for us in all cases whatsoever.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:25">
+      <DocumentLine>He has abdicated Government here, by declaring us out of his Protection and waging War against us.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:26">
+      <DocumentLine>He has plundered our seas, ravaged our Coasts, burnt our towns, and destroyed the lives of our people.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:27">
+      <DocumentLine>He is at this time transporting large Armies of foreign Mercenaries to compleat the works of death, desolation and tyranny, already begun with circumstances of Cruelty &amp; perfidy scarcely paralleled in the most barbarous ages, and totally unworthy the Head of a civilized nation.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:28">
+      <DocumentLine>He has constrained our fellow Citizens taken Captive on the high Seas to bear Arms against their Country, to become the executioners of their friends and Brethren, or to fall themselves by their Hands.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:29">
+      <DocumentLine>He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:30">
+      <DocumentLine>In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A Prince whose character is thus marked by every act which may define a Tyrant, is unfit to be the ruler of a free people.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:31">
+      <DocumentLine>Nor have We been wanting in attentions to our Brittish brethren. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpations, which, would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.</DocumentLine>
+    </DocumentSection>
+  </Document>
+  <Document ID="D">
+    <DocumentTitle>The Gettysburg Address</DocumentTitle>
+    <DocumentAuthor>Abraham Lincoln</DocumentAuthor>
+    <DocumentSection ID="D:1">
+      <DocumentLine>Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="D:2">
+      <DocumentLine>Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.</DocumentLine>
+    </DocumentSection>
+  </Document>
+</DocumentSet>
