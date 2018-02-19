@@ -1,9 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+ * Student: Adam Wight
+ * Class: CIS274M XML Programming
+ * Instructor: Ed Cauthorn
+ * Due date: Monday, February 19th
+ */
+
+using System;
 using System.Xml.Linq;
 
 namespace CIS274_XML_Programming_Project
@@ -21,8 +23,8 @@ namespace CIS274_XML_Programming_Project
         /// </summary>
         public static void CreateDocument()
         {
-            var sourcePath = @"H:\Projects\School\SPRING 2018\CIS274 XML Programming\Resources\Documents";
-            var targetPath = @"H:\Projects\School\SPRING 2018\CIS274 XML Programming\ScriptOutput\week4.xml";
+            var sourcePath = @"H:\Projects\School\CIS274 XML Programming\Resources\Documents";
+            var targetPath = @"H:\Projects\School\CIS274 XML Programming\ScriptOutput\week4.xml";
             var doc = new XDocument();
             var converter = new DocumentConverter(sourcePath);
             doc.Add(converter.ConvertFilesToDocumentSet());
