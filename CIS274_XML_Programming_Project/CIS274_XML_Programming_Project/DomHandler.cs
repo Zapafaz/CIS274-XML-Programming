@@ -1,8 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+ * Student: Adam Wight
+ * Class: CIS274M XML Programming
+ * Instructor: Ed Cauthorn
+ */
+
 using System.Xml;
 
 namespace CIS274_XML_Programming_Project
