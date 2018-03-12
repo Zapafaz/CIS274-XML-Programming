@@ -1,9 +1,12 @@
-using System;
+/*
+ * Student: Adam Wight
+ * Class: CIS274M XML Programming
+ * Instructor: Ed Cauthorn
+ * Due date: Monday, February 19th
+ */
+
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml.Linq;
 
 namespace CIS274_XML_Programming_Project
