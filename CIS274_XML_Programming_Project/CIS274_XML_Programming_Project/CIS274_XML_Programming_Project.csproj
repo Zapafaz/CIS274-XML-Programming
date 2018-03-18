@@ -32,6 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -42,12 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DocumentConverter.cs" />
+    <Compile Include="Conversion\CsvConverter.cs" />
+    <Compile Include="Conversion\XmlConverter.cs" />
+    <Compile Include="Conversion\TextConverter.cs" />
+    <Compile Include="Conversion\FileAggregator.cs" />
     <Compile Include="DomHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SetExtensions.cs" />
     <Compile Include="WebHandler.cs" />
-    <Compile Include="WikiConvert.cs" />
+    <Compile Include="WikiTextPuller.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

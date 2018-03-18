@@ -5,35 +5,76 @@
  */
 
 using System;
-using System.Xml.Linq;
+using System.IO;
+using System.Linq;
+using System.Text;
 using System.Xml;
+using System.Xml.Linq;
+using CIS274_XML_Programming_Project.Conversion;
 
 namespace CIS274_XML_Programming_Project
 {
     class Program
     {
-        private static string outputPath = @"H:\Projects\School\CIS274 XML Programming\ScriptOutput\week7.xml";
-        private static string documentsPath = @"H:\Projects\School\CIS274 XML Programming\Resources\Documents";
+        private static string outputPath = @"H:\Projects\School\CIS274 XML Programming\ScriptOutput\week8.xml";
+        private static string csvFolderPath = @"H:\Projects\School\CIS274 XML Programming\Resources\CSV";
+        private static string textFolderPath = @"H:\Projects\School\CIS274 XML Programming\Resources\Text";
 
         private static string targetNewPoemPath = @"H:\Projects\School\CIS274 XML Programming\ScriptOutput\";
 
+        internal static string[] supportedConversionFormats = { "csv", "txt" };
+
         static void Main(string[] args)
         {
-            // GetNewPoemFromWeb();
-            // CreateDocument();
-            RemoveDocumentsViaDom(new string[] { "E", "Richard Cory"});
+            CreateDocument(".csv", csvFolderPath);
             ContinuePrompt();
         }
 
         /// <summary>
         /// Creates an XDocument with a set of documents from the documents folder and saves it to the script output folder.
         /// </summary>
-        public static void CreateDocument()
+        public static void CreateDocument(string extension, string folder)
         {
-            var doc = new XDocument();
-            var converter = new DocumentConverter(documentsPath);
-            doc.Add(converter.ConvertFilesToDocumentSet());
-            doc.Save(outputPath);
+            try
+            {
+                string[] files = Directory.GetFiles(folder);
+                foreach (string file in files)
+                {
+                    if (Path.HasExtension(file))
+                    {
+                        string pathExt = Path.GetExtension(file);
+                        if (pathExt == extension || pathExt == $".{extension}")
+                        {
+                            var aggregator = new FileAggregator(folder);
+                            XElement rootElement;
+                            XmlConverter converter;
+
+                            switch (extension)
+                            {
+                                case ".csv":
+                                    rootElement = new XElement("SheetSet");
+                                    converter = new CsvConverter();
+                                    break;
+                                case ".txt":
+                                    rootElement = new XElement("DocumentSet");
+                                    converter = new TextConverter();
+                                    break;
+                                default:
+                                    throw new NotSupportedException($"{extension} is not a supported file format\r\n" +
+                                                                    $"Make sure only files of ONE of the following formats is in the folder: {supportedConversionFormats.ShowElements()}.");
+                            }
+
+                            var doc = new XDocument(rootElement);
+                            doc.Add(aggregator.ConvertFilesToXml(rootElement, converter));
+                            doc.Save(outputPath);
+                        }
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
         }
 
         /// <summary>
@@ -43,7 +84,7 @@ namespace CIS274_XML_Programming_Project
         {
             var handler = new WebHandler();
             handler.GetResponse(handler.SendRequest(@"https://en.wikisource.org/wiki/Ozymandias_(Shelley)", "GET"));
-            var converter = new WikiConvert();
+            var converter = new WikiTextPuller();
             converter.ConvertWikiPoemToPlainText(handler.SavedResponse, targetNewPoemPath);
         }
 
@@ -54,8 +95,8 @@ namespace CIS274_XML_Programming_Project
         public static void RemoveDocumentsViaDom(string[] identifiers)
         {
             var doc = new XmlDocument();
-            string path = @"H:\Projects\School\CIS274 XML Programming\Resources\XML\week6.xml";
-            doc.Load(path);
+            string inputPath = @"H:\Projects\School\CIS274 XML Programming\Resources\XML\week6.xml";
+            doc.Load(inputPath);
 
             XmlNode root = doc.DocumentElement;
 
@@ -70,7 +111,7 @@ namespace CIS274_XML_Programming_Project
                 }
                 else
                 {
-                    Console.WriteLine($"Could not find any matches to ID: {id} in {path}");
+                    Console.WriteLine($"Could not find any matches to ID: {id} in {inputPath}");
                 }
             }
 

@@ -1,0 +1,274 @@
+BLDG,RM,CP,SUBJ,CRSE,SECT,TAG,TAG4,1,EZTRN,DEVL,ONLINE,RUNSTART,BTC,ATTR,DEPT,TITLE,CRN,PTRM,SCHD,BEGINDATE,ENDDATE,CRDT_HRS,CBILLHRS,CLABHRS,CLECHRS,COURSE_COST,BEGIN,END,SUN,MON,TUE,WED,THU,FRI,SAT,MAX,ACTL,ID,LNAME,FNAME,EMAIL,STAFF_TYPE
+MAUTO,1,MCC,AUTO,1032M,GS,,,2,,,,,,3D,3AGN,Brake Systems Global/Sub,34033,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,M,,W,,,,20,0,A03003644,Lott,Robert,blott@ccsnh.edu,3FTF
+MAUTO,1,MCC,AUTO,1032M,MCP,,,3,,,,,,3D,3AGN,Brake Systems MCAP,34032,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,,T,,R,,,20,0,A03060141,Mikonis,Todd,tmikonis@ccsnh.edu,3FTF
+MAUTO,101,MCC,AUTO,1031M,AML,,,4,,,,,,3D,3AGN,IC Engine and Systems AUDI/MLR,34031,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,,T,,R,,,20,0,A03094550,Bellerose,Marc,mbellerose@ccsnh.edu,3FTF
+MAUTO,101,MCC,AUTO,1031M,GS,,,5,,,,,,3D,3AGN,IC Engine and Systems Global/S,34030,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,,T,,,F,,20,0,A07013170,Christie,Scott,schristie@ccsnh.edu,3ADJ
+MAUTO,101,MCC,AUTO,1031M,MCP,,,6,,,,,,3D,3AGN,IC Engine and Systems MCAP,33974,37,C,9-May-18,30-Jun-18,4,4,6,2,1124,8:00 AM,4:30 PM,,M,,W,,,,20,0,A03060141,Mikonis,Todd,tmikonis@ccsnh.edu,3FTF
+MAUTO,101,MCC,AUTO,1032M,AML,,,7,,,,,,3D,3AGN,Brake Systems MLR/AUDI,34034,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,M,,,,F,,20,0,A03059528,Paras,Mathew,mparas@ccsnh.edu,3FTF
+MAUTO,101,MCC,AUTO,1032M,GS,,,8,,,,,,3D,3AGN,Brake Systems Global/Sub,34033,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,M,,W,,,,20,0,A03003644,Lott,Robert,blott@ccsnh.edu,3FTF
+MAUTO,101,MCC,AUTO,1032M,MCP,,,9,,,,,,3D,3AGN,Brake Systems MCAP,34032,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,,T,,R,,,20,0,A03060141,Mikonis,Todd,tmikonis@ccsnh.edu,3FTF
+MAUTO,101,MCC,AUTO,105M,A,,,10,,,,,,3E,3AGN,Automotive Engines,33227,31,C,14-May-18,4-Aug-18,3,3,3,2,788,7:20 PM,9:50 PM,,M,,W,,,,20,0,A03094554,Horne,Francis,fhorne@ccsnh.edu,3ADJ
+MAUTO,101,MCC,AUTO,107M,A,,,11,,,,,,3E,3AGN,Automotive Climate Control,33228,31,C,14-May-18,4-Aug-18,3,3,3,2,788,7:20 PM,9:50 PM,,,T,,R,,,20,0,A03067303,Horan,Richard,rhoran@ccsnh.edu,3ADJ
+MAUTO,119,MCC,AUTO,1031M,AML,,,12,,,,,,3D,3AGN,IC Engine and Systems AUDI/MLR,34031,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,,T,,R,,,20,0,A03094550,Bellerose,Marc,mbellerose@ccsnh.edu,3FTF
+MAUTO,119,MCC,AUTO,1031M,GS,,,13,,,,,,3D,3AGN,IC Engine and Systems Global/S,34030,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,,T,,,F,,20,0,A07013170,Christie,Scott,schristie@ccsnh.edu,3ADJ
+MAUTO,119,MCC,AUTO,1031M,MCP,,,14,,,,,,3D,3AGN,IC Engine and Systems MCAP,33974,37,C,9-May-18,30-Jun-18,4,4,6,2,1124,8:00 AM,4:30 PM,,M,,W,,,,20,0,A03060141,Mikonis,Todd,tmikonis@ccsnh.edu,3FTF
+MAUTO,119,MCC,AUTO,1032M,AML,,,15,,,,,,3D,3AGN,Brake Systems MLR/AUDI,34034,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,M,,,,F,,20,0,A03059528,Paras,Mathew,mparas@ccsnh.edu,3FTF
+MAUTO,119,MCC,AUTO,1032M,GS,,,16,,,,,,3D,3AGN,Brake Systems Global/Sub,34033,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,M,,W,,,,20,0,A03003644,Lott,Robert,blott@ccsnh.edu,3FTF
+MAUTO,119,MCC,AUTO,1032M,MCP,,,17,,,,,,3D,3AGN,Brake Systems MCAP,34032,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,,T,,R,,,20,0,A03060141,Mikonis,Todd,tmikonis@ccsnh.edu,3FTF
+MAUTO,2,MCC,AUTO,1031M,MCP,,,18,,,,,,3D,3AGN,IC Engine and Systems MCAP,33974,37,C,9-May-18,30-Jun-18,4,4,6,2,1124,8:00 AM,4:30 PM,,M,,W,,,,20,0,A03060141,Mikonis,Todd,tmikonis@ccsnh.edu,3FTF
+MAUTO,2,MCC,AUTO,105M,A,,,19,,,,,,3E,3AGN,Automotive Engines,33227,31,C,14-May-18,4-Aug-18,3,3,3,2,788,5:30 PM,7:10 PM,,M,,W,,,,20,0,A03094554,Horne,Francis,fhorne@ccsnh.edu,3ADJ
+MAUTO,2,MCC,AUTO,107M,A,,,20,,,,,,3E,3AGN,Automotive Climate Control,33228,31,C,14-May-18,4-Aug-18,3,3,3,2,788,5:30 PM,7:10 PM,,,T,,R,,,20,0,A03067303,Horan,Richard,rhoran@ccsnh.edu,3ADJ
+MAUTO,3,MCC,AUTO,1031M,AML,,,21,,,,,,3D,3AGN,IC Engine and Systems AUDI/MLR,34031,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,,T,,R,,,20,0,A03094550,Bellerose,Marc,mbellerose@ccsnh.edu,3FTF
+MAUTO,3,MCC,AUTO,1032M,AML,,,22,,,,,,3D,3AGN,Brake Systems MLR/AUDI,34034,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,M,,,,F,,20,0,A03059528,Paras,Mathew,mparas@ccsnh.edu,3FTF
+MAUTO,4,MCC,AUTO,1031M,GS,,,23,,,,,,3D,3AGN,IC Engine and Systems Global/S,34030,37,C,9-May-18,30-Jun-18,4,4,6,2,1014,8:00 AM,4:30 PM,,,T,,,F,,20,0,A07013170,Christie,Scott,schristie@ccsnh.edu,3ADJ
+MMAIN,100,MCC,ENGL,113M,A,,,24,,,,,,3E,3EGL,Intro to Public Speaking,33289,32,A,14-May-18,7-Jul-18,3,3,,3,678,5:30 PM,8:00 PM,,M,,W,,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,100,MCC,FYE,100M,A,,,25,,,,,,3E,3LBL,First Year Cornerstone,33292,32,A,14-May-18,7-Jul-18,1,1,,1,226,5:30 PM,7:10 PM,,,T,,,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,102,MCC,ADMT,135M,HYB,,,26,,,,,,3E,3AMT,Basic Machining Practices,33373,31,C,14-May-18,4-Aug-18,3,3,5,1,898,5:30 PM,9:40 PM,,M,,,,,,4,0,A07092417,Ely,Edward,eely@ccsnh.edu,3FTF
+MMAIN,102,MCC,ADMT,230M,HYB,,,27,,,,,,3E,3AMT,CAD/CAM for Manufacturing,33370,31,C,14-May-18,4-Aug-18,3,3,3,2,788,5:30 PM,9:40 PM,,,,,R,,,4,0,A05051903,Talbot,Jeffrey,jtalbot@ccsnh.edu,3ADJ
+MMAIN,110,MCC,ARTS,123M,1,,,28,,,,,,3D,3FNA,Drawing I,33224,32,C,14-May-18,7-Jul-18,3,3,3,2,788,8:00 AM,12:10 PM,,,T,,R,,,16,0,A03105346,Renfer,William,jrenfer@ccsnh.edu,3ADJ
+MMAIN,110,MCC,ARTS,210M,1,,,29,,,,,,3D,3FNA,Painting I,33225,32,C,14-May-18,7-Jul-18,3,3,3,2,788,8:00 AM,12:10 PM,,M,,W,,,,16,0,A03105346,Renfer,William,jrenfer@ccsnh.edu,3ADJ
+MMAIN,129,MCC,HVAC,101M,A,,,30,,,,,,3E,3ACV,Introduction to HVAC Systems,33299,33,A,18-Jun-18,4-Aug-18,3,3,0,3,678,8:00 AM,1:45 PM,,,,,,,S,16,0,A03100782,Strong,Sharon,sstrong@ccsnh.edu,3ADJ
+MMAIN,131,MCC,ASL,110M,1,,,31,,,,,,3D,3FOR,American Sign Language I,33226,32,A,14-May-18,7-Jul-18,3,3,,3,678,8:00 AM,10:30 AM,,M,,W,,,,20,0,A03094543,Jones,Ann,ajones@ccsnh.edu,3A
+MMAIN,131,MCC,MATH,111M,A,,,32,,,,,,3E,3MAT,Numerical Geometry,33305,32,A,14-May-18,7-Jul-18,3,3,,3,678,6:00 PM,8:30 PM,,M,,W,,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,133,MCC,ARTS,110M,A,,,33,,,,,,3E,3FNA,Welding for the Artist,33223,32,C,14-May-18,7-Jul-18,3,3,4,1,998,6:00 PM,9:20 PM,,M,,W,,,,12,0,A03096912,Groleau,Sarah,sgroleau@ccsnh.edu,3ADJ
+MMAIN,133,MCC,WELD,180M,A,,,34,,,,,,3E,3WEL,Basic Arc and Gas,33418,32,C,14-May-18,7-Jul-18,2,2,3,1,662,7:00 PM,9:30 PM,,,T,,R,,,12,0,A03115922,Winter,Daniel,dwinter@ccsnh.edu,3ADJ
+MMAIN,133,MCC,WELD,181M,SAT,,,35,,,,,,3E,3WEL,Intermediate Arc and Gas,33419,32,C,14-May-18,7-Jul-18,2,2,3,1,662,12:50 PM,3:20 PM,,,,,,,S,12,0,A00555466,Merrill,Joshua,jpmerrill@ccsnh.edu,3FTF
+MMAIN,133,MCC,WELD,181M,SAT,,,36,,,,,,3E,3WEL,Intermediate Arc and Gas,33419,32,C,14-May-18,7-Jul-18,2,2,3,1,662,9:50 AM,12:20 PM,,,,,,,S,12,0,A00555466,Merrill,Joshua,jpmerrill@ccsnh.edu,3FTF
+MMAIN,135,MCC,HVAC,110M,A,,,37,,,,,,3E,3ACV,Related Electricity I Lab,33301,33,B,18-Jun-18,4-Aug-18,1,1,3,,336,7:00 PM,9:55 PM,,M,,W,,,,16,0,A03100462,Wrona,Daniel,dwrona@ccsnh.edu,3ADJ
+MMAIN,207,MCC,HVAC,109M,A,,,38,,,,,,3E,3ACV,Related Electricity I Theory,33300,33,A,18-Jun-18,4-Aug-18,3,3,0,3,678,4:00 PM,6:55 PM,,M,,W,,,,16,0,A03100462,Wrona,Daniel,dwrona@ccsnh.edu,3ADJ
+MMAIN,207,MCC,HVAC,230M,A,,,39,,,,,,3E,3HTG,Gas Equipment Installation adn Service Theory,33302,31,A,14-May-18,4-Aug-18,4,4,,4,904,5:00 PM,7:15 PM,,,T,,R,,,32,0,A03100462,Wrona,Daniel,dwrona@ccsnh.edu,3ADJ
+MMAIN,215,MCC,ADMT,112M,A,,,40,,,,,,3E,3AMT,Introduction to Engineering Design and Solid Modeling,33899,31,C,14-May-18,4-Aug-18,4,4,3,3,1014,5:30 PM,9:40 PM,,,T,,,,,8,0,A00001497,Faculty,Credit,,
+MMAIN,215,MCC,ADMT,115M,A,,,41,,,,,,3E,3AMT,Engineering Print Reading,33896,31,C,14-May-18,4-Aug-18,3,3,3,2,788,5:30 PM,9:40 PM,,,,W,,,,8,0,A00001497,Faculty,Credit,,
+MMAIN,217,MCC,ADMT,120M,A,,,42,,,,,,3E,3AMT,Motor Control and PLC for Manufacturing,33900,31,C,14-May-18,4-Aug-18,0,0,0,0,110,5:30 PM,9:40 PM,,,T,,,,,0,0,A07110123,Fino,Daniel,dfino@ccsnh.edu,3ADJ
+MMAIN,219,MCC,ADMT,120M,A,,,43,,,,,,3E,3AMT,Motor Control and PLC for Manufacturing,33900,31,C,14-May-18,4-Aug-18,0,0,0,0,110,5:30 PM,9:40 PM,,,T,,,,,0,0,A07110123,Fino,Daniel,dfino@ccsnh.edu,3ADJ
+MMAIN,222,MCC,MATH,090M,1,,,44,,ZZZ,,,,3D,3MAT,Foundations of College Math,33303,31,A,14-May-18,4-Aug-18,3,3,,3,0,11:00 AM,12:40 PM,,M,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,222,MCC,MATH,090M,1,,,45,,ZZZ,,,,3D,3MAT,Foundations of College Math,33303,31,A,14-May-18,4-Aug-18,3,3,,3,678,11:00 AM,12:40 PM,,M,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,222,MCC,MATH,090M,A,,,46,,ZZZ,,,,3E,3MAT,Foundations of College Math,33304,31,A,14-May-18,4-Aug-18,3,3,,3,0,5:30 PM,7:10 PM,,M,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,222,MCC,MATH,090M,A,,,47,,ZZZ,,,,3E,3MAT,Foundations of College Math,33304,31,A,14-May-18,4-Aug-18,3,3,,3,678,5:30 PM,7:10 PM,,M,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,222,MCC,MATH,090M,SAT,,,48,,ZZZ,,,,3E,3MAT,Foundations of College Math,33375,31,A,14-May-18,4-Aug-18,3,3,,3,0,9:00 AM,12:20 PM,,,,,,,S,20,0,A00001497,Faculty,Credit,,
+MMAIN,222,MCC,MATH,090M,SAT,,,49,,ZZZ,,,,3E,3MAT,Foundations of College Math,33375,31,A,14-May-18,4-Aug-18,3,3,,3,678,9:00 AM,12:20 PM,,,,,,,S,20,0,A00001497,Faculty,Credit,,
+MMAIN,225,MCC,ARTS,110M,A,,,50,,,,,,3E,3FNA,Welding for the Artist,33223,32,C,14-May-18,7-Jul-18,3,3,4,1,998,5:00 PM,5:50 PM,,M,,W,,,,12,0,A03096912,Groleau,Sarah,sgroleau@ccsnh.edu,3ADJ
+MMAIN,225,MCC,WELD,180M,A,,,51,,,,,,3E,3WEL,Basic Arc and Gas,33418,32,C,14-May-18,7-Jul-18,2,2,3,1,662,6:00 PM,6:50 PM,,,T,,R,,,12,0,A03115922,Winter,Daniel,dwinter@ccsnh.edu,3ADJ
+MMAIN,225,MCC,WELD,181M,SAT,,,52,,,,,,3E,3WEL,Intermediate Arc and Gas,33419,32,C,14-May-18,7-Jul-18,2,2,3,1,662,8:00 AM,9:40 AM,,,,,,,S,12,0,A00555466,Merrill,Joshua,jpmerrill@ccsnh.edu,3FTF
+MMAIN,231,MCC,ADMT,112M,A,,,53,,,,,,3E,3AMT,Introduction to Engineering Design and Solid Modeling,33899,31,C,14-May-18,4-Aug-18,4,4,3,3,1014,5:30 PM,9:40 PM,,,T,,,,,8,0,A00001497,Faculty,Credit,,
+MMAIN,231,MCC,ADMT,115M,A,,,54,,,,,,3E,3AMT,Engineering Print Reading,33896,31,C,14-May-18,4-Aug-18,3,3,3,2,788,5:30 PM,9:40 PM,,,,W,,,,8,0,A00001497,Faculty,Credit,,
+MMAIN,231,MCC,NCMI,107M,T,,,55,,,,,3B,3B,,Solid Modeling,34102,3W,PE,16-Jul-18,19-Jul-18,0,0,19,5,175,8:45 AM,2:30 PM,,M,T,W,R,,,15,0,A07083864,Xydias,Frank,fxydias@ccsnh.edu,3ADJ
+MMAIN,231,MCC,NCMI,86M,T,,,56,,,,,3B,3B,,STEM Camp,34091,3W,W,23-Jul-18,26-Jul-18,0,0,19,5,175,8:45 AM,2:30 PM,,M,T,W,R,,,15,0,A07083864,Xydias,Frank,fxydias@ccsnh.edu,3ADJ
+MMAIN,231,MCC,NCMI,90M,T,,,57,,,,,3B,3B,,Girl's Career Camp,34095,3W,PE,6-Aug-18,9-Aug-18,0,0,19,5,175,8:45 AM,2:30 PM,,M,T,W,R,,,15,0,A07083864,Xydias,Frank,fxydias@ccsnh.edu,3ADJ
+MMAIN,231,MCC,NCMI,91M,T,,,58,,,,,3B,3B,,Thingamajigs Summer Camp,34088,3W,PE,9-Jul-18,13-Jul-18,0,0,24,6,175,8:45 AM,2:30 PM,,M,T,W,R,F,,16,1,A07083864,Xydias,Frank,fxydias@ccsnh.edu,3ADJ
+MMAIN,235,MCC,CIS,110M,HY1,,,59,,,,,,3D,3CSC,Microsoft Computer Applications I,33267,33,C,18-Jun-18,4-Aug-18,3,3,2,2,788,8:00 AM,11:20 AM,,,,W,,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,235,MCC,CIS,110M,HYA,,,60,,,,,,3E,3CSC,Microsoft Computer Applications I,33269,33,C,18-Jun-18,4-Aug-18,3,3,2,2,788,5:30 PM,8:50 PM,,,,,R,,,22,0,A03094487,Tahir,Adnan,atahir@ccsnh.edu,3ADJ
+MMAIN,235,MCC,CIS,110M,HYB,,,61,,,,,,3E,3CSC,Microsoft Computer Applications I,33411,33,C,18-Jun-18,4-Aug-18,3,3,2,2,788,9:00 AM,12:20 PM,,,,,,,S,23,0,A07083533,Eno,Michael,meno@ccsnh.edu,3ADJ
+MMAIN,235,MCC,CIS,126M,HYB,,,62,,,,,,3E,3CSC,Introduction to Python,33271,32,C,14-May-18,7-Jul-18,3,3,2,2,788,5:30 PM,8:50 PM,,,T,,,,,22,0,A03094533,Cauthorn,Edward,ecauthorn@ccsnh.edu,3FTF
+MMAIN,235,MCC,CIS,220M,HYB,,,63,,,,,,3D,3CSC,Object-Oriented Programming,33436,32,C,14-May-18,7-Jul-18,3,3,2,2,788,1:00 PM,4:20 PM,,,T,,,,,22,0,A03094533,Cauthorn,Edward,ecauthorn@ccsnh.edu,3FTF
+MMAIN,236,MCC,ENGL,110M,1,,,64,,,,,,3D,3EGL,College Composition I,33283,31,A,14-May-18,4-Aug-18,4,4,,4,904,8:00 AM,10:15 AM,,,T,,R,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,236,MCC,ENGL,110M,2,,,65,,,,,,3D,3EGL,College Composition I,33284,31,A,14-May-18,4-Aug-18,4,4,,4,904,11:00 AM,1:15 PM,,M,,W,,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,236,MCC,ENGL,110M,A,,,66,,,,,,3E,3EGL,College Composition I,33285,31,A,14-May-18,4-Aug-18,4,4,,4,904,5:30 PM,7:45 PM,,M,,W,,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,236,MCC,HSV,116M,A,,,67,,,,,,3E,3EBH,Professional Seminar I,33422,33,C,18-Jun-18,4-Aug-18,3,3,3,2,788,5:30 PM,7:25 PM,,,T,,R,,,26,0,A00001497,Faculty,Credit,,
+MMAIN,237,MCC,CYBD,110M,HYB,,,68,,,,,,3D,3CSC,Investgtn & Evidence Recovery,33272,33,C,18-Jun-18,4-Aug-18,4,4,3,3,1014,12:00 PM,2:30 PM,,,T,,,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,237,MCC,CYBD,110M,HYB,,,69,,,,,,3D,3CSC,Investgtn & Evidence Recovery,33272,33,C,18-Jun-18,4-Aug-18,4,4,3,3,1014,9:00 AM,11:30 AM,,,T,,,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,237,MCC,CYBD,230M,HYB,,,70,,,,,,3E,3CSC,Mobile & Emerging Device Analy,33342,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,12:00 PM,2:30 PM,,,,,R,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,237,MCC,CYBD,230M,HYB,,,71,,,,,,3E,3CSC,Mobile & Emerging Device Analy,33342,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,9:00 AM,11:30 AM,,,,,R,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,238,MCC,MATH,171M,A,,,72,,,,,,3E,3MAT,Pre-Calculus,33312,31,A,14-May-18,4-Aug-18,4,4,,4,904,5:30 PM,7:45 PM,,M,,W,,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,238,MCC,NCMI,85M,T,,,73,,,,,3B,3B,,Robotics Camp,34094,3W,PE,30-Jul-18,2-Aug-18,0,0,19,5,175,8:45 AM,2:30 PM,,M,T,W,R,,,15,2,A07083864,Xydias,Frank,fxydias@ccsnh.edu,3ADJ
+MMAIN,238,MCC,SOCI,110M,A,,,74,,,,,,3E,3SSC,Introduction to Sociology,33338,32,A,14-May-18,7-Jul-18,3,3,,3,678,5:30 PM,8:00 PM,,,T,,R,,,26,0,A00001497,Faculty,Credit,,
+MMAIN,243,MCC,EXER,100M,1,,,75,,,,,,3D,3EXS,ACE Personal Trainer Exam Review,33290,3V,A,2-Aug-18,3-Aug-18,1,1,,1,226,1:00 PM,3:40 PM,,,,,R,F,,20,0,A03105916,Cosmo,Robert,rcosmo@ccsnh.edu,3ADJ
+MMAIN,243,MCC,EXER,100M,1,,,76,,,,,,3D,3EXS,ACE Personal Trainer Exam Review,33290,3V,A,2-Aug-18,3-Aug-18,1,1,,1,226,8:00 AM,12:00 PM,,,,,R,F,,20,0,A03105916,Cosmo,Robert,rcosmo@ccsnh.edu,3ADJ
+MMAIN,243,MCC,EXER,213M,1,,,77,,,,,,3D,3EXS,Resistance Training,33421,37,C,9-May-18,30-Jun-18,3,3,3,2,788,8:00 AM,12:10 PM,,M,,W,,,,12,0,A03105916,Cosmo,Robert,rcosmo@ccsnh.edu,3ADJ
+MMAIN,243,MCC,EXER,213M,2,,,78,,,,,,3D,3EXS,Resistance Training,33420,37,C,9-May-18,30-Jun-18,3,3,3,2,788,12:30 PM,4:40 PM,,M,,W,,,,12,0,A03105916,Cosmo,Robert,rcosmo@ccsnh.edu,3ADJ
+MMAIN,246,MCC,NCMI,102M,T,,,79,,,,,3B,3B,,Video Game Animation,34096,3W,PE,9-Jul-18,13-Jul-18,0,0,15,,150,9:00 AM,12:00 PM,,M,T,W,R,F,,12,0,A00000935,Faculty,Non-Credit,,
+MMAIN,246,MCC,NCMI,108M,T,,,80,,,,,3B,3B,,3D Printing Fundamentals,34103,3W,PE,25-Jun-18,29-Jun-18,0,0,15,0,150,9:00 AM,12:00 PM,,M,T,W,R,F,,12,1,A03054983,Larochelle,Daniel,dlarochelle@ccsnh.edu,3FTF
+MMAIN,246,MCC,NCMI,109M,T,,,81,,,,,3B,3B,,VEX IQ Robotics Fundamentals,34104,3W,PE,25-Jun-18,29-Jun-18,0,0,15,,150,1:00 PM,4:00 PM,,M,T,W,R,F,,12,0,A03054983,Larochelle,Daniel,dlarochelle@ccsnh.edu,3FTF
+MMAIN,246,MCC,NCMI,110M,T,,,82,,,,,3B,3B,,App IO:  Make Your First Multiplayer App!,34109,3W,PE,9-Jul-18,13-Jul-18,0,0,15,,150,1:00 PM,4:00 PM,,M,T,W,R,F,,12,1,A00000935,Faculty,Non-Credit,,
+MMAIN,246,MCC,NCMI,111M,T,,,83,,,,,3B,3B,,Advanced 3D Video Game with Unity,34110,3W,PE,16-Jul-18,20-Jul-18,0,0,15,,150,9:00 AM,12:00 PM,,M,T,W,R,F,,12,0,A03054983,Larochelle,Daniel,dlarochelle@ccsnh.edu,3FTF
+MMAIN,246,MCC,NCMI,113M,T,,,84,,,,,3B,3B,,Introduction to Robotics (VEX IQ),34112,3W,PE,6-Aug-18,10-Aug-18,0,0,30,,250,9:00 AM,3:00 PM,,M,T,W,R,F,,12,0,A03054983,Larochelle,Daniel,dlarochelle@ccsnh.edu,3FTF
+MMAIN,246,MCC,NCMI,114M,T,,,85,,,,,3B,3B,,Robotic Sensors and Programming (VEX IQ),34113,3W,PE,13-Aug-18,17-Aug-18,0,0,,30,250,9:00 AM,3:00 PM,,M,T,W,R,F,,12,0,A03054983,Larochelle,Daniel,dlarochelle@ccsnh.edu,3FTF
+MMAIN,246,MCC,NCMI,87M,T,,,86,,,,,3B,3B,,Minecraft Designers,34099,3W,PE,23-Jul-18,27-Jul-18,0,0,15,,150,1:00 PM,4:00 PM,,M,T,W,R,F,,12,0,A00000935,Faculty,Non-Credit,,
+MMAIN,246,MCC,NCMI,89M,T,,,87,,,,,3B,3B,,Minecraft Modders,34098,3W,PE,23-Jul-18,27-Jul-18,0,0,15,,150,9:00 AM,12:00 PM,,M,T,W,R,F,,12,0,A00000935,Faculty,Non-Credit,,
+MMAIN,246,MCC,NCMI,95M,T,,,88,,,,,3B,3B,,App Attack!,34097,3W,PE,16-Jul-18,20-Jul-18,0,0,15,,150,1:00 PM,4:00 PM,,M,T,W,R,F,,12,0,A03054983,Larochelle,Daniel,dlarochelle@ccsnh.edu,3FTF
+MMAIN,246,MCC,NCMI,97M,T,,,89,,,,,3B,3B,,Code Breakers,34101,3W,PE,30-Jul-18,3-Aug-18,0,0,15,,150,9:00 AM,12:00 PM,,M,T,W,R,F,,12,0,A03054983,Larochelle,Daniel,dlarochelle@ccsnh.edu,3FTF
+MMAIN,253,MCC,NCMI,107M,T,,,90,,,,,3B,3B,,Solid Modeling,34102,3W,PE,16-Jul-18,19-Jul-18,0,0,19,5,175,8:45 AM,2:30 PM,,M,T,W,R,,,15,0,A07083864,Xydias,Frank,fxydias@ccsnh.edu,3ADJ
+MMAIN,253,MCC,NCMI,86M,T,,,91,,,,,3B,3B,,STEM Camp,34091,3W,W,23-Jul-18,26-Jul-18,0,0,19,5,175,8:45 AM,2:30 PM,,M,T,W,R,,,15,0,A07083864,Xydias,Frank,fxydias@ccsnh.edu,3ADJ
+MMAIN,253,MCC,NCMI,90M,T,,,92,,,,,3B,3B,,Girl's Career Camp,34095,3W,PE,6-Aug-18,9-Aug-18,0,0,19,5,175,8:45 AM,2:30 PM,,M,T,W,R,,,15,0,A07083864,Xydias,Frank,fxydias@ccsnh.edu,3ADJ
+MMAIN,253,MCC,NCMI,91M,T,,,93,,,,,3B,3B,,Thingamajigs Summer Camp,34088,3W,PE,9-Jul-18,13-Jul-18,0,0,24,6,175,8:45 AM,2:30 PM,,M,T,W,R,F,,16,1,A07083864,Xydias,Frank,fxydias@ccsnh.edu,3ADJ
+MMAIN,255,MCC,ECE,105M,HYB,,,94,,,,,,3E,3ECE,Creative Activities and Curriculum for Early Childhood,33417,32,A,2-Jul-18,2-Jul-18,3,3,,3,678,6:30 PM,9:00 PM,,M,,,,,,22,0,A00001497,Faculty,Credit,,
+MMAIN,255,MCC,ECE,105M,HYB,,,95,,,,,,3E,3ECE,Creative Activities and Curriculum for Early Childhood,33417,32,A,4-Jun-18,4-Jun-18,3,3,,3,678,6:30 PM,9:00 PM,,M,,,,,,22,0,A00001497,Faculty,Credit,,
+MMAIN,255,MCC,ECE,105M,HYB,,,96,,,,,,3E,3ECE,Creative Activities and Curriculum for Early Childhood,33417,32,A,11-Jun-18,11-Jun-18,3,3,,3,678,6:30 PM,9:00 PM,,M,,,,,,22,0,A00001497,Faculty,Credit,,
+MMAIN,255,MCC,ECE,105M,HYB,,,97,,,,,,3E,3ECE,Creative Activities and Curriculum for Early Childhood,33417,32,A,14-May-18,14-May-18,3,3,,3,678,6:30 PM,9:00 PM,,M,,,,,,22,0,A00001497,Faculty,Credit,,
+MMAIN,255,MCC,ECE,105M,HYB,,,98,,,,,,3E,3ECE,Creative Activities and Curriculum for Early Childhood,33417,32,A,18-Jun-18,18-Jun-18,3,3,,3,678,6:30 PM,9:00 PM,,M,,,,,,22,0,A00001497,Faculty,Credit,,
+MMAIN,255,MCC,ECE,105M,HYB,,,99,,,,,,3E,3ECE,Creative Activities and Curriculum for Early Childhood,33417,32,A,21-May-18,21-May-18,3,3,,3,678,6:30 PM,9:00 PM,,M,,,,,,22,0,A00001497,Faculty,Credit,,
+MMAIN,255,MCC,ECE,105M,HYB,,,100,,,,,,3E,3ECE,Creative Activities and Curriculum for Early Childhood,33417,32,A,25-Jun-18,25-Jun-18,3,3,,3,678,6:30 PM,9:00 PM,,M,,,,,,22,0,A00001497,Faculty,Credit,,
+MMAIN,255,MCC,PHYS,136M,A,,,101,,,,,,3E,3PHY,College Physics II,34050,31,C,14-May-18,4-Aug-18,4,0,3,3,110,5:00 PM,8:20 PM,,,T,,R,,,18,0,A00001497,Faculty,Credit,,
+MMAIN,272,MCC,ENGL,113M,2,,,102,,,,,,3D,3EGL,Intro to Public Speaking,33288,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,2:00 PM,4:55 PM,,M,,W,,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,272,MCC,ENGL,210M,A,,,103,,,,,,3E,3EGL,Science Fiction:  Evolution Ethics and Technology,33434,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,5:00 PM,7:55 PM,,,T,,R,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,272,MCC,MATH,145M,1,,,104,,,,,,3D,3MAT,Topics in Applied College Mathematics,33306,32,A,14-May-18,7-Jul-18,4,4,,4,904,11:00 AM,2:20 PM,,,T,,R,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,272,MCC,MATH,204M,A,,,105,,,,,,3E,3MAT,Calculus I,33316,31,A,14-May-18,4-Aug-18,4,4,,4,904,5:30 PM,7:45 PM,,M,,W,,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,274,MCC,ACCT,123M,1,,,106,,,,,,3D,3ACC,Introduction to Accounting and Financial Reporting II,33425,32,A,14-May-18,7-Jul-18,3,3,,3,678,11:00 AM,1:30 PM,,,T,,R,,,28,0,A03116001,Dean,Shawn,sdean@ccsnh.edu,3FTF
+MMAIN,274,MCC,ENGL,200M,1,,,107,,,,,,3D,3EGL,Topics:Heroes/Vilns -Middl Age,33343,32,A,14-May-18,7-Jul-18,3,3,,3,678,2:00 PM,4:30 PM,,M,,W,,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,274,MCC,PHYS,220M,A,,,108,,,,,,3E,3PHY,University Physics II,33378,31,C,14-May-18,4-Aug-18,4,4,3,3,1014,5:00 PM,8:20 PM,,M,,W,,,,18,0,A00001497,Faculty,Credit,,
+MMAIN,274,MCC,PSYC,110M,1,,,109,,,,,,3D,3SSC,Introduction to Psychology,33332,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,8:00 AM,10:55 AM,,M,,W,,,,26,0,A00001497,Faculty,Credit,,
+MMAIN,276,MCC,MATH,202M,A,,,110,,,,,,3E,3MAT,Probability & Statistics,33314,32,A,14-May-18,7-Jul-18,4,4,,4,904,5:30 PM,8:50 PM,,,T,,R,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,279,MCC,CHEM,090M,A,,,111,,ZZZ,,,,3E,3CEM,Foundations of Chemistry,33263,32,C,14-May-18,7-Jul-18,3,3,2,2,110,5:00 PM,8:20 PM,,,T,,R,,,18,0,A03121487,Lessard,Carole,clessard@ccsnh.edu,3ADJ
+MMAIN,279,MCC,CHEM,090M,A,,,112,,ZZZ,,,,3E,3CEM,Foundations of Chemistry,33263,32,C,14-May-18,7-Jul-18,3,3,2,2,788,5:00 PM,8:20 PM,,,T,,R,,,18,0,A03121487,Lessard,Carole,clessard@ccsnh.edu,3ADJ
+MMAIN,279,MCC,CHEM,115M,1,,,113,,,,,,3D,3CEM,General Chemistry I,33265,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,12:00 PM,1:30 PM,,,T,,R,,,18,0,A00001497,Faculty,Credit,,
+MMAIN,279,MCC,CHEM,115M,1,,,114,,,,,,3D,3CEM,General Chemistry I,33265,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,8:00 AM,11:30 AM,,,T,,R,,,18,0,A00001497,Faculty,Credit,,
+MMAIN,279,MCC,CHEM,115M,A,,,115,,,,,,3E,3CEM,General Chemistry I,33399,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,5:00 PM,10:00 PM,,M,,W,,,,18,0,A03043645,Gundrum,Stephen,sgundrum@ccsnh.edu,3ADJ
+MMAIN,279,MCC,CHEM,116M,3PT,,,116,,,,,,3D,3CEM,General Chemistry II,33266,33,C,18-Jun-18,4-Aug-18,0,4,3,3,1014,12:00 PM,2:15 PM,,M,,W,,,,18,0,A03043645,Gundrum,Stephen,sgundrum@ccsnh.edu,3ADJ
+MMAIN,279,MCC,CHEM,116M,3PT,,,117,,,,,,3D,3CEM,General Chemistry II,33266,33,C,18-Jun-18,4-Aug-18,0,4,3,3,1014,8:00 AM,11:30 AM,,M,,W,,,,18,0,A03043645,Gundrum,Stephen,sgundrum@ccsnh.edu,3ADJ
+MMAIN,285,MCC,BIOL,108M,HYB,,,118,,,,,,3E,3BGY,College Biology I,33243,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,5:00 PM,9:00 PM,,,T,,,,,18,0,A00001497,Faculty,Credit,,
+MMAIN,285,MCC,BIOL,210M,1,,,119,,,,,,3D,3BGY,Microbiology,33251,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,8:00 AM,1:00 PM,,,T,,R,,,18,0,A00573054,Royan,Sandhya,sroyan@ccsnh.edu,3ADJ
+MMAIN,285,MCC,BIOL,210M,2,,,120,,,,,,3D,3BGY,Microbiology,33252,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,11:00 AM,4:00 PM,,M,,W,,,,18,0,A07105077,Cases,Marisa,mcases@ccsnh.edu,3A
+MMAIN,285,MCC,BIOL,210M,A,,,121,,,,,,3E,3BGY,Microbiology,33253,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,5:00 PM,10:00 PM,,M,,W,,,,18,0,A07105077,Cases,Marisa,mcases@ccsnh.edu,3A
+MMAIN,289,MCC,BIOL,106M,1,,,122,,,,,,3D,3BGY,The Human Body,33240,32,A,14-May-18,7-Jul-18,3,3,,3,678,8:00 AM,10:30 AM,,,T,,R,,,24,0,A00004083,Slotnick,Arthur,aslotnick@ccsnh.edu,3ADJ
+MMAIN,289,MCC,BIOL,107M,1,,,123,,,,,,3D,3BGY,The Human Body Lab,33242,32,B,14-May-18,7-Jul-18,1,1,3,0,336,11:00 AM,1:30 PM,,,T,,R,,,24,0,A00004083,Slotnick,Arthur,aslotnick@ccsnh.edu,3ADJ
+MMAIN,289,MCC,BIOL,120M,A,,,124,,,,,,3E,3BGY,Anatomy & Physiology II,33247,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,5:00 PM,10:00 PM,,M,,W,,,,24,0,A00004083,Slotnick,Arthur,aslotnick@ccsnh.edu,3ADJ
+MMAIN,289,MCC,BIOL,120M,HYB,,,125,,,,,,3E,3BGY,Anatomy & Physiology II,33359,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,5:00 PM,9:00 PM,,,,,R,,,24,0,A00564212,Gillis,Daren,dgillis@ccsnh.edu,3ADJ
+MMAIN,289,MCC,BIOL,120M,SAT,,,126,,,,,,3E,3BGY,Anatomy & Physiology II,33360,31,C,14-May-18,4-Aug-18,4,4,3,3,1014,12:30 PM,3:10 PM,,,,,,,S,24,0,A03075477,Tidd,Trisha,ttidd@ccsnh.edu,3ADJ
+MMAIN,289,MCC,BIOL,120M,SAT,,,127,,,,,,3E,3BGY,Anatomy & Physiology II,33360,31,C,14-May-18,4-Aug-18,4,4,3,3,1014,8:00 AM,12:00 PM,,,,,,,S,24,0,A03075477,Tidd,Trisha,ttidd@ccsnh.edu,3ADJ
+MMAIN,289,MCC,BIOL,130M,1,,,128,,,,,,3D,3BGY,Marine Biology,33433,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,8:00 AM,1:00 PM,,M,,W,,,,24,0,A03119686,Wright,Loren,lwwright@ccsnh.edu,3ADJ
+MMAIN,295,MCC,BIOL,101M,HYB,,,129,,,,,,3D,3BGY,General Concepts in Biology,33432,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,1:10 PM,4:50 PM,,,,,R,,,24,0,A00555393,Turlapati,Swathi,sturlapati@ccsnh.edu,3ADJ
+MMAIN,295,MCC,BIOL,109M,HYB,,,130,,,,,,3E,3BGY,College Biology II,33382,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,5:00 PM,9:00 PM,,,,,R,,,24,0,A00555393,Turlapati,Swathi,sturlapati@ccsnh.edu,3ADJ
+MMAIN,295,MCC,BIOL,110M,1,,,131,,,,,,3D,3BGY,Anatomy & Physiology I,33244,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,11:00 AM,4:00 PM,,M,,W,,,,24,0,A00004083,Slotnick,Arthur,aslotnick@ccsnh.edu,3ADJ
+MMAIN,295,MCC,BIOL,110M,2,,,132,,,,,,3D,3BGY,Anatomy & Physiology I,33246,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,8:00 AM,1:00 PM,,,T,,R,,,24,0,A03107189,Burns,Cynthia,cburns@ccsnh.edu,3ADJ
+MMAIN,295,MCC,BIOL,110M,A,,,133,,,,,,3E,3BGY,Anatomy & Physiology I,33245,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,5:00 PM,10:00 PM,,M,,W,,,,24,0,A00535499,Crisp,Darcy,dcrisp@ccsnh.edu,3A
+MMAIN,295,MCC,BIOL,110M,HYB,,,134,,,,,,3E,3BGY,Anatomy & Physiology I,33357,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,5:00 PM,9:00 PM,,,T,,,,,24,0,A00564212,Gillis,Daren,dgillis@ccsnh.edu,3ADJ
+MMAIN,295,MCC,BIOL,110M,SAT,,,135,,,,,,3E,3BGY,Anatomy & Physiology I,33358,31,C,14-May-18,4-Aug-18,4,4,3,3,1014,12:30 PM,3:10 PM,,,,,,,S,24,0,A00564212,Gillis,Daren,dgillis@ccsnh.edu,3ADJ
+MMAIN,295,MCC,BIOL,110M,SAT,,,136,,,,,,3E,3BGY,Anatomy & Physiology I,33358,31,C,14-May-18,4-Aug-18,4,4,3,3,1014,8:00 AM,12:00 PM,,,,,,,S,24,0,A00564212,Gillis,Daren,dgillis@ccsnh.edu,3ADJ
+MMAIN,297,MCC,PHYS,100M,A,,,137,,,,,,3E,3PHY,Introductory Physics,33329,32,C,14-May-18,7-Jul-18,3,3,3,2,788,5:30 PM,9:40 PM,,M,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,297,MCC,PHYS,135M,A,,,138,,,,,,3E,3PHY,College Physics I,33330,31,C,14-May-18,4-Aug-18,4,4,3,3,1014,5:00 PM,8:20 PM,,,T,,R,,,18,0,A00001497,Faculty,Credit,,
+MMAIN,297,MCC,PHYS,136M,A,,,139,,,,,,3E,3PHY,College Physics II,34050,31,C,14-May-18,4-Aug-18,4,0,3,3,110,5:00 PM,8:20 PM,,,T,,R,,,18,0,A00001497,Faculty,Credit,,
+MMAIN,297,MCC,PHYS,210M,1,,,140,,,,,,3D,3PHY,University Physics,33377,31,C,14-May-18,4-Aug-18,4,4,3,3,1014,11:00 AM,2:20 PM,,M,,W,,,,18,0,A00001497,Faculty,Credit,,
+MMAIN,300,MCC,FYE,100M,B,,,141,,,,,,3E,3LBL,First Year Cornerstone,33404,33,A,18-Jun-18,4-Aug-18,1,1,,1,226,5:30 PM,7:25 PM,,,,W,,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,300,MCC,MATH,145M,2,,,142,,,,,,3D,3MAT,Topics in Applied College Mathematics,33428,32,A,14-May-18,7-Jul-18,4,4,,4,904,8:00 AM,11:20 AM,,M,,W,,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,300,MCC,MKTG,125M,A,,,143,,,,,,3E,3BIZ,Princ of Mktg:A Global Perspec,33321,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,5:30 PM,8:25 PM,,,T,,R,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,302,MCC,ENGL,113M,1,,,144,,,,,,3D,3EGL,Intro to Public Speaking,33287,32,A,14-May-18,7-Jul-18,3,3,,3,678,8:00 AM,10:30 AM,,,T,,R,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,302,MCC,ENGL,203M,1,,,145,,,,,,3D,3EGL,Introduction to Journalism,33429,32,A,14-May-18,7-Jul-18,3,3,,3,678,2:00 PM,4:30 PM,,,T,,R,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,302,MCC,HSV,114M,A,,,146,,,,,,3E,3EBH,Assessment and Planning,33423,32,A,14-May-18,7-Jul-18,3,3,,3,678,5:30 PM,8:00 PM,,M,,W,,,,26,0,A00001497,Faculty,Credit,,
+MMAIN,302,MCC,MATH,155M,A,,,147,,,,,,3E,3MAT,College Algebra w/Trigonometry,33311,32,A,14-May-18,7-Jul-18,4,4,,4,904,5:30 PM,8:50 PM,,,T,,R,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,304,MCC,NCMI,112M,T,,,148,,,,,3B,3B,,Simple Machines with VEX IQ,34111,3W,PE,30-Jul-18,3-Aug-18,0,0,30,,250,9:00 AM,3:00 PM,,M,T,W,R,F,,12,0,A03054983,Larochelle,Daniel,dlarochelle@ccsnh.edu,3FTF
+MMAIN,304,MCC,PHIL,240M,A,,,149,,,,,,3E,3HMN,Ethics,33327,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,5:30 PM,8:25 PM,,,T,,R,,,26,0,A03089587,Donovan,Brian,bwdonovan@ccsnh.edu,3ADJ
+MMAIN,304,MCC,PSYC,210M,1,,,150,,,,,,3D,3SSC,Human Growth & Development,33335,32,A,14-May-18,7-Jul-18,3,3,,3,678,2:00 PM,4:30 PM,,,T,,R,,,26,0,A00001497,Faculty,Credit,,
+MMAIN,306,MCC,HIST,204M,1,,,151,,,,,,3D,3SSC,United States History - 1877 to the Present,33296,33,A,18-Jun-18,4-Aug-18,0,3,,3,678,8:00 AM,10:55 AM,,,T,,R,,,26,0,A00001497,Faculty,Credit,,
+MMAIN,306,MCC,MATH,145M,A,,,152,,,,,,3E,3MAT,Topics in Applied College Mathematics,33307,33,A,18-Jun-18,4-Aug-18,4,4,,4,904,5:30 PM,8:50 PM,,,T,,R,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,306,MCC,MATH,214M,A,,,153,,,,,,3E,3MAT,Calculus II,33317,31,A,14-May-18,4-Aug-18,4,4,,4,904,5:30 PM,7:45 PM,,M,,W,,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,308,MCC,ACCT,113M,A,,,154,,,,,,3E,3ACC,Introduction to Accounting and Financial Reporting I,33356,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,5:30 PM,8:25 PM,,,T,,R,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,308,MCC,ACCT,123M,HYB,,,155,,,,,,3E,3ACC,Introduction to Accounting and Financial Reporting II,33424,32,A,14-May-18,7-Jul-18,3,3,,3,678,8:30 AM,11:00 AM,,,,,,,S,28,0,A00001497,Faculty,Credit,,
+MMAIN,308,MCC,HIST,203M,1,,,156,,,,,,3D,3SSC,Topics History: The Civil War,33297,32,A,14-May-18,7-Jul-18,3,3,,3,678,2:00 PM,4:30 PM,,M,,W,,,,26,0,A00001497,Faculty,Credit,,
+MMAIN,310,MCC,ENGL,220M,1,,,157,,,,,,3D,3EGL,College Composition II,33400,33,A,18-Jun-18,4-Aug-18,4,4,,4,904,8:00 AM,11:50 AM,,,T,,R,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,310,MCC,MATH,132M,A,,,158,,,,,,3E,3MAT,Business Mathematics,33350,32,A,14-May-18,7-Jul-18,3,3,,3,678,5:30 PM,8:00 PM,,M,,W,,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,310,MCC,PSYC,110M,A,,,159,,,,,,3E,3SSC,Introduction to Psychology,33333,32,A,14-May-18,7-Jul-18,3,3,,3,678,5:30 PM,8:00 PM,,,T,,R,,,26,0,A00001497,Faculty,Credit,,
+MMAIN,312,MCC,ENGL,095M,1,,,160,,ZZZ,,,,3D,3EGL,Integrated Reading and Writing,33281,31,A,14-May-18,4-Aug-18,4,4,,4,0,11:00 AM,1:15 PM,,M,,W,,,,16,0,A00001497,Faculty,Credit,,
+MMAIN,312,MCC,ENGL,095M,1,,,161,,ZZZ,,,,3D,3EGL,Integrated Reading and Writing,33281,31,A,14-May-18,4-Aug-18,4,4,,4,904,11:00 AM,1:15 PM,,M,,W,,,,16,0,A00001497,Faculty,Credit,,
+MMAIN,312,MCC,ENGL,095M,A,,,162,,ZZZ,,,,3E,3EGL,Integrated Reading and Writing,33282,31,A,14-May-18,4-Aug-18,4,4,,4,0,5:30 PM,7:45 PM,,,T,,R,,,16,0,A00001497,Faculty,Credit,,
+MMAIN,312,MCC,ENGL,095M,A,,,163,,ZZZ,,,,3E,3EGL,Integrated Reading and Writing,33282,31,A,14-May-18,4-Aug-18,4,4,,4,904,5:30 PM,7:45 PM,,,T,,R,,,16,0,A00001497,Faculty,Credit,,
+MMAIN,312,MCC,ENGL,220M,A,,,164,,,,,,3E,3EGL,College Composition II,33401,32,A,14-May-18,7-Jul-18,4,4,,4,904,5:30 PM,8:50 PM,,M,,W,,,,23,0,A00001497,Faculty,Credit,,
+MMAIN,314,MCC,ECON,135M,1,,,165,,,,,,3D,3BIZ,Microeconomics,33279,32,A,14-May-18,7-Jul-18,3,3,,3,678,8:00 AM,10:30 AM,,,T,,R,,,28,0,A03116001,Dean,Shawn,sdean@ccsnh.edu,3FTF
+MMAIN,314,MCC,MATH,135M,A,,,166,,,,,,3E,3MAT,Numerical Algebra and Trig,33310,32,A,14-May-18,7-Jul-18,3,3,,3,678,6:00 PM,8:30 PM,,M,,W,,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,314,MCC,MATH,151M,A,,,167,,,,,,3E,3MAT,Intermediate Algebra,33349,31,A,14-May-18,4-Aug-18,4,4,,4,904,5:30 PM,7:45 PM,,,T,,R,,,28,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,100M,HYB,,,168,,,,,,3E,3HIM,ICD CM Coding,33318,31,A,11-Jul-18,11-Jul-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,100M,HYB,,,169,,,,,,3E,3HIM,ICD CM Coding,33318,31,A,13-Jun-18,13-Jun-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,100M,HYB,,,170,,,,,,3E,3HIM,ICD CM Coding,33318,31,A,16-May-18,16-May-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,100M,HYB,,,171,,,,,,3E,3HIM,ICD CM Coding,33318,31,A,25-Jul-18,25-Jul-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,100M,HYB,,,172,,,,,,3E,3HIM,ICD CM Coding,33318,31,A,27-Jun-18,27-Jun-18,4,4,,4,904,5:30 PM,7:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,100M,HYB,,,173,,,,,,3E,3HIM,ICD CM Coding,33318,31,A,30-May-18,30-May-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,110M,HYB,,,174,,,,,,3E,3HIM,CPT Coding,33386,31,A,1-Aug-18,1-Aug-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,110M,HYB,,,175,,,,,,3E,3HIM,CPT Coding,33386,31,A,6-Jun-18,6-Jun-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,110M,HYB,,,176,,,,,,3E,3HIM,CPT Coding,33386,31,A,18-Jul-18,18-Jul-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,110M,HYB,,,177,,,,,,3E,3HIM,CPT Coding,33386,31,A,20-Jun-18,20-Jun-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,110M,HYB,,,178,,,,,,3E,3HIM,CPT Coding,33386,31,A,23-May-18,23-May-18,4,4,,4,904,5:30 PM,8:00 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,325,MCC,MCOD,110M,HYB,,,179,,,,,,3E,3HIM,CPT Coding,33386,31,A,27-Jun-18,27-Jun-18,4,4,,4,904,7:10 PM,8:40 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+MMAIN,327,MCC,AHLT,115M,A,,,180,,,,,,3E,3PHE,Phlebotomy,33220,37,A,9-May-18,30-Jun-18,3,3,,3,698,5:00 PM,10:00 PM,,,,W,,,,12,0,A00001497,Faculty,Credit,,
+MMAIN,327,MCC,AHLT,115M,SAT,,,181,,,,,,3E,3PHE,Phlebotomy,33408,37,A,9-May-18,30-Jun-18,3,3,,3,698,8:00 AM,1:00 PM,,,,,,,S,12,0,A00001497,Faculty,Credit,,
+MMAIN,327,MCC,MEDA,225M,1,,,182,,,,,,3D,3MAS,Practicum Seminar,33320,37,A,9-May-18,30-Jun-18,1,1,,1,226,11:00 AM,12:40 PM,,,,W,,,,20,0,A00001497,Faculty,Credit,,
+OFFCMP,,MCC,AHLT,135M,INT,,,183,,,,,,3D,3PHE,Phlebotomy Internship,33221,37,I,9-May-18,30-Jun-18,3,3,9,0,678,,,,,,,,,,20,0,A00001497,Faculty,Credit,,
+OFFCMP,,MCC,AUTO,1033M,AML,,,184,,,,,,3D,3AGN,Automotive Co-op Work Experience II,34038,38,O,2-Jul-18,4-Aug-18,2,2,15,0,452,,,,,,,,,,20,0,A03059528,Paras,Mathew,mparas@ccsnh.edu,3FTF
+OFFCMP,,MCC,AUTO,1033M,GS,,,185,,,,,,3D,3AGN,Automotive Co-op Work Experience II,34036,38,O,2-Jul-18,4-Aug-18,2,2,15,0,452,,,,,,,,,,20,0,A03003644,Lott,Robert,blott@ccsnh.edu,3FTF
+OFFCMP,,MCC,AUTO,1033M,MCP,,,186,,,,,,3D,3AGN,Automotive Co-op Work Experience II,34035,37,O,9-May-18,30-Jun-18,2,2,15,0,452,,,,,,,,,,20,0,A03060141,Mikonis,Todd,tmikonis@ccsnh.edu,3FTF
+OFFCMP,,MCC,ECE,111M,PRA,,,187,,,,,,3D,3ECE,Inf/Todl Pract:Nurturg Environ,33363,31,P,14-May-18,4-Aug-18,0,0,3,0,0,,,,,,,,,,10,0,A07051884,Denis,Christina,cdenis@ccsnh.edu,3ADJ
+OFFCMP,,MCC,ECE,202M,PRA,,,188,,,,,,3D,3ECE,Student Teaching Practicum,33275,31,P,14-May-18,4-Aug-18,4,4,9,1,1234,,,,,,,,,,22,0,A03094551,Booker,Deborah,dbooker@ccsnh.edu,3ADJ
+OFFCMP,,MCC,ECE,212M,PRA,,,189,,,,,,3D,3ECE,Professional Development Practicum: ECE Capstone,33361,31,C,14-May-18,4-Aug-18,4,4,9,1,1234,,,,,,,,,,22,0,A03094551,Booker,Deborah,dbooker@ccsnh.edu,3ADJ
+OFFCMP,,MCC,HSV,116M,A,,,190,,,,,,3E,3EBH,Professional Seminar I,33422,33,C,18-Jun-18,4-Aug-18,3,3,3,2,788,,,,,,,,,,26,0,A00001497,Faculty,Credit,,
+OFFCMP,,MCC,MEDA,223M,PRA,,,191,,,,,,3D,3MAS,Medical Assistant Practicum,33319,37,P,9-May-18,30-Jun-18,5,5,15,0,1680,,,,,,,,,,20,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ACCT,113M,ZZ3,,,192,,,3O,,,3O,3ACC,Introduction to Accounting and Financial Reporting I,33214,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ACCT,123M,3ZZ,,,193,,,3O,,,3O,3ACC,Introduction to Accounting and Financial Reporting II,33216,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ACCT,123M,HYB,,,194,,,,,,3E,3ACC,Introduction to Accounting and Financial Reporting II,33424,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,28,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ACCT,216M,ZZ,,,195,,,3O,,,3O,3ACC,Software System Applications,33217,32,C,14-May-18,7-Jul-18,3,3,2,2,788,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ACCT,243M,ZZ,,,196,,,3O,,,3O,3ACC,Federal IncomeTaxes/Individual,33218,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ACSP,111M,ZZ,,,197,,,3O,,,3O,3ACC,Adv Bookkeeping Applications,33895,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ADMT,135M,HYB,,,198,,,,,,3E,3AMT,Basic Machining Practices,33373,31,C,14-May-18,4-Aug-18,3,3,5,1,898,,,,,,,,,,4,0,A07092417,Ely,Edward,eely@ccsnh.edu,3FTF
+ONLINE,,MCC,ADMT,230M,HYB,,,199,,,,,,3E,3AMT,CAD/CAM for Manufacturing,33370,31,C,14-May-18,4-Aug-18,3,3,3,2,788,,,,,,,,,,4,0,A05051903,Talbot,Jeffrey,jtalbot@ccsnh.edu,3ADJ
+ONLINE,,MCC,AHLT,110M,ZZ,,,200,,,3O,,,3O,3MAS,Medical Terminology,33219,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,AHLT,205M,ZZ,,,201,,,3O,,,3O,3AH,Medical Ethics and Law,33384,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ANTH,101M,ZZ,,,202,,,3O,,,3O,3SSC,Introduction to Anthropology,33222,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,26,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ARTS,117M,ZZ,,,203,,,3O,,,3O,3FNA,Art History I,33344,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,99,0,A03089506,Macedo,Karen,kmacedo@ccsnh.edu,3FTF
+ONLINE,,MCC,BIOL,099M,ZZ,,,204,,ZZZ,3O,,,3O,3BGY,Foundations in Biology,33381,32,C,14-May-18,7-Jul-18,3,3,2,2,110,,,,,,,,,,22,0,A03104653,Malhotra,Preeti,pmalhotra@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,099M,ZZ,,,205,,ZZZ,3O,,,3O,3BGY,Foundations in Biology,33381,32,C,14-May-18,7-Jul-18,3,3,2,2,788,,,,,,,,,,22,0,A03104653,Malhotra,Preeti,pmalhotra@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,101M,HYB,,,206,,,,,,3D,3BGY,General Concepts in Biology,33432,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,,,,,,,,,,24,0,A00555393,Turlapati,Swathi,sturlapati@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,106M,ZZ,,,207,,,3O,,,3O,3BGY,The Human Body,33241,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,24,0,A03118758,Huard,Aimee,ahuard@ccsnh.edu,3A
+ONLINE,,MCC,BIOL,108M,HYB,,,208,,,,,,3E,3BGY,College Biology I,33243,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,,,,,,,,,,18,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,BIOL,109M,HYB,,,209,,,,,,3E,3BGY,College Biology II,33382,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,,,,,,,,,,24,0,A00555393,Turlapati,Swathi,sturlapati@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,110M,HYB,,,210,,,,,,3E,3BGY,Anatomy & Physiology I,33357,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,,,,,,,,,,24,0,A00564212,Gillis,Daren,dgillis@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,120M,HYB,,,211,,,,,,3E,3BGY,Anatomy & Physiology II,33359,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,,,,,,,,,,24,0,A00564212,Gillis,Daren,dgillis@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,150M,ZZ,,,212,,,3O,,,3O,3BGY,Nutrition,33248,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,99,0,A03121310,Manning,Dana,dmanning@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,150M,ZZ3,,,213,,,3O,,,3O,3BGY,Nutrition,33250,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,,,,,,,,,,99,0,A03121310,Manning,Dana,dmanning@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,151M,ZZ,,,214,,,3O,,,3O,3BGY,Nutrition Lab,33348,32,B,14-May-18,7-Jul-18,1,1,3,0,336,,,,,,,,,,99,0,A03124623,Eaton,Mary Anne,meaton@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,151M,ZZ2,,,215,,,3O,,,3O,3BGY,Nutrition Lab,33355,33,B,18-Jun-18,4-Aug-18,1,1,3,0,336,,,,,,,,,,22,0,A03124623,Eaton,Mary Anne,meaton@ccsnh.edu,3ADJ
+ONLINE,,MCC,BIOL,220M,ZZ,,,216,,,3O,,,3O,3BGY,Pathophysiology,33254,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,99,0,A03107548,Keefe,Jennifer,jkeefe@ccsnh.edu,3ADJ
+ONLINE,,MCC,BUS,110M,ZZ,,,217,,,3O,,,3O,3BIZ,Introduction to Business,33255,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,BUS,114M,ZZ,,,218,,,3O,,,3O,3BIZ,Management,33256,38,A,2-Jul-18,4-Aug-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,BUS,124M,ZZ,,,219,,,3O,,,3O,3BIZ,Small Business Management,33257,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,22,0,A00053867,Magoon,Michael,mmagoon@ccsnh.edu,3FTF
+ONLINE,,MCC,BUS,210M,ZZ,,,220,,,3O,,,3O,3BIZ,Organizational Communications,33258,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,99,0,A03075191,Henry-Wilson,Chari,chwilson@ccsnh.edu,3FTF
+ONLINE,,MCC,BUS,221M,ZZ,,,221,,,3O,,,3O,3BIZ,Business Finance,33259,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,BUS,227M,ZZ,,,222,,,3O,,,3O,3BIZ,Training and Development,33426,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,22,0,A03075191,Henry-Wilson,Chari,chwilson@ccsnh.edu,3FTF
+ONLINE,,MCC,BUS,228M,ZZ,,,223,,,3O,,,3O,3BIZ,Seminar in Strategic Human Resource Management,33427,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,22,0,A00053867,Magoon,Michael,mmagoon@ccsnh.edu,3FTF
+ONLINE,,MCC,CIS,110M,HY1,,,224,,,,,,3D,3CSC,Microsoft Computer Applications I,33267,33,C,18-Jun-18,4-Aug-18,3,3,2,2,788,,,,,,,,,,23,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,CIS,110M,HYA,,,225,,,,,,3E,3CSC,Microsoft Computer Applications I,33269,33,C,18-Jun-18,4-Aug-18,3,3,2,2,788,,,,,,,,,,22,0,A03094487,Tahir,Adnan,atahir@ccsnh.edu,3ADJ
+ONLINE,,MCC,CIS,110M,HYB,,,226,,,,,,3E,3CSC,Microsoft Computer Applications I,33411,33,C,18-Jun-18,4-Aug-18,3,3,2,2,788,,,,,,,,,,23,0,A07083533,Eno,Michael,meno@ccsnh.edu,3ADJ
+ONLINE,,MCC,CIS,110M,ZZ,,,227,,,3O,,,3O,3CSC,Microsoft Computer Applications I,33268,33,C,18-Jun-18,4-Aug-18,3,3,2,2,788,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,CIS,126M,HYB,,,228,,,,,,3E,3CSC,Introduction to Python,33271,32,C,14-May-18,7-Jul-18,3,3,2,2,788,,,,,,,,,,22,0,A03094533,Cauthorn,Edward,ecauthorn@ccsnh.edu,3FTF
+ONLINE,,MCC,CIS,158M,ZZ,,,229,,,3O,,,3O,3CSC,Introduction to Programming using C#,33435,33,C,18-Jun-18,4-Aug-18,3,3,2,2,788,,,,,,,,,,23,0,A03111372,Phillips,Nicole,NPhillips@ccsnh.edu,3ADJ
+ONLINE,,MCC,CIS,220M,HYB,,,230,,,,,,3D,3CSC,Object-Oriented Programming,33436,32,C,14-May-18,7-Jul-18,3,3,2,2,788,,,,,,,,,,22,0,A03094533,Cauthorn,Edward,ecauthorn@ccsnh.edu,3FTF
+ONLINE,,MCC,CYBD,110M,HYB,,,231,,,,,,3D,3CSC,Investgtn & Evidence Recovery,33272,33,C,18-Jun-18,4-Aug-18,4,4,3,3,1014,,,,,,,,,,23,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,CYBD,230M,HYB,,,232,,,,,,3E,3CSC,Mobile & Emerging Device Analy,33342,32,C,14-May-18,7-Jul-18,4,4,3,3,1014,,,,,,,,,,23,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ECE,100M,ZZ1,,,233,,,3O,,,3O,3ECE,Early Childhood Growth and Development,33273,31,A,14-May-18,4-Aug-18,3,3,,3,678,,,,,,,,,,99,0,A03094519,Westcott,Laurie,lwestcott@ccsnh.edu,3FTF
+ONLINE,,MCC,ECE,104M,ZZ,,,234,,,3O,,,3O,3ECE,Foundations of Early Childhood Education,33274,32,A,14-May-18,7-Jul-18,3,3,0,3,678,,,,,,,,,,22,0,A07087268,Marshall-Gross,Carrie,cmarshall@ccsnh.edu,3FTF
+ONLINE,,MCC,ECE,105M,HYB,,,235,,,,,,3E,3ECE,Creative Activities and Curriculum for Early Childhood,33417,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ECE,111M,ZZ,,,236,,,3O,,,3O,3ECE,Inf/Todl Pract:Nurturg Environ,33362,31,A,14-May-18,4-Aug-18,3,3,0,2,788,,,,,,,,,,10,0,A07051884,Denis,Christina,cdenis@ccsnh.edu,3ADJ
+ONLINE,,MCC,ECE,250M,ZZ,,,237,,,3O,,,3O,3ECE,Childcare Admin & Management,33276,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,22,0,A03094551,Booker,Deborah,dbooker@ccsnh.edu,3ADJ
+ONLINE,,MCC,ECON,134M,ZZ3,,,238,,,3O,,,3O,3BIZ,Macroeconomics,33277,33,A,18-Jun-18,4-Aug-18,0,3,,3,678,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ECON,134M,ZZ7,,,239,,,3O,,,3O,3BIZ,Macroeconomics,33278,37,A,9-May-18,30-Jun-18,0,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ECON,135M,ZZ8,,,240,,,3O,,,3O,3BIZ,Microeconomics,33280,38,A,2-Jul-18,4-Aug-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ENGL,110M,ZZ,,,241,,,3O,,,3O,3EGL,College Composition I,33286,31,A,14-May-18,4-Aug-18,4,4,,4,904,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ENGL,206M,ZZ,,,242,,,3O,,,3O,3EGL,Professional Communication,33430,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,23,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ENGL,220M,ZZ2,,,243,,,3O,,,3O,3EGL,College Composition II,33402,32,A,14-May-18,7-Jul-18,4,4,,4,904,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ENGL,220M,ZZ3,,,244,,,3O,,,3O,3EGL,College Composition II,33403,33,A,18-Jun-18,4-Aug-18,4,4,,4,904,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,ENVS,115M,ZZ,,,245,,,3O,,,3O,3BGY,Curent Issues in the Environment,34042,32,A,14-May-18,7-Jul-18,3,3,0,3,678,,,,,,,,,,99,0,A00535710,Cooke,Suzanne,scooke@ccsnh.edu,3ADJ
+ONLINE,,MCC,FYE,100M,ZZ1,,,246,,,3O,,,3O,3LBL,First Year Cornerstone,33293,32,A,14-May-18,7-Jul-18,1,1,,1,226,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,FYE,100M,ZZ3,,,247,,,3O,,,3O,3LBL,First Year Cornerstone,33294,33,A,18-Jun-18,4-Aug-18,1,1,,1,226,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,HIST,120M,ZZ,,,248,,,3O,,,3O,3SSC,Western Civilization to 1500,33295,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,26,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,HLIM,208M,ZZ,,,249,,,3O,,,3O,3HIM,Pharmacology for Health Professions,33405,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,HLIM,215M,ZZ,,,250,,,3O,,,3O,3HIM,Healthcare Statistics and Performance Improvement,33406,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,HUMA,105M,ZZ,,,251,,,3O,,,3O,3HMN,Introduction to Music,33298,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,MATH,145M,ZZ,,,252,,,3O,,,3O,3MAT,Topics in Applied College Mathematics,33308,32,A,14-May-18,7-Jul-18,4,4,,4,904,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,MATH,145M,ZZ3,,,253,,,3O,,,3O,3MAT,Topics in Applied College Mathematics,33309,33,A,18-Jun-18,4-Aug-18,4,4,,4,904,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,MATH,202M,ZZ2,,,254,,,3O,,,3O,3MAT,Probability & Statistics,33315,32,A,14-May-18,7-Jul-18,4,4,,4,904,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,MATH,202M,ZZ3,,,255,,,3O,,,3O,3MAT,Probability & Statistics,33313,33,A,18-Jun-18,4-Aug-18,4,4,,4,904,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,MCOD,100M,HYB,,,256,,,,,,3E,3HIM,ICD CM Coding,33318,31,A,14-May-18,4-Aug-18,4,4,,4,904,,,,,,,,,,20,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,MCOD,110M,HYB,,,257,,,,,,3E,3HIM,CPT Coding,33386,31,A,14-May-18,4-Aug-18,4,4,,4,904,,,,,,,,,,20,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,MKTG,125M,ZZ,,,258,,,3O,,,3O,3BIZ,Princ of Mktg:A Global Perspec,33322,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,22,0,A03075191,Henry-Wilson,Chari,chwilson@ccsnh.edu,3FTF
+ONLINE,,MCC,MKTG,205M,ZZ3,,,259,,,3O,,,3O,3BIZ,International Marketing,33323,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,MKTG,282M,ZZ3,,,260,,,3O,,,3O,3BIZ,Marketing Research,33324,37,A,9-May-18,30-Jun-18,3,3,,3,678,,,,,,,,,,22,0,A00053867,Magoon,Michael,mmagoon@ccsnh.edu,3FTF
+ONLINE,,MCC,NURS,112M,HYB,,,261,,,,,,3D,3NUR,Nursing II:Theory,33325,31,A,14-May-18,4-Aug-18,9,9,0,4,3304,,,,,,,,,,8,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,PHIL,240M,ZZ2,,,262,,,3O,,,3O,3HMN,Ethics,33352,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,99,0,A07065763,Dunn,Thomas,tdunn@ccsnh.edu,3ADJ
+ONLINE,,MCC,PHIL,240M,ZZ3,,,263,,,3O,,,3O,3HMN,Ethics,33326,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,,,,,,,,,,26,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,PHYS,110M,ZZ,,,264,,,3O,,,3O,3PHY,Physical Science I,33328,32,C,14-May-18,7-Jul-18,4,4,2,3,1014,,,,,,,,,,22,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,POLS,110M,ZZ,,,265,,,3O,,,3O,3SSC,American Government,33331,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,,,,,,,,,,26,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,PSYC,110M,ZZ2,,,266,,,3O,,,3O,3SSC,Introduction to Psychology,33353,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,PSYC,110M,ZZ3,,,267,,,3O,,,3O,3SSC,Introduction to Psychology,33334,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,PSYC,210M,3ZZ,,,268,,,3O,,,3O,3SSC,Human Growth & Development,33393,33,A,18-Jun-18,4-Aug-18,3,3,,3,678,,,,,,,,,,26,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,PSYC,210M,ZZ,,,269,,,3O,,,3O,3SSC,Human Growth & Development,33336,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,99,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,PSYC,215M,ZZ,,,270,,,3O,,,3O,3SSC,Abnormal Psychology,33387,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,26,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,SOCI,109M,ZZ,,,271,,,3O,,,3O,3SSC,Contemporary Social Problems,33337,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,26,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,SPAN,110M,ZZ,,,272,,,3O,,,3O,3FOR,Spanish I,33339,33,C,18-Jun-18,4-Aug-18,4,4,2,3,1014,,,,,,,,,,26,0,A00001497,Faculty,Credit,,
+ONLINE,,MCC,TCHE,205M,ZZ,,,273,,,3O,,,3O,3EDU,Technology in Education,33340,32,C,14-May-18,7-Jul-18,3,3,2,2,788,,,,,,,,,,22,0,A03037365,Tisbert,Alcide,atisbert@ccsnh.edu,3ADJ
+,,MCC,HLTH,299M,1,,,274,,,,,,3D,3LBL,Health Science Capstone,33380,32,A,14-May-18,7-Jul-18,3,3,,3,678,,,,,,,,,,20,0,A00001497,Faculty,Credit,,

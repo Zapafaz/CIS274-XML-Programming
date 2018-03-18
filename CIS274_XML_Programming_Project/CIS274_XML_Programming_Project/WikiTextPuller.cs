@@ -9,7 +9,7 @@ using System.IO;
 
 namespace CIS274_XML_Programming_Project
 {
-    class WikiConvert
+    class WikiTextPuller
     {
         private string author;
         private string title;
