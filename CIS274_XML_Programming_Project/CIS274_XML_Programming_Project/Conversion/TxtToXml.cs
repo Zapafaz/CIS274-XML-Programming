@@ -1,14 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+ * Student: Adam Wight
+ * Class: CIS274M XML Programming
+ * Instructor: Ed Cauthorn
+ */
+
 using System.Xml.Linq;
 
 namespace CIS274_XML_Programming_Project.Conversion
 {
-    class TextConverter : XmlConverter
+    class TxtToXml : ToXml
     {
         /// <summary>
         /// Converts <paramref name="lines"/> of a document to an XElement; assumes the first line is the document title and the second line is the author.

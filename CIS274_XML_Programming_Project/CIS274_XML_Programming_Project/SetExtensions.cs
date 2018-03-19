@@ -1,10 +1,20 @@
-﻿using System.Collections.Generic;
+﻿/*
+ * Student: Adam Wight
+ * Class: CIS274M XML Programming
+ * Instructor: Ed Cauthorn
+ */
+
+using System.Collections.Generic;
 using System.Text;
 
 namespace CIS274_XML_Programming_Project
 {
     public static class SetExtensions
     {
+        /// <summary>
+        /// Converts all elements of <paramref name="set"/> to a single string delimited by commas. e.g. { "Alice", "Pineapple", "Iron" } would be returned as "Alice, Pineapple, Iron"
+        /// </summary>
+        /// <returns>Returns all elements of <paramref name="set"/> to a single string delimited by commas. e.g. { "Alice", "Pineapple", "Iron" } would be returned as "Alice, Pineapple, Iron"</returns>
         public static string ShowElements(this string[] set)
         {
             var builder = new StringBuilder();
@@ -18,22 +28,13 @@ namespace CIS274_XML_Programming_Project
             return builder.ToString();
         }
 
+        /// <summary>
+        /// Converts all elements of <paramref name="set"/> to a single string delimited by commas. e.g. { "Alice", "Pineapple", "Iron" } would be returned as "Alice, Pineapple, Iron"
+        /// </summary>
+        /// <returns>Returns all elements of <paramref name="set"/> to a single string delimited by commas. e.g. { "Alice", "Pineapple", "Iron" } would be returned as "Alice, Pineapple, Iron"</returns>
         public static string ShowElements(this List<string> set)
         {
             return ShowElements(set.ToArray());
-        }
-
-        public static string[,] To2dArray(this List<string[]> set)
-        {
-            var array = new string[set.Count, set[0].Length];
-            for (int i = 0; i < array.GetLength(0); i++)
-            {
-                for (int j = 0; j < array.GetLength(1); j++)
-                {
-                    array[i,j] = set[i][j];
-                }
-            }
-            return array;
         }
     }
 }

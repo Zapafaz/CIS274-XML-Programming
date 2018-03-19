@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Conversion\CsvConverter.cs" />
-    <Compile Include="Conversion\XmlConverter.cs" />
-    <Compile Include="Conversion\TextConverter.cs" />
+    <Compile Include="Conversion\CsvToXml.cs" />
+    <Compile Include="Conversion\Alphanumeric.cs" />
+    <Compile Include="Conversion\ToXml.cs" />
+    <Compile Include="Conversion\TxtToXml.cs" />
     <Compile Include="Conversion\FileAggregator.cs" />
     <Compile Include="DomHandler.cs" />
     <Compile Include="Program.cs" />
