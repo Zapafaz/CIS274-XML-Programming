@@ -44,19 +44,34 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conversion\CsvToXml.cs" />
-    <Compile Include="Conversion\Alphanumeric.cs" />
+    <Compile Include="Extensions\NumExtensions.cs" />
     <Compile Include="Conversion\ToXml.cs" />
+    <Compile Include="Conversion\ToXmlViaXslt.cs" />
     <Compile Include="Conversion\TxtToXml.cs" />
     <Compile Include="Conversion\FileAggregator.cs" />
     <Compile Include="DomHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SetExtensions.cs" />
+    <Compile Include="Extensions\SetExtensions.cs" />
     <Compile Include="WebHandler.cs" />
     <Compile Include="WikiTextPuller.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Resources\CSV\Summer.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Poems\1_RC.txt" />
+    <Content Include="Resources\Poems\2_TCOTLB.txt" />
+    <Content Include="Resources\Poems\3_TheRaven.txt" />
+    <Content Include="Resources\Poems\4_GEAH.txt" />
+    <Content Include="Resources\Text\1_RC.txt" />
+    <Content Include="Resources\Text\2_TCOTLB.txt" />
+    <Content Include="Resources\Text\3_DoI.txt" />
+    <Content Include="Resources\Text\4_Gettysburg.txt" />
+    <Content Include="Resources\Text\5_Ozymandias.txt" />
+    <Content Include="Resources\XML\SummerBase.xml" />
+    <Content Include="Resources\XML\XSLT\SummerBase.xslt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

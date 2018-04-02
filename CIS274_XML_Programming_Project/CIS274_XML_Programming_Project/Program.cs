@@ -6,66 +6,97 @@
 
 using System;
 using System.IO;
+using System.Linq;
 using System.Xml;
 using System.Xml.Linq;
+using System.Xml.Xsl;
 using CIS274_XML_Programming_Project.Conversion;
 
 namespace CIS274_XML_Programming_Project
 {
     class Program
     {
-        private static string outputPath = @"H:\Projects\School\CIS274 XML Programming\ScriptOutput\week8.xml";
-        private static string csvFolderPath = @"H:\Projects\School\CIS274 XML Programming\Resources\CSV";
-        private static string textFolderPath = @"H:\Projects\School\CIS274 XML Programming\Resources\Text";
+        // Keeping paths here is (much) easier than writing an actual user interface, and it's functional enough for this project
+        private static string _rootPath = @"H:\Projects\School\CIS274 XML Programming\CIS274_XML_Programming_Project\CIS274_XML_Programming_Project";
 
-        private static string targetNewPoemPath = @"H:\Projects\School\CIS274 XML Programming\ScriptOutput\";
+        private static string _currentWeekOutputPath = @"ScriptOutput\week9.html";
 
-        internal static string[] supportedConversionFormats = { "csv", "txt" };
+        private static string _xsltPath = @"Resources\XML\XSLT\SummerBase.xslt";
+        private static string _schedulePath= @"Resources\XML\SummerBase.xml";
+
+        private static string _xmlFolderPath = @"Resources\XML";
+        private static string _csvFolderPath = @"Resources\CSV";
+        private static string _textFolderPath = @"Resources\Text";
+
+        private static string _scriptOutputFolderPath = @"ScriptOutput\";
+
+        internal static string[] supportedConversionFormats = { ".csv", ".txt", ".xml" };
 
         static void Main(string[] args)
         {
-            CreateDocument(".csv", csvFolderPath);
+            Environment.CurrentDirectory = _rootPath;
+            ConvertScheduleToHtml(_schedulePath, _xsltPath, _currentWeekOutputPath);
+
             ContinuePrompt();
         }
 
         /// <summary>
-        /// Creates an XDocument with a set of documents from the documents folder and saves it to the script output folder.
+        /// Creates an XDocument with a set of documents from the given <paramref name="inputFolderPath"/> and saves it to the <paramref name="outputPath"/>.
         /// </summary>
-        public static void CreateDocument(string extension, string folder)
+        public static void ConvertDocumentsToXml(string extension, string inputFolderPath, string outputPath)
         {
-            string[] files = Directory.GetFiles(folder);
-            foreach (string file in files)
+            if (!extension.StartsWith("."))
             {
-                if (Path.HasExtension(file))
+                extension = $".{extension}";
+            }
+
+            XElement rootElement;
+            ToXml converter;
+
+            switch (extension)
+            {
+                case ".txt":
+                    rootElement = new XElement("DocumentSet");
+                    converter = new TxtToXml();
+                    break;
+                case ".csv":
+                    rootElement = new XElement("SheetSet");
+                    converter = new CsvToXml();
+                    break;
+                case ".xml":
+                    rootElement = new XElement("XmlSet");
+                    converter = new ToXmlViaXslt(_xsltPath);
+                    break;
+                default:
+                    throw new NotSupportedException($"{extension} is not a supported file format\r\n" +
+                                                    $"Supported formats: {supportedConversionFormats.ShowElements()}.");
+            }
+
+            string[] files = Directory.GetFiles(inputFolderPath);
+            if (files
+                .Where(file => Path.HasExtension(file))
+                .All(file => Path.GetExtension(file) == extension))
+            {
+                var aggregator = new FileAggregator(inputFolderPath);
+
+                foreach (string file in files)
                 {
-                    string pathExt = Path.GetExtension(file);
-                    if (pathExt == extension || pathExt == $".{extension}")
-                    {
-                        var aggregator = new FileAggregator(folder);
-                        XElement rootElement;
-                        ToXml converter;
-
-                        switch (extension)
-                        {
-                            case ".csv":
-                                rootElement = new XElement("SheetSet");
-                                converter = new CsvToXml();
-                                break;
-                            case ".txt":
-                                rootElement = new XElement("DocumentSet");
-                                converter = new TxtToXml();
-                                break;
-                            default:
-                                throw new NotSupportedException($"{extension} is not a supported file format\r\n" +
-                                                                $"Make sure only files of ONE of the following formats is in the folder: {supportedConversionFormats.ShowElements()}.");
-                        }
-
-                        var doc = new XDocument();
-                        doc.Add(aggregator.ConvertFilesToXml(rootElement, converter));
-                        doc.Save(outputPath);
-                    }
+                    var doc = new XDocument();
+                    doc.Add(aggregator.ConvertFilesToXml(rootElement, converter));
+                    doc.Save(outputPath);
                 }
             }
+            else
+            {
+                throw new NotSupportedException($"{inputFolderPath} must only contain files with this extension: {extension} and subfolders");
+            }
+        }
+
+        public static void ConvertScheduleToHtml(string inputPath, string xsltPath, string outputPath)
+        {
+            var transformer = new XslCompiledTransform();
+            transformer.Load(xsltPath);
+            transformer.Transform(inputPath, outputPath);
         }
 
         /// <summary>
@@ -76,7 +107,7 @@ namespace CIS274_XML_Programming_Project
             var handler = new WebHandler();
             handler.GetResponse(handler.SendRequest(@"https://en.wikisource.org/wiki/Ozymandias_(Shelley)", "GET"));
             var converter = new WikiTextPuller();
-            converter.ConvertWikiPoemToPlainText(handler.SavedResponse, targetNewPoemPath);
+            converter.ConvertWikiPoemToPlainText(handler.SavedResponse, _scriptOutputFolderPath);
         }
 
         /// <summary>
@@ -106,7 +137,7 @@ namespace CIS274_XML_Programming_Project
                 }
             }
 
-            doc.Save(outputPath);
+            doc.Save(_currentWeekOutputPath);
         }
 
         /// <summary>
