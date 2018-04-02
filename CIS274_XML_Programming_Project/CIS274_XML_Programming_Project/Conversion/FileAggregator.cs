@@ -10,7 +10,7 @@ using System.Xml.Linq;
 namespace CIS274_XML_Programming_Project.Conversion
 {
     /// <summary>
-    /// Converts documents in text files to XML.
+    /// Converts documents in text files to another format.
     /// </summary>
     public class FileAggregator
     {
@@ -24,7 +24,7 @@ namespace CIS274_XML_Programming_Project.Conversion
         /// <summary>
         /// Used to give Document and DocumentSection elements their ID attributes.
         /// </summary>
-        protected char fileId = 'A';
+        protected int fileId = 0;
 
         /// <summary>
         /// Create a document converter for the given folder.
@@ -45,7 +45,7 @@ namespace CIS274_XML_Programming_Project.Conversion
 
             foreach (string file in paths)
             {
-                root.Add(converter.Convert(file, fileId));
+                root.Add(converter.Convert(file, fileId.ToAlpha('a')));
                 fileId++;
             }
             return root;

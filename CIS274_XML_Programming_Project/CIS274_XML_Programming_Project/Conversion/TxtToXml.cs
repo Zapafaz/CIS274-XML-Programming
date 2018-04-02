@@ -14,9 +14,9 @@ namespace CIS274_XML_Programming_Project.Conversion
         /// Converts <paramref name="lines"/> of a document to an XElement; assumes the first line is the document title and the second line is the author.
         /// </summary>
         /// <param name="path">The file to be converted to XML.</param>
-        /// <param name="fileId">The identifying character for the file being converted.</param>
+        /// <param name="fileId">The identifying string for the file being converted.</param>
         /// <returns>Returns an XElement containing a document as XML.</returns>
-        public override XElement Convert(string path, char fileId)
+        public override XElement Convert(string path, string fileId)
         {
             string[] lines = ReadLines(path);
 
@@ -32,10 +32,10 @@ namespace CIS274_XML_Programming_Project.Conversion
         /// Adds all of the sections of a document (based on <paramref name="lines"/>) to the <paramref name="documentWithoutLines"/> XElement.
         /// </summary>
         /// <param name="lines">The lines of a document (with line 1 as title, line 2 as author)</param>
-        /// <param name="fileId">The identifying character for the file being converted.</param>
+        /// <param name="fileId">The identifying string for the file being converted.</param>
         /// <param name="documentWithoutLines">An XElement that contains a document base.</param>
         /// <returns>Returns an XElement containing a document as XML.</returns>
-        private XElement AddLinesToDocument(string[] lines, char fileId, XElement documentWithoutLines)
+        private XElement AddLinesToDocument(string[] lines, string fileId, XElement documentWithoutLines)
         {
             var currentSection = new XElement("DocumentSection");
             var currentLine = new XElement("DocumentLine");

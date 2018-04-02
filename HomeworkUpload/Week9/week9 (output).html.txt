@@ -1,0 +1,2848 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Summer 2018 Course Schedule - Manchester Community College, New Hampshire</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <th title="CRN">CRN</th>
+          <th title="Course">Course</th>
+          <th title="Course Title">Course Title</th>
+          <th title="CR">CR</th>
+          <th title="Dates">Dates</th>
+          <th title="Days">Days</th>
+          <th title="Times">Times</th>
+          <th title="Cost">Cost</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td title="CRN">34033</td>
+          <td title="Course">AUTO1032M</td>
+          <td title="Course Title">Brake Systems Global/Sub</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34032</td>
+          <td title="Course">AUTO1032M</td>
+          <td title="Course Title">Brake Systems MCAP</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34031</td>
+          <td title="Course">AUTO1031M</td>
+          <td title="Course Title">IC Engine and Systems AUDI/MLR</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34030</td>
+          <td title="Course">AUTO1031M</td>
+          <td title="Course Title">IC Engine and Systems Global/S</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">TF</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33974</td>
+          <td title="Course">AUTO1031M</td>
+          <td title="Course Title">IC Engine and Systems MCAP</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1124</td>
+        </tr>
+        <tr>
+          <td title="CRN">34034</td>
+          <td title="Course">AUTO1032M</td>
+          <td title="Course Title">Brake Systems MLR/AUDI</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MF</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34033</td>
+          <td title="Course">AUTO1032M</td>
+          <td title="Course Title">Brake Systems Global/Sub</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34032</td>
+          <td title="Course">AUTO1032M</td>
+          <td title="Course Title">Brake Systems MCAP</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33227</td>
+          <td title="Course">AUTO105M</td>
+          <td title="Course Title">Automotive Engines</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">7:20 PM to 9:50 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33228</td>
+          <td title="Course">AUTO107M</td>
+          <td title="Course Title">Automotive Climate Control</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">7:20 PM to 9:50 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">34031</td>
+          <td title="Course">AUTO1031M</td>
+          <td title="Course Title">IC Engine and Systems AUDI/MLR</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34030</td>
+          <td title="Course">AUTO1031M</td>
+          <td title="Course Title">IC Engine and Systems Global/S</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">TF</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33974</td>
+          <td title="Course">AUTO1031M</td>
+          <td title="Course Title">IC Engine and Systems MCAP</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1124</td>
+        </tr>
+        <tr>
+          <td title="CRN">34034</td>
+          <td title="Course">AUTO1032M</td>
+          <td title="Course Title">Brake Systems MLR/AUDI</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MF</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34033</td>
+          <td title="Course">AUTO1032M</td>
+          <td title="Course Title">Brake Systems Global/Sub</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34032</td>
+          <td title="Course">AUTO1032M</td>
+          <td title="Course Title">Brake Systems MCAP</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33974</td>
+          <td title="Course">AUTO1031M</td>
+          <td title="Course Title">IC Engine and Systems MCAP</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1124</td>
+        </tr>
+        <tr>
+          <td title="CRN">33227</td>
+          <td title="Course">AUTO105M</td>
+          <td title="Course Title">Automotive Engines</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 7:10 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33228</td>
+          <td title="Course">AUTO107M</td>
+          <td title="Course Title">Automotive Climate Control</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 7:10 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">34031</td>
+          <td title="Course">AUTO1031M</td>
+          <td title="Course Title">IC Engine and Systems AUDI/MLR</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34034</td>
+          <td title="Course">AUTO1032M</td>
+          <td title="Course Title">Brake Systems MLR/AUDI</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MF</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34030</td>
+          <td title="Course">AUTO1031M</td>
+          <td title="Course Title">IC Engine and Systems Global/S</td>
+          <td title="CR">4</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">TF</td>
+          <td title="Times">8:00 AM to 4:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33289</td>
+          <td title="Course">ENGL113M</td>
+          <td title="Course Title">Intro to Public Speaking</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33292</td>
+          <td title="Course">FYE100M</td>
+          <td title="Course Title">First Year Cornerstone</td>
+          <td title="CR">1</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">T</td>
+          <td title="Times">5:30 PM to 7:10 PM</td>
+          <td title="Cost">226</td>
+        </tr>
+        <tr>
+          <td title="CRN">33373</td>
+          <td title="Course">ADMT135M</td>
+          <td title="Course Title">Basic Machining Practices</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">M</td>
+          <td title="Times">5:30 PM to 9:40 PM</td>
+          <td title="Cost">898</td>
+        </tr>
+        <tr>
+          <td title="CRN">33370</td>
+          <td title="Course">ADMT230M</td>
+          <td title="Course Title">CAD/CAM for Manufacturing</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">R</td>
+          <td title="Times">5:30 PM to 9:40 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33224</td>
+          <td title="Course">ARTS123M</td>
+          <td title="Course Title">Drawing I</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 12:10 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33225</td>
+          <td title="Course">ARTS210M</td>
+          <td title="Course Title">Painting I</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 12:10 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33299</td>
+          <td title="Course">HVAC101M</td>
+          <td title="Course Title">Introduction to HVAC Systems</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">S</td>
+          <td title="Times">8:00 AM to 1:45 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33226</td>
+          <td title="Course">ASL110M</td>
+          <td title="Course Title">American Sign Language I</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 10:30 AM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33305</td>
+          <td title="Course">MATH111M</td>
+          <td title="Course Title">Numerical Geometry</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">6:00 PM to 8:30 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33223</td>
+          <td title="Course">ARTS110M</td>
+          <td title="Course Title">Welding for the Artist</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">6:00 PM to 9:20 PM</td>
+          <td title="Cost">998</td>
+        </tr>
+        <tr>
+          <td title="CRN">33418</td>
+          <td title="Course">WELD180M</td>
+          <td title="Course Title">Basic Arc and Gas</td>
+          <td title="CR">2</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">7:00 PM to 9:30 PM</td>
+          <td title="Cost">662</td>
+        </tr>
+        <tr>
+          <td title="CRN">33419</td>
+          <td title="Course">WELD181M</td>
+          <td title="Course Title">Intermediate Arc and Gas</td>
+          <td title="CR">2</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">S</td>
+          <td title="Times">12:50 PM to 3:20 PM</td>
+          <td title="Cost">662</td>
+        </tr>
+        <tr>
+          <td title="CRN">33419</td>
+          <td title="Course">WELD181M</td>
+          <td title="Course Title">Intermediate Arc and Gas</td>
+          <td title="CR">2</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">S</td>
+          <td title="Times">9:50 AM to 12:20 PM</td>
+          <td title="Cost">662</td>
+        </tr>
+        <tr>
+          <td title="CRN">33301</td>
+          <td title="Course">HVAC110M</td>
+          <td title="Course Title">Related Electricity I Lab</td>
+          <td title="CR">1</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">7:00 PM to 9:55 PM</td>
+          <td title="Cost">336</td>
+        </tr>
+        <tr>
+          <td title="CRN">33300</td>
+          <td title="Course">HVAC109M</td>
+          <td title="Course Title">Related Electricity I Theory</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">4:00 PM to 6:55 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33302</td>
+          <td title="Course">HVAC230M</td>
+          <td title="Course Title">Gas Equipment Installation adn Service Theory</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:00 PM to 7:15 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33899</td>
+          <td title="Course">ADMT112M</td>
+          <td title="Course Title">Introduction to Engineering Design and Solid Modeling</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">T</td>
+          <td title="Times">5:30 PM to 9:40 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33896</td>
+          <td title="Course">ADMT115M</td>
+          <td title="Course Title">Engineering Print Reading</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 9:40 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33900</td>
+          <td title="Course">ADMT120M</td>
+          <td title="Course Title">Motor Control and PLC for Manufacturing</td>
+          <td title="CR">0</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">T</td>
+          <td title="Times">5:30 PM to 9:40 PM</td>
+          <td title="Cost">110</td>
+        </tr>
+        <tr>
+          <td title="CRN">33900</td>
+          <td title="Course">ADMT120M</td>
+          <td title="Course Title">Motor Control and PLC for Manufacturing</td>
+          <td title="CR">0</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">T</td>
+          <td title="Times">5:30 PM to 9:40 PM</td>
+          <td title="Cost">110</td>
+        </tr>
+        <tr>
+          <td title="CRN">33303</td>
+          <td title="Course">MATH090M</td>
+          <td title="Course Title">Foundations of College Math</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">11:00 AM to 12:40 PM</td>
+          <td title="Cost"></td>
+        </tr>
+        <tr>
+          <td title="CRN">33303</td>
+          <td title="Course">MATH090M</td>
+          <td title="Course Title">Foundations of College Math</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">11:00 AM to 12:40 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33304</td>
+          <td title="Course">MATH090M</td>
+          <td title="Course Title">Foundations of College Math</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 7:10 PM</td>
+          <td title="Cost"></td>
+        </tr>
+        <tr>
+          <td title="CRN">33304</td>
+          <td title="Course">MATH090M</td>
+          <td title="Course Title">Foundations of College Math</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 7:10 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33375</td>
+          <td title="Course">MATH090M</td>
+          <td title="Course Title">Foundations of College Math</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">S</td>
+          <td title="Times">9:00 AM to 12:20 PM</td>
+          <td title="Cost"></td>
+        </tr>
+        <tr>
+          <td title="CRN">33375</td>
+          <td title="Course">MATH090M</td>
+          <td title="Course Title">Foundations of College Math</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">S</td>
+          <td title="Times">9:00 AM to 12:20 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33223</td>
+          <td title="Course">ARTS110M</td>
+          <td title="Course Title">Welding for the Artist</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:00 PM to 5:50 PM</td>
+          <td title="Cost">998</td>
+        </tr>
+        <tr>
+          <td title="CRN">33418</td>
+          <td title="Course">WELD180M</td>
+          <td title="Course Title">Basic Arc and Gas</td>
+          <td title="CR">2</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">6:00 PM to 6:50 PM</td>
+          <td title="Cost">662</td>
+        </tr>
+        <tr>
+          <td title="CRN">33419</td>
+          <td title="Course">WELD181M</td>
+          <td title="Course Title">Intermediate Arc and Gas</td>
+          <td title="CR">2</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">S</td>
+          <td title="Times">8:00 AM to 9:40 AM</td>
+          <td title="Cost">662</td>
+        </tr>
+        <tr>
+          <td title="CRN">33899</td>
+          <td title="Course">ADMT112M</td>
+          <td title="Course Title">Introduction to Engineering Design and Solid Modeling</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">T</td>
+          <td title="Times">5:30 PM to 9:40 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33896</td>
+          <td title="Course">ADMT115M</td>
+          <td title="Course Title">Engineering Print Reading</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 9:40 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">34102</td>
+          <td title="Course">NCMI107M</td>
+          <td title="Course Title">Solid Modeling</td>
+          <td title="CR">0</td>
+          <td title="Dates">16-Jul-18 to 19-Jul-18</td>
+          <td title="Days">MTWR</td>
+          <td title="Times">8:45 AM to 2:30 PM</td>
+          <td title="Cost">175</td>
+        </tr>
+        <tr>
+          <td title="CRN">34091</td>
+          <td title="Course">NCMI86M</td>
+          <td title="Course Title">STEM Camp</td>
+          <td title="CR">0</td>
+          <td title="Dates">23-Jul-18 to 26-Jul-18</td>
+          <td title="Days">MTWR</td>
+          <td title="Times">8:45 AM to 2:30 PM</td>
+          <td title="Cost">175</td>
+        </tr>
+        <tr>
+          <td title="CRN">34095</td>
+          <td title="Course">NCMI90M</td>
+          <td title="Course Title">Girl's Career Camp</td>
+          <td title="CR">0</td>
+          <td title="Dates">6-Aug-18 to 9-Aug-18</td>
+          <td title="Days">MTWR</td>
+          <td title="Times">8:45 AM to 2:30 PM</td>
+          <td title="Cost">175</td>
+        </tr>
+        <tr>
+          <td title="CRN">34088</td>
+          <td title="Course">NCMI91M</td>
+          <td title="Course Title">Thingamajigs Summer Camp</td>
+          <td title="CR">0</td>
+          <td title="Dates">9-Jul-18 to 13-Jul-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">8:45 AM to 2:30 PM</td>
+          <td title="Cost">175</td>
+        </tr>
+        <tr>
+          <td title="CRN">33267</td>
+          <td title="Course">CIS110M</td>
+          <td title="Course Title">Microsoft Computer Applications I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">W</td>
+          <td title="Times">8:00 AM to 11:20 AM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33269</td>
+          <td title="Course">CIS110M</td>
+          <td title="Course Title">Microsoft Computer Applications I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">R</td>
+          <td title="Times">5:30 PM to 8:50 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33411</td>
+          <td title="Course">CIS110M</td>
+          <td title="Course Title">Microsoft Computer Applications I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">S</td>
+          <td title="Times">9:00 AM to 12:20 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33271</td>
+          <td title="Course">CIS126M</td>
+          <td title="Course Title">Introduction to Python</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">T</td>
+          <td title="Times">5:30 PM to 8:50 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33436</td>
+          <td title="Course">CIS220M</td>
+          <td title="Course Title">Object-Oriented Programming</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">T</td>
+          <td title="Times">1:00 PM to 4:20 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33283</td>
+          <td title="Course">ENGL110M</td>
+          <td title="Course Title">College Composition I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 10:15 AM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33284</td>
+          <td title="Course">ENGL110M</td>
+          <td title="Course Title">College Composition I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">11:00 AM to 1:15 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33285</td>
+          <td title="Course">ENGL110M</td>
+          <td title="Course Title">College Composition I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 7:45 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33422</td>
+          <td title="Course">HSV116M</td>
+          <td title="Course Title">Professional Seminar I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 7:25 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33272</td>
+          <td title="Course">CYBD110M</td>
+          <td title="Course Title">Investgtn &amp; Evidence Recovery</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">T</td>
+          <td title="Times">12:00 PM to 2:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33272</td>
+          <td title="Course">CYBD110M</td>
+          <td title="Course Title">Investgtn &amp; Evidence Recovery</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">T</td>
+          <td title="Times">9:00 AM to 11:30 AM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33342</td>
+          <td title="Course">CYBD230M</td>
+          <td title="Course Title">Mobile &amp; Emerging Device Analy</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">R</td>
+          <td title="Times">12:00 PM to 2:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33342</td>
+          <td title="Course">CYBD230M</td>
+          <td title="Course Title">Mobile &amp; Emerging Device Analy</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">R</td>
+          <td title="Times">9:00 AM to 11:30 AM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33312</td>
+          <td title="Course">MATH171M</td>
+          <td title="Course Title">Pre-Calculus</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 7:45 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">34094</td>
+          <td title="Course">NCMI85M</td>
+          <td title="Course Title">Robotics Camp</td>
+          <td title="CR">0</td>
+          <td title="Dates">30-Jul-18 to 2-Aug-18</td>
+          <td title="Days">MTWR</td>
+          <td title="Times">8:45 AM to 2:30 PM</td>
+          <td title="Cost">175</td>
+        </tr>
+        <tr>
+          <td title="CRN">33338</td>
+          <td title="Course">SOCI110M</td>
+          <td title="Course Title">Introduction to Sociology</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33290</td>
+          <td title="Course">EXER100M</td>
+          <td title="Course Title">ACE Personal Trainer Exam Review</td>
+          <td title="CR">1</td>
+          <td title="Dates">2-Aug-18 to 3-Aug-18</td>
+          <td title="Days">RF</td>
+          <td title="Times">1:00 PM to 3:40 PM</td>
+          <td title="Cost">226</td>
+        </tr>
+        <tr>
+          <td title="CRN">33290</td>
+          <td title="Course">EXER100M</td>
+          <td title="Course Title">ACE Personal Trainer Exam Review</td>
+          <td title="CR">1</td>
+          <td title="Dates">2-Aug-18 to 3-Aug-18</td>
+          <td title="Days">RF</td>
+          <td title="Times">8:00 AM to 12:00 PM</td>
+          <td title="Cost">226</td>
+        </tr>
+        <tr>
+          <td title="CRN">33421</td>
+          <td title="Course">EXER213M</td>
+          <td title="Course Title">Resistance Training</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 12:10 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33420</td>
+          <td title="Course">EXER213M</td>
+          <td title="Course Title">Resistance Training</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">12:30 PM to 4:40 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">34096</td>
+          <td title="Course">NCMI102M</td>
+          <td title="Course Title">Video Game Animation</td>
+          <td title="CR">0</td>
+          <td title="Dates">9-Jul-18 to 13-Jul-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">9:00 AM to 12:00 PM</td>
+          <td title="Cost">150</td>
+        </tr>
+        <tr>
+          <td title="CRN">34103</td>
+          <td title="Course">NCMI108M</td>
+          <td title="Course Title">3D Printing Fundamentals</td>
+          <td title="CR">0</td>
+          <td title="Dates">25-Jun-18 to 29-Jun-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">9:00 AM to 12:00 PM</td>
+          <td title="Cost">150</td>
+        </tr>
+        <tr>
+          <td title="CRN">34104</td>
+          <td title="Course">NCMI109M</td>
+          <td title="Course Title">VEX IQ Robotics Fundamentals</td>
+          <td title="CR">0</td>
+          <td title="Dates">25-Jun-18 to 29-Jun-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">1:00 PM to 4:00 PM</td>
+          <td title="Cost">150</td>
+        </tr>
+        <tr>
+          <td title="CRN">34109</td>
+          <td title="Course">NCMI110M</td>
+          <td title="Course Title">App IO:  Make Your First Multiplayer App!</td>
+          <td title="CR">0</td>
+          <td title="Dates">9-Jul-18 to 13-Jul-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">1:00 PM to 4:00 PM</td>
+          <td title="Cost">150</td>
+        </tr>
+        <tr>
+          <td title="CRN">34110</td>
+          <td title="Course">NCMI111M</td>
+          <td title="Course Title">Advanced 3D Video Game with Unity</td>
+          <td title="CR">0</td>
+          <td title="Dates">16-Jul-18 to 20-Jul-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">9:00 AM to 12:00 PM</td>
+          <td title="Cost">150</td>
+        </tr>
+        <tr>
+          <td title="CRN">34112</td>
+          <td title="Course">NCMI113M</td>
+          <td title="Course Title">Introduction to Robotics (VEX IQ)</td>
+          <td title="CR">0</td>
+          <td title="Dates">6-Aug-18 to 10-Aug-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">9:00 AM to 3:00 PM</td>
+          <td title="Cost">250</td>
+        </tr>
+        <tr>
+          <td title="CRN">34113</td>
+          <td title="Course">NCMI114M</td>
+          <td title="Course Title">Robotic Sensors and Programming (VEX IQ)</td>
+          <td title="CR">0</td>
+          <td title="Dates">13-Aug-18 to 17-Aug-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">9:00 AM to 3:00 PM</td>
+          <td title="Cost">250</td>
+        </tr>
+        <tr>
+          <td title="CRN">34099</td>
+          <td title="Course">NCMI87M</td>
+          <td title="Course Title">Minecraft Designers</td>
+          <td title="CR">0</td>
+          <td title="Dates">23-Jul-18 to 27-Jul-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">1:00 PM to 4:00 PM</td>
+          <td title="Cost">150</td>
+        </tr>
+        <tr>
+          <td title="CRN">34098</td>
+          <td title="Course">NCMI89M</td>
+          <td title="Course Title">Minecraft Modders</td>
+          <td title="CR">0</td>
+          <td title="Dates">23-Jul-18 to 27-Jul-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">9:00 AM to 12:00 PM</td>
+          <td title="Cost">150</td>
+        </tr>
+        <tr>
+          <td title="CRN">34097</td>
+          <td title="Course">NCMI95M</td>
+          <td title="Course Title">App Attack!</td>
+          <td title="CR">0</td>
+          <td title="Dates">16-Jul-18 to 20-Jul-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">1:00 PM to 4:00 PM</td>
+          <td title="Cost">150</td>
+        </tr>
+        <tr>
+          <td title="CRN">34101</td>
+          <td title="Course">NCMI97M</td>
+          <td title="Course Title">Code Breakers</td>
+          <td title="CR">0</td>
+          <td title="Dates">30-Jul-18 to 3-Aug-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">9:00 AM to 12:00 PM</td>
+          <td title="Cost">150</td>
+        </tr>
+        <tr>
+          <td title="CRN">34102</td>
+          <td title="Course">NCMI107M</td>
+          <td title="Course Title">Solid Modeling</td>
+          <td title="CR">0</td>
+          <td title="Dates">16-Jul-18 to 19-Jul-18</td>
+          <td title="Days">MTWR</td>
+          <td title="Times">8:45 AM to 2:30 PM</td>
+          <td title="Cost">175</td>
+        </tr>
+        <tr>
+          <td title="CRN">34091</td>
+          <td title="Course">NCMI86M</td>
+          <td title="Course Title">STEM Camp</td>
+          <td title="CR">0</td>
+          <td title="Dates">23-Jul-18 to 26-Jul-18</td>
+          <td title="Days">MTWR</td>
+          <td title="Times">8:45 AM to 2:30 PM</td>
+          <td title="Cost">175</td>
+        </tr>
+        <tr>
+          <td title="CRN">34095</td>
+          <td title="Course">NCMI90M</td>
+          <td title="Course Title">Girl's Career Camp</td>
+          <td title="CR">0</td>
+          <td title="Dates">6-Aug-18 to 9-Aug-18</td>
+          <td title="Days">MTWR</td>
+          <td title="Times">8:45 AM to 2:30 PM</td>
+          <td title="Cost">175</td>
+        </tr>
+        <tr>
+          <td title="CRN">34088</td>
+          <td title="Course">NCMI91M</td>
+          <td title="Course Title">Thingamajigs Summer Camp</td>
+          <td title="CR">0</td>
+          <td title="Dates">9-Jul-18 to 13-Jul-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">8:45 AM to 2:30 PM</td>
+          <td title="Cost">175</td>
+        </tr>
+        <tr>
+          <td title="CRN">33417</td>
+          <td title="Course">ECE105M</td>
+          <td title="Course Title">Creative Activities and Curriculum for Early Childhood</td>
+          <td title="CR">3</td>
+          <td title="Dates">2-Jul-18 to 2-Jul-18</td>
+          <td title="Days">M</td>
+          <td title="Times">6:30 PM to 9:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33417</td>
+          <td title="Course">ECE105M</td>
+          <td title="Course Title">Creative Activities and Curriculum for Early Childhood</td>
+          <td title="CR">3</td>
+          <td title="Dates">4-Jun-18 to 4-Jun-18</td>
+          <td title="Days">M</td>
+          <td title="Times">6:30 PM to 9:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33417</td>
+          <td title="Course">ECE105M</td>
+          <td title="Course Title">Creative Activities and Curriculum for Early Childhood</td>
+          <td title="CR">3</td>
+          <td title="Dates">11-Jun-18 to 11-Jun-18</td>
+          <td title="Days">M</td>
+          <td title="Times">6:30 PM to 9:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33417</td>
+          <td title="Course">ECE105M</td>
+          <td title="Course Title">Creative Activities and Curriculum for Early Childhood</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 14-May-18</td>
+          <td title="Days">M</td>
+          <td title="Times">6:30 PM to 9:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33417</td>
+          <td title="Course">ECE105M</td>
+          <td title="Course Title">Creative Activities and Curriculum for Early Childhood</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 18-Jun-18</td>
+          <td title="Days">M</td>
+          <td title="Times">6:30 PM to 9:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33417</td>
+          <td title="Course">ECE105M</td>
+          <td title="Course Title">Creative Activities and Curriculum for Early Childhood</td>
+          <td title="CR">3</td>
+          <td title="Dates">21-May-18 to 21-May-18</td>
+          <td title="Days">M</td>
+          <td title="Times">6:30 PM to 9:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33417</td>
+          <td title="Course">ECE105M</td>
+          <td title="Course Title">Creative Activities and Curriculum for Early Childhood</td>
+          <td title="CR">3</td>
+          <td title="Dates">25-Jun-18 to 25-Jun-18</td>
+          <td title="Days">M</td>
+          <td title="Times">6:30 PM to 9:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">34050</td>
+          <td title="Course">PHYS136M</td>
+          <td title="Course Title">College Physics II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:00 PM to 8:20 PM</td>
+          <td title="Cost">110</td>
+        </tr>
+        <tr>
+          <td title="CRN">33288</td>
+          <td title="Course">ENGL113M</td>
+          <td title="Course Title">Intro to Public Speaking</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">2:00 PM to 4:55 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33434</td>
+          <td title="Course">ENGL210M</td>
+          <td title="Course Title">Science Fiction:  Evolution Ethics and Technology</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:00 PM to 7:55 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33306</td>
+          <td title="Course">MATH145M</td>
+          <td title="Course Title">Topics in Applied College Mathematics</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">11:00 AM to 2:20 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33316</td>
+          <td title="Course">MATH204M</td>
+          <td title="Course Title">Calculus I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 7:45 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33425</td>
+          <td title="Course">ACCT123M</td>
+          <td title="Course Title">Introduction to Accounting and Financial Reporting II</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">11:00 AM to 1:30 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33343</td>
+          <td title="Course">ENGL200M</td>
+          <td title="Course Title">Topics:Heroes/Vilns -Middl Age</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">2:00 PM to 4:30 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33378</td>
+          <td title="Course">PHYS220M</td>
+          <td title="Course Title">University Physics II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:00 PM to 8:20 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33332</td>
+          <td title="Course">PSYC110M</td>
+          <td title="Course Title">Introduction to Psychology</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 10:55 AM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33314</td>
+          <td title="Course">MATH202M</td>
+          <td title="Course Title">Probability &amp; Statistics</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 8:50 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33263</td>
+          <td title="Course">CHEM090M</td>
+          <td title="Course Title">Foundations of Chemistry</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:00 PM to 8:20 PM</td>
+          <td title="Cost">110</td>
+        </tr>
+        <tr>
+          <td title="CRN">33263</td>
+          <td title="Course">CHEM090M</td>
+          <td title="Course Title">Foundations of Chemistry</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:00 PM to 8:20 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33265</td>
+          <td title="Course">CHEM115M</td>
+          <td title="Course Title">General Chemistry I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">12:00 PM to 1:30 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33265</td>
+          <td title="Course">CHEM115M</td>
+          <td title="Course Title">General Chemistry I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 11:30 AM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33399</td>
+          <td title="Course">CHEM115M</td>
+          <td title="Course Title">General Chemistry I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:00 PM to 10:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33266</td>
+          <td title="Course">CHEM116M</td>
+          <td title="Course Title">General Chemistry II</td>
+          <td title="CR">0</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">12:00 PM to 2:15 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33266</td>
+          <td title="Course">CHEM116M</td>
+          <td title="Course Title">General Chemistry II</td>
+          <td title="CR">0</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 11:30 AM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33243</td>
+          <td title="Course">BIOL108M</td>
+          <td title="Course Title">College Biology I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">T</td>
+          <td title="Times">5:00 PM to 9:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33251</td>
+          <td title="Course">BIOL210M</td>
+          <td title="Course Title">Microbiology</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 1:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33252</td>
+          <td title="Course">BIOL210M</td>
+          <td title="Course Title">Microbiology</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">11:00 AM to 4:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33253</td>
+          <td title="Course">BIOL210M</td>
+          <td title="Course Title">Microbiology</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:00 PM to 10:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33240</td>
+          <td title="Course">BIOL106M</td>
+          <td title="Course Title">The Human Body</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 10:30 AM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33242</td>
+          <td title="Course">BIOL107M</td>
+          <td title="Course Title">The Human Body Lab</td>
+          <td title="CR">1</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">11:00 AM to 1:30 PM</td>
+          <td title="Cost">336</td>
+        </tr>
+        <tr>
+          <td title="CRN">33247</td>
+          <td title="Course">BIOL120M</td>
+          <td title="Course Title">Anatomy &amp; Physiology II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:00 PM to 10:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33359</td>
+          <td title="Course">BIOL120M</td>
+          <td title="Course Title">Anatomy &amp; Physiology II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">R</td>
+          <td title="Times">5:00 PM to 9:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33360</td>
+          <td title="Course">BIOL120M</td>
+          <td title="Course Title">Anatomy &amp; Physiology II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">S</td>
+          <td title="Times">12:30 PM to 3:10 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33360</td>
+          <td title="Course">BIOL120M</td>
+          <td title="Course Title">Anatomy &amp; Physiology II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">S</td>
+          <td title="Times">8:00 AM to 12:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33433</td>
+          <td title="Course">BIOL130M</td>
+          <td title="Course Title">Marine Biology</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 1:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33432</td>
+          <td title="Course">BIOL101M</td>
+          <td title="Course Title">General Concepts in Biology</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">R</td>
+          <td title="Times">1:10 PM to 4:50 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33382</td>
+          <td title="Course">BIOL109M</td>
+          <td title="Course Title">College Biology II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">R</td>
+          <td title="Times">5:00 PM to 9:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33244</td>
+          <td title="Course">BIOL110M</td>
+          <td title="Course Title">Anatomy &amp; Physiology I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">11:00 AM to 4:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33246</td>
+          <td title="Course">BIOL110M</td>
+          <td title="Course Title">Anatomy &amp; Physiology I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 1:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33245</td>
+          <td title="Course">BIOL110M</td>
+          <td title="Course Title">Anatomy &amp; Physiology I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:00 PM to 10:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33357</td>
+          <td title="Course">BIOL110M</td>
+          <td title="Course Title">Anatomy &amp; Physiology I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">T</td>
+          <td title="Times">5:00 PM to 9:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33358</td>
+          <td title="Course">BIOL110M</td>
+          <td title="Course Title">Anatomy &amp; Physiology I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">S</td>
+          <td title="Times">12:30 PM to 3:10 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33358</td>
+          <td title="Course">BIOL110M</td>
+          <td title="Course Title">Anatomy &amp; Physiology I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">S</td>
+          <td title="Times">8:00 AM to 12:00 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33329</td>
+          <td title="Course">PHYS100M</td>
+          <td title="Course Title">Introductory Physics</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 9:40 PM</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33330</td>
+          <td title="Course">PHYS135M</td>
+          <td title="Course Title">College Physics I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:00 PM to 8:20 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">34050</td>
+          <td title="Course">PHYS136M</td>
+          <td title="Course Title">College Physics II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:00 PM to 8:20 PM</td>
+          <td title="Cost">110</td>
+        </tr>
+        <tr>
+          <td title="CRN">33377</td>
+          <td title="Course">PHYS210M</td>
+          <td title="Course Title">University Physics</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">11:00 AM to 2:20 PM</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33404</td>
+          <td title="Course">FYE100M</td>
+          <td title="Course Title">First Year Cornerstone</td>
+          <td title="CR">1</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 7:25 PM</td>
+          <td title="Cost">226</td>
+        </tr>
+        <tr>
+          <td title="CRN">33428</td>
+          <td title="Course">MATH145M</td>
+          <td title="Course Title">Topics in Applied College Mathematics</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">8:00 AM to 11:20 AM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33321</td>
+          <td title="Course">MKTG125M</td>
+          <td title="Course Title">Princ of Mktg:A Global Perspec</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 8:25 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33287</td>
+          <td title="Course">ENGL113M</td>
+          <td title="Course Title">Intro to Public Speaking</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 10:30 AM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33429</td>
+          <td title="Course">ENGL203M</td>
+          <td title="Course Title">Introduction to Journalism</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">2:00 PM to 4:30 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33423</td>
+          <td title="Course">HSV114M</td>
+          <td title="Course Title">Assessment and Planning</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33311</td>
+          <td title="Course">MATH155M</td>
+          <td title="Course Title">College Algebra w/Trigonometry</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 8:50 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">34111</td>
+          <td title="Course">NCMI112M</td>
+          <td title="Course Title">Simple Machines with VEX IQ</td>
+          <td title="CR">0</td>
+          <td title="Dates">30-Jul-18 to 3-Aug-18</td>
+          <td title="Days">MTWRF</td>
+          <td title="Times">9:00 AM to 3:00 PM</td>
+          <td title="Cost">250</td>
+        </tr>
+        <tr>
+          <td title="CRN">33327</td>
+          <td title="Course">PHIL240M</td>
+          <td title="Course Title">Ethics</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 8:25 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33335</td>
+          <td title="Course">PSYC210M</td>
+          <td title="Course Title">Human Growth &amp; Development</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">2:00 PM to 4:30 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33296</td>
+          <td title="Course">HIST204M</td>
+          <td title="Course Title">United States History - 1877 to the Present</td>
+          <td title="CR">0</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 10:55 AM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33307</td>
+          <td title="Course">MATH145M</td>
+          <td title="Course Title">Topics in Applied College Mathematics</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 8:50 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33317</td>
+          <td title="Course">MATH214M</td>
+          <td title="Course Title">Calculus II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 7:45 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33356</td>
+          <td title="Course">ACCT113M</td>
+          <td title="Course Title">Introduction to Accounting and Financial Reporting I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 8:25 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33424</td>
+          <td title="Course">ACCT123M</td>
+          <td title="Course Title">Introduction to Accounting and Financial Reporting II</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">S</td>
+          <td title="Times">8:30 AM to 11:00 AM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33297</td>
+          <td title="Course">HIST203M</td>
+          <td title="Course Title">Topics History: The Civil War</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">2:00 PM to 4:30 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33400</td>
+          <td title="Course">ENGL220M</td>
+          <td title="Course Title">College Composition II</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 11:50 AM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33350</td>
+          <td title="Course">MATH132M</td>
+          <td title="Course Title">Business Mathematics</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33333</td>
+          <td title="Course">PSYC110M</td>
+          <td title="Course Title">Introduction to Psychology</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33281</td>
+          <td title="Course">ENGL095M</td>
+          <td title="Course Title">Integrated Reading and Writing</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">11:00 AM to 1:15 PM</td>
+          <td title="Cost"></td>
+        </tr>
+        <tr>
+          <td title="CRN">33281</td>
+          <td title="Course">ENGL095M</td>
+          <td title="Course Title">Integrated Reading and Writing</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">11:00 AM to 1:15 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33282</td>
+          <td title="Course">ENGL095M</td>
+          <td title="Course Title">Integrated Reading and Writing</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 7:45 PM</td>
+          <td title="Cost"></td>
+        </tr>
+        <tr>
+          <td title="CRN">33282</td>
+          <td title="Course">ENGL095M</td>
+          <td title="Course Title">Integrated Reading and Writing</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 7:45 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33401</td>
+          <td title="Course">ENGL220M</td>
+          <td title="Course Title">College Composition II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">5:30 PM to 8:50 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33279</td>
+          <td title="Course">ECON135M</td>
+          <td title="Course Title">Microeconomics</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">8:00 AM to 10:30 AM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33310</td>
+          <td title="Course">MATH135M</td>
+          <td title="Course Title">Numerical Algebra and Trig</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">MW</td>
+          <td title="Times">6:00 PM to 8:30 PM</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33349</td>
+          <td title="Course">MATH151M</td>
+          <td title="Course Title">Intermediate Algebra</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">TR</td>
+          <td title="Times">5:30 PM to 7:45 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33318</td>
+          <td title="Course">MCOD100M</td>
+          <td title="Course Title">ICD CM Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">11-Jul-18 to 11-Jul-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33318</td>
+          <td title="Course">MCOD100M</td>
+          <td title="Course Title">ICD CM Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">13-Jun-18 to 13-Jun-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33318</td>
+          <td title="Course">MCOD100M</td>
+          <td title="Course Title">ICD CM Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">16-May-18 to 16-May-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33318</td>
+          <td title="Course">MCOD100M</td>
+          <td title="Course Title">ICD CM Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">25-Jul-18 to 25-Jul-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33318</td>
+          <td title="Course">MCOD100M</td>
+          <td title="Course Title">ICD CM Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">27-Jun-18 to 27-Jun-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 7:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33318</td>
+          <td title="Course">MCOD100M</td>
+          <td title="Course Title">ICD CM Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">30-May-18 to 30-May-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33386</td>
+          <td title="Course">MCOD110M</td>
+          <td title="Course Title">CPT Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">1-Aug-18 to 1-Aug-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33386</td>
+          <td title="Course">MCOD110M</td>
+          <td title="Course Title">CPT Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">6-Jun-18 to 6-Jun-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33386</td>
+          <td title="Course">MCOD110M</td>
+          <td title="Course Title">CPT Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jul-18 to 18-Jul-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33386</td>
+          <td title="Course">MCOD110M</td>
+          <td title="Course Title">CPT Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">20-Jun-18 to 20-Jun-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33386</td>
+          <td title="Course">MCOD110M</td>
+          <td title="Course Title">CPT Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">23-May-18 to 23-May-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:30 PM to 8:00 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33386</td>
+          <td title="Course">MCOD110M</td>
+          <td title="Course Title">CPT Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">27-Jun-18 to 27-Jun-18</td>
+          <td title="Days">W</td>
+          <td title="Times">7:10 PM to 8:40 PM</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33220</td>
+          <td title="Course">AHLT115M</td>
+          <td title="Course Title">Phlebotomy</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">W</td>
+          <td title="Times">5:00 PM to 10:00 PM</td>
+          <td title="Cost">698</td>
+        </tr>
+        <tr>
+          <td title="CRN">33408</td>
+          <td title="Course">AHLT115M</td>
+          <td title="Course Title">Phlebotomy</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">S</td>
+          <td title="Times">8:00 AM to 1:00 PM</td>
+          <td title="Cost">698</td>
+        </tr>
+        <tr>
+          <td title="CRN">33320</td>
+          <td title="Course">MEDA225M</td>
+          <td title="Course Title">Practicum Seminar</td>
+          <td title="CR">1</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">W</td>
+          <td title="Times">11:00 AM to 12:40 PM</td>
+          <td title="Cost">226</td>
+        </tr>
+        <tr>
+          <td title="CRN">33221</td>
+          <td title="Course">AHLT135M</td>
+          <td title="Course Title">Phlebotomy Internship</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">34038</td>
+          <td title="Course">AUTO1033M</td>
+          <td title="Course Title">Automotive Co-op Work Experience II</td>
+          <td title="CR">2</td>
+          <td title="Dates">2-Jul-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">452</td>
+        </tr>
+        <tr>
+          <td title="CRN">34036</td>
+          <td title="Course">AUTO1033M</td>
+          <td title="Course Title">Automotive Co-op Work Experience II</td>
+          <td title="CR">2</td>
+          <td title="Dates">2-Jul-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">452</td>
+        </tr>
+        <tr>
+          <td title="CRN">34035</td>
+          <td title="Course">AUTO1033M</td>
+          <td title="Course Title">Automotive Co-op Work Experience II</td>
+          <td title="CR">2</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">452</td>
+        </tr>
+        <tr>
+          <td title="CRN">33363</td>
+          <td title="Course">ECE111M</td>
+          <td title="Course Title">Inf/Todl Pract:Nurturg Environ</td>
+          <td title="CR">0</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost"></td>
+        </tr>
+        <tr>
+          <td title="CRN">33275</td>
+          <td title="Course">ECE202M</td>
+          <td title="Course Title">Student Teaching Practicum</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1234</td>
+        </tr>
+        <tr>
+          <td title="CRN">33361</td>
+          <td title="Course">ECE212M</td>
+          <td title="Course Title">Professional Development Practicum: ECE Capstone</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1234</td>
+        </tr>
+        <tr>
+          <td title="CRN">33422</td>
+          <td title="Course">HSV116M</td>
+          <td title="Course Title">Professional Seminar I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33319</td>
+          <td title="Course">MEDA223M</td>
+          <td title="Course Title">Medical Assistant Practicum</td>
+          <td title="CR">5</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1680</td>
+        </tr>
+        <tr>
+          <td title="CRN">33214</td>
+          <td title="Course">ACCT113M</td>
+          <td title="Course Title">Introduction to Accounting and Financial Reporting I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33216</td>
+          <td title="Course">ACCT123M</td>
+          <td title="Course Title">Introduction to Accounting and Financial Reporting II</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33424</td>
+          <td title="Course">ACCT123M</td>
+          <td title="Course Title">Introduction to Accounting and Financial Reporting II</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33217</td>
+          <td title="Course">ACCT216M</td>
+          <td title="Course Title">Software System Applications</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33218</td>
+          <td title="Course">ACCT243M</td>
+          <td title="Course Title">Federal IncomeTaxes/Individual</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33895</td>
+          <td title="Course">ACSP111M</td>
+          <td title="Course Title">Adv Bookkeeping Applications</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33373</td>
+          <td title="Course">ADMT135M</td>
+          <td title="Course Title">Basic Machining Practices</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">898</td>
+        </tr>
+        <tr>
+          <td title="CRN">33370</td>
+          <td title="Course">ADMT230M</td>
+          <td title="Course Title">CAD/CAM for Manufacturing</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33219</td>
+          <td title="Course">AHLT110M</td>
+          <td title="Course Title">Medical Terminology</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33384</td>
+          <td title="Course">AHLT205M</td>
+          <td title="Course Title">Medical Ethics and Law</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33222</td>
+          <td title="Course">ANTH101M</td>
+          <td title="Course Title">Introduction to Anthropology</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33344</td>
+          <td title="Course">ARTS117M</td>
+          <td title="Course Title">Art History I</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33381</td>
+          <td title="Course">BIOL099M</td>
+          <td title="Course Title">Foundations in Biology</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">110</td>
+        </tr>
+        <tr>
+          <td title="CRN">33381</td>
+          <td title="Course">BIOL099M</td>
+          <td title="Course Title">Foundations in Biology</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33432</td>
+          <td title="Course">BIOL101M</td>
+          <td title="Course Title">General Concepts in Biology</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33241</td>
+          <td title="Course">BIOL106M</td>
+          <td title="Course Title">The Human Body</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33243</td>
+          <td title="Course">BIOL108M</td>
+          <td title="Course Title">College Biology I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33382</td>
+          <td title="Course">BIOL109M</td>
+          <td title="Course Title">College Biology II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33357</td>
+          <td title="Course">BIOL110M</td>
+          <td title="Course Title">Anatomy &amp; Physiology I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33359</td>
+          <td title="Course">BIOL120M</td>
+          <td title="Course Title">Anatomy &amp; Physiology II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33248</td>
+          <td title="Course">BIOL150M</td>
+          <td title="Course Title">Nutrition</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33250</td>
+          <td title="Course">BIOL150M</td>
+          <td title="Course Title">Nutrition</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33348</td>
+          <td title="Course">BIOL151M</td>
+          <td title="Course Title">Nutrition Lab</td>
+          <td title="CR">1</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">336</td>
+        </tr>
+        <tr>
+          <td title="CRN">33355</td>
+          <td title="Course">BIOL151M</td>
+          <td title="Course Title">Nutrition Lab</td>
+          <td title="CR">1</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">336</td>
+        </tr>
+        <tr>
+          <td title="CRN">33254</td>
+          <td title="Course">BIOL220M</td>
+          <td title="Course Title">Pathophysiology</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33255</td>
+          <td title="Course">BUS110M</td>
+          <td title="Course Title">Introduction to Business</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33256</td>
+          <td title="Course">BUS114M</td>
+          <td title="Course Title">Management</td>
+          <td title="CR">3</td>
+          <td title="Dates">2-Jul-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33257</td>
+          <td title="Course">BUS124M</td>
+          <td title="Course Title">Small Business Management</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33258</td>
+          <td title="Course">BUS210M</td>
+          <td title="Course Title">Organizational Communications</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33259</td>
+          <td title="Course">BUS221M</td>
+          <td title="Course Title">Business Finance</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33426</td>
+          <td title="Course">BUS227M</td>
+          <td title="Course Title">Training and Development</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33427</td>
+          <td title="Course">BUS228M</td>
+          <td title="Course Title">Seminar in Strategic Human Resource Management</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33267</td>
+          <td title="Course">CIS110M</td>
+          <td title="Course Title">Microsoft Computer Applications I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33269</td>
+          <td title="Course">CIS110M</td>
+          <td title="Course Title">Microsoft Computer Applications I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33411</td>
+          <td title="Course">CIS110M</td>
+          <td title="Course Title">Microsoft Computer Applications I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33268</td>
+          <td title="Course">CIS110M</td>
+          <td title="Course Title">Microsoft Computer Applications I</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33271</td>
+          <td title="Course">CIS126M</td>
+          <td title="Course Title">Introduction to Python</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33435</td>
+          <td title="Course">CIS158M</td>
+          <td title="Course Title">Introduction to Programming using C#</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33436</td>
+          <td title="Course">CIS220M</td>
+          <td title="Course Title">Object-Oriented Programming</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33272</td>
+          <td title="Course">CYBD110M</td>
+          <td title="Course Title">Investgtn &amp; Evidence Recovery</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33342</td>
+          <td title="Course">CYBD230M</td>
+          <td title="Course Title">Mobile &amp; Emerging Device Analy</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33273</td>
+          <td title="Course">ECE100M</td>
+          <td title="Course Title">Early Childhood Growth and Development</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33274</td>
+          <td title="Course">ECE104M</td>
+          <td title="Course Title">Foundations of Early Childhood Education</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33417</td>
+          <td title="Course">ECE105M</td>
+          <td title="Course Title">Creative Activities and Curriculum for Early Childhood</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33362</td>
+          <td title="Course">ECE111M</td>
+          <td title="Course Title">Inf/Todl Pract:Nurturg Environ</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33276</td>
+          <td title="Course">ECE250M</td>
+          <td title="Course Title">Childcare Admin &amp; Management</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33277</td>
+          <td title="Course">ECON134M</td>
+          <td title="Course Title">Macroeconomics</td>
+          <td title="CR">0</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33278</td>
+          <td title="Course">ECON134M</td>
+          <td title="Course Title">Macroeconomics</td>
+          <td title="CR">0</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33280</td>
+          <td title="Course">ECON135M</td>
+          <td title="Course Title">Microeconomics</td>
+          <td title="CR">3</td>
+          <td title="Dates">2-Jul-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33286</td>
+          <td title="Course">ENGL110M</td>
+          <td title="Course Title">College Composition I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33430</td>
+          <td title="Course">ENGL206M</td>
+          <td title="Course Title">Professional Communication</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33402</td>
+          <td title="Course">ENGL220M</td>
+          <td title="Course Title">College Composition II</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33403</td>
+          <td title="Course">ENGL220M</td>
+          <td title="Course Title">College Composition II</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">34042</td>
+          <td title="Course">ENVS115M</td>
+          <td title="Course Title">Curent Issues in the Environment</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33293</td>
+          <td title="Course">FYE100M</td>
+          <td title="Course Title">First Year Cornerstone</td>
+          <td title="CR">1</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">226</td>
+        </tr>
+        <tr>
+          <td title="CRN">33294</td>
+          <td title="Course">FYE100M</td>
+          <td title="Course Title">First Year Cornerstone</td>
+          <td title="CR">1</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">226</td>
+        </tr>
+        <tr>
+          <td title="CRN">33295</td>
+          <td title="Course">HIST120M</td>
+          <td title="Course Title">Western Civilization to 1500</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33405</td>
+          <td title="Course">HLIM208M</td>
+          <td title="Course Title">Pharmacology for Health Professions</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33406</td>
+          <td title="Course">HLIM215M</td>
+          <td title="Course Title">Healthcare Statistics and Performance Improvement</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33298</td>
+          <td title="Course">HUMA105M</td>
+          <td title="Course Title">Introduction to Music</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33308</td>
+          <td title="Course">MATH145M</td>
+          <td title="Course Title">Topics in Applied College Mathematics</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33309</td>
+          <td title="Course">MATH145M</td>
+          <td title="Course Title">Topics in Applied College Mathematics</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33315</td>
+          <td title="Course">MATH202M</td>
+          <td title="Course Title">Probability &amp; Statistics</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33313</td>
+          <td title="Course">MATH202M</td>
+          <td title="Course Title">Probability &amp; Statistics</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33318</td>
+          <td title="Course">MCOD100M</td>
+          <td title="Course Title">ICD CM Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33386</td>
+          <td title="Course">MCOD110M</td>
+          <td title="Course Title">CPT Coding</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">904</td>
+        </tr>
+        <tr>
+          <td title="CRN">33322</td>
+          <td title="Course">MKTG125M</td>
+          <td title="Course Title">Princ of Mktg:A Global Perspec</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33323</td>
+          <td title="Course">MKTG205M</td>
+          <td title="Course Title">International Marketing</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33324</td>
+          <td title="Course">MKTG282M</td>
+          <td title="Course Title">Marketing Research</td>
+          <td title="CR">3</td>
+          <td title="Dates">9-May-18 to 30-Jun-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33325</td>
+          <td title="Course">NURS112M</td>
+          <td title="Course Title">Nursing II:Theory</td>
+          <td title="CR">9</td>
+          <td title="Dates">14-May-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">3304</td>
+        </tr>
+        <tr>
+          <td title="CRN">33352</td>
+          <td title="Course">PHIL240M</td>
+          <td title="Course Title">Ethics</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33326</td>
+          <td title="Course">PHIL240M</td>
+          <td title="Course Title">Ethics</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33328</td>
+          <td title="Course">PHYS110M</td>
+          <td title="Course Title">Physical Science I</td>
+          <td title="CR">4</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33331</td>
+          <td title="Course">POLS110M</td>
+          <td title="Course Title">American Government</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33353</td>
+          <td title="Course">PSYC110M</td>
+          <td title="Course Title">Introduction to Psychology</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33334</td>
+          <td title="Course">PSYC110M</td>
+          <td title="Course Title">Introduction to Psychology</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33393</td>
+          <td title="Course">PSYC210M</td>
+          <td title="Course Title">Human Growth &amp; Development</td>
+          <td title="CR">3</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33336</td>
+          <td title="Course">PSYC210M</td>
+          <td title="Course Title">Human Growth &amp; Development</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33387</td>
+          <td title="Course">PSYC215M</td>
+          <td title="Course Title">Abnormal Psychology</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33337</td>
+          <td title="Course">SOCI109M</td>
+          <td title="Course Title">Contemporary Social Problems</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+        <tr>
+          <td title="CRN">33339</td>
+          <td title="Course">SPAN110M</td>
+          <td title="Course Title">Spanish I</td>
+          <td title="CR">4</td>
+          <td title="Dates">18-Jun-18 to 4-Aug-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">1014</td>
+        </tr>
+        <tr>
+          <td title="CRN">33340</td>
+          <td title="Course">TCHE205M</td>
+          <td title="Course Title">Technology in Education</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">788</td>
+        </tr>
+        <tr>
+          <td title="CRN">33380</td>
+          <td title="Course">HLTH299M</td>
+          <td title="Course Title">Health Science Capstone</td>
+          <td title="CR">3</td>
+          <td title="Dates">14-May-18 to 7-Jul-18</td>
+          <td title="Days">
+          </td>
+          <td title="Times">Online</td>
+          <td title="Cost">678</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

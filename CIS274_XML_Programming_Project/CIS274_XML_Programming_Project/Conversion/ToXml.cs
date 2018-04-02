@@ -12,7 +12,7 @@ namespace CIS274_XML_Programming_Project.Conversion
 {
     public abstract class ToXml
     {
-        public abstract XElement Convert(string path, char fileId);
+        public abstract XElement Convert(string path, string fileId);
 
         /// <summary>
         /// Reads all lines of text in the file at <paramref name="path"/> and returns them as a set of strings (one per line).
