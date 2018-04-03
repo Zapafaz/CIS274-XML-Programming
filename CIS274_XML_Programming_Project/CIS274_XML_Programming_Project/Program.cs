@@ -92,6 +92,12 @@ namespace CIS274_XML_Programming_Project
             }
         }
 
+        /// <summary>
+        /// Takes a <paramref name="inputPath"/> and converts it to HTML using the XSLT at <paramref name="xsltPath"/>, then outputs it to <paramref name="outputPath"/>
+        /// </summary>
+        /// <param name="inputPath">An XML file of a course schedule.</param>
+        /// <param name="xsltPath">An XSLT file for converting course schedules.</param>
+        /// <param name="outputPath">The file location for the output HTML.</param>
         public static void ConvertScheduleToHtml(string inputPath, string xsltPath, string outputPath)
         {
             var transformer = new XslCompiledTransform();
