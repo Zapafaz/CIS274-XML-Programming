@@ -1,0 +1,617 @@
+<ThreeCreditClasses>
+  <Class>
+    <Title>Introduction to Accounting and Financial Reporting II</Title>
+    <Course>ACCT123M</Course>
+    <CRN>33425</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Accounting and Financial Reporting I</Title>
+    <Course>ACCT113M</Course>
+    <CRN>33356</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Accounting and Financial Reporting II</Title>
+    <Course>ACCT123M</Course>
+    <CRN>33424</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Accounting and Financial Reporting I</Title>
+    <Course>ACCT113M</Course>
+    <CRN>33214</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Accounting and Financial Reporting II</Title>
+    <Course>ACCT123M</Course>
+    <CRN>33216</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Accounting and Financial Reporting II</Title>
+    <Course>ACCT123M</Course>
+    <CRN>33424</CRN>
+  </Class>
+  <Class>
+    <Title>Software System Applications</Title>
+    <Course>ACCT216M</Course>
+    <CRN>33217</CRN>
+  </Class>
+  <Class>
+    <Title>Federal IncomeTaxes/Individual</Title>
+    <Course>ACCT243M</Course>
+    <CRN>33218</CRN>
+  </Class>
+  <Class>
+    <Title>Adv Bookkeeping Applications</Title>
+    <Course>ACSP111M</Course>
+    <CRN>33895</CRN>
+  </Class>
+  <Class>
+    <Title>Basic Machining Practices</Title>
+    <Course>ADMT135M</Course>
+    <CRN>33373</CRN>
+  </Class>
+  <Class>
+    <Title>CAD/CAM for Manufacturing</Title>
+    <Course>ADMT230M</Course>
+    <CRN>33370</CRN>
+  </Class>
+  <Class>
+    <Title>Engineering Print Reading</Title>
+    <Course>ADMT115M</Course>
+    <CRN>33896</CRN>
+  </Class>
+  <Class>
+    <Title>Engineering Print Reading</Title>
+    <Course>ADMT115M</Course>
+    <CRN>33896</CRN>
+  </Class>
+  <Class>
+    <Title>Basic Machining Practices</Title>
+    <Course>ADMT135M</Course>
+    <CRN>33373</CRN>
+  </Class>
+  <Class>
+    <Title>CAD/CAM for Manufacturing</Title>
+    <Course>ADMT230M</Course>
+    <CRN>33370</CRN>
+  </Class>
+  <Class>
+    <Title>Phlebotomy</Title>
+    <Course>AHLT115M</Course>
+    <CRN>33220</CRN>
+  </Class>
+  <Class>
+    <Title>Phlebotomy</Title>
+    <Course>AHLT115M</Course>
+    <CRN>33408</CRN>
+  </Class>
+  <Class>
+    <Title>Phlebotomy Internship</Title>
+    <Course>AHLT135M</Course>
+    <CRN>33221</CRN>
+  </Class>
+  <Class>
+    <Title>Medical Terminology</Title>
+    <Course>AHLT110M</Course>
+    <CRN>33219</CRN>
+  </Class>
+  <Class>
+    <Title>Medical Ethics and Law</Title>
+    <Course>AHLT205M</Course>
+    <CRN>33384</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Anthropology</Title>
+    <Course>ANTH101M</Course>
+    <CRN>33222</CRN>
+  </Class>
+  <Class>
+    <Title>Drawing I</Title>
+    <Course>ARTS123M</Course>
+    <CRN>33224</CRN>
+  </Class>
+  <Class>
+    <Title>Painting I</Title>
+    <Course>ARTS210M</Course>
+    <CRN>33225</CRN>
+  </Class>
+  <Class>
+    <Title>Welding for the Artist</Title>
+    <Course>ARTS110M</Course>
+    <CRN>33223</CRN>
+  </Class>
+  <Class>
+    <Title>Welding for the Artist</Title>
+    <Course>ARTS110M</Course>
+    <CRN>33223</CRN>
+  </Class>
+  <Class>
+    <Title>Art History I</Title>
+    <Course>ARTS117M</Course>
+    <CRN>33344</CRN>
+  </Class>
+  <Class>
+    <Title>American Sign Language I</Title>
+    <Course>ASL110M</Course>
+    <CRN>33226</CRN>
+  </Class>
+  <Class>
+    <Title>Automotive Engines</Title>
+    <Course>AUTO105M</Course>
+    <CRN>33227</CRN>
+  </Class>
+  <Class>
+    <Title>Automotive Climate Control</Title>
+    <Course>AUTO107M</Course>
+    <CRN>33228</CRN>
+  </Class>
+  <Class>
+    <Title>Automotive Engines</Title>
+    <Course>AUTO105M</Course>
+    <CRN>33227</CRN>
+  </Class>
+  <Class>
+    <Title>Automotive Climate Control</Title>
+    <Course>AUTO107M</Course>
+    <CRN>33228</CRN>
+  </Class>
+  <Class>
+    <Title>The Human Body</Title>
+    <Course>BIOL106M</Course>
+    <CRN>33240</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations in Biology</Title>
+    <Course>BIOL099M</Course>
+    <CRN>33381</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations in Biology</Title>
+    <Course>BIOL099M</Course>
+    <CRN>33381</CRN>
+  </Class>
+  <Class>
+    <Title>The Human Body</Title>
+    <Course>BIOL106M</Course>
+    <CRN>33241</CRN>
+  </Class>
+  <Class>
+    <Title>Nutrition</Title>
+    <Course>BIOL150M</Course>
+    <CRN>33248</CRN>
+  </Class>
+  <Class>
+    <Title>Nutrition</Title>
+    <Course>BIOL150M</Course>
+    <CRN>33250</CRN>
+  </Class>
+  <Class>
+    <Title>Pathophysiology</Title>
+    <Course>BIOL220M</Course>
+    <CRN>33254</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Business</Title>
+    <Course>BUS110M</Course>
+    <CRN>33255</CRN>
+  </Class>
+  <Class>
+    <Title>Management</Title>
+    <Course>BUS114M</Course>
+    <CRN>33256</CRN>
+  </Class>
+  <Class>
+    <Title>Small Business Management</Title>
+    <Course>BUS124M</Course>
+    <CRN>33257</CRN>
+  </Class>
+  <Class>
+    <Title>Organizational Communications</Title>
+    <Course>BUS210M</Course>
+    <CRN>33258</CRN>
+  </Class>
+  <Class>
+    <Title>Business Finance</Title>
+    <Course>BUS221M</Course>
+    <CRN>33259</CRN>
+  </Class>
+  <Class>
+    <Title>Training and Development</Title>
+    <Course>BUS227M</Course>
+    <CRN>33426</CRN>
+  </Class>
+  <Class>
+    <Title>Seminar in Strategic Human Resource Management</Title>
+    <Course>BUS228M</Course>
+    <CRN>33427</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations of Chemistry</Title>
+    <Course>CHEM090M</Course>
+    <CRN>33263</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations of Chemistry</Title>
+    <Course>CHEM090M</Course>
+    <CRN>33263</CRN>
+  </Class>
+  <Class>
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33267</CRN>
+  </Class>
+  <Class>
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33269</CRN>
+  </Class>
+  <Class>
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33411</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Python</Title>
+    <Course>CIS126M</Course>
+    <CRN>33271</CRN>
+  </Class>
+  <Class>
+    <Title>Object-Oriented Programming</Title>
+    <Course>CIS220M</Course>
+    <CRN>33436</CRN>
+  </Class>
+  <Class>
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33267</CRN>
+  </Class>
+  <Class>
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33269</CRN>
+  </Class>
+  <Class>
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33411</CRN>
+  </Class>
+  <Class>
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33268</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Python</Title>
+    <Course>CIS126M</Course>
+    <CRN>33271</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Programming using C#</Title>
+    <Course>CIS158M</Course>
+    <CRN>33435</CRN>
+  </Class>
+  <Class>
+    <Title>Object-Oriented Programming</Title>
+    <Course>CIS220M</Course>
+    <CRN>33436</CRN>
+  </Class>
+  <Class>
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+  </Class>
+  <Class>
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+  </Class>
+  <Class>
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+  </Class>
+  <Class>
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+  </Class>
+  <Class>
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+  </Class>
+  <Class>
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+  </Class>
+  <Class>
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+  </Class>
+  <Class>
+    <Title>Early Childhood Growth and Development</Title>
+    <Course>ECE100M</Course>
+    <CRN>33273</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations of Early Childhood Education</Title>
+    <Course>ECE104M</Course>
+    <CRN>33274</CRN>
+  </Class>
+  <Class>
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+  </Class>
+  <Class>
+    <Title>Inf/Todl Pract:Nurturg Environ</Title>
+    <Course>ECE111M</Course>
+    <CRN>33362</CRN>
+  </Class>
+  <Class>
+    <Title>Childcare Admin &amp; Management</Title>
+    <Course>ECE250M</Course>
+    <CRN>33276</CRN>
+  </Class>
+  <Class>
+    <Title>Microeconomics</Title>
+    <Course>ECON135M</Course>
+    <CRN>33279</CRN>
+  </Class>
+  <Class>
+    <Title>Microeconomics</Title>
+    <Course>ECON135M</Course>
+    <CRN>33280</CRN>
+  </Class>
+  <Class>
+    <Title>Intro to Public Speaking</Title>
+    <Course>ENGL113M</Course>
+    <CRN>33289</CRN>
+  </Class>
+  <Class>
+    <Title>Intro to Public Speaking</Title>
+    <Course>ENGL113M</Course>
+    <CRN>33288</CRN>
+  </Class>
+  <Class>
+    <Title>Science Fiction:  Evolution Ethics and Technology</Title>
+    <Course>ENGL210M</Course>
+    <CRN>33434</CRN>
+  </Class>
+  <Class>
+    <Title>Topics:Heroes/Vilns -Middl Age</Title>
+    <Course>ENGL200M</Course>
+    <CRN>33343</CRN>
+  </Class>
+  <Class>
+    <Title>Intro to Public Speaking</Title>
+    <Course>ENGL113M</Course>
+    <CRN>33287</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Journalism</Title>
+    <Course>ENGL203M</Course>
+    <CRN>33429</CRN>
+  </Class>
+  <Class>
+    <Title>Professional Communication</Title>
+    <Course>ENGL206M</Course>
+    <CRN>33430</CRN>
+  </Class>
+  <Class>
+    <Title>Curent Issues in the Environment</Title>
+    <Course>ENVS115M</Course>
+    <CRN>34042</CRN>
+  </Class>
+  <Class>
+    <Title>Resistance Training</Title>
+    <Course>EXER213M</Course>
+    <CRN>33421</CRN>
+  </Class>
+  <Class>
+    <Title>Resistance Training</Title>
+    <Course>EXER213M</Course>
+    <CRN>33420</CRN>
+  </Class>
+  <Class>
+    <Title>Topics History: The Civil War</Title>
+    <Course>HIST203M</Course>
+    <CRN>33297</CRN>
+  </Class>
+  <Class>
+    <Title>Western Civilization to 1500</Title>
+    <Course>HIST120M</Course>
+    <CRN>33295</CRN>
+  </Class>
+  <Class>
+    <Title>Pharmacology for Health Professions</Title>
+    <Course>HLIM208M</Course>
+    <CRN>33405</CRN>
+  </Class>
+  <Class>
+    <Title>Healthcare Statistics and Performance Improvement</Title>
+    <Course>HLIM215M</Course>
+    <CRN>33406</CRN>
+  </Class>
+  <Class>
+    <Title>Health Science Capstone</Title>
+    <Course>HLTH299M</Course>
+    <CRN>33380</CRN>
+  </Class>
+  <Class>
+    <Title>Professional Seminar I</Title>
+    <Course>HSV116M</Course>
+    <CRN>33422</CRN>
+  </Class>
+  <Class>
+    <Title>Assessment and Planning</Title>
+    <Course>HSV114M</Course>
+    <CRN>33423</CRN>
+  </Class>
+  <Class>
+    <Title>Professional Seminar I</Title>
+    <Course>HSV116M</Course>
+    <CRN>33422</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Music</Title>
+    <Course>HUMA105M</Course>
+    <CRN>33298</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to HVAC Systems</Title>
+    <Course>HVAC101M</Course>
+    <CRN>33299</CRN>
+  </Class>
+  <Class>
+    <Title>Related Electricity I Theory</Title>
+    <Course>HVAC109M</Course>
+    <CRN>33300</CRN>
+  </Class>
+  <Class>
+    <Title>Numerical Geometry</Title>
+    <Course>MATH111M</Course>
+    <CRN>33305</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33303</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33303</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33304</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33304</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33375</CRN>
+  </Class>
+  <Class>
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33375</CRN>
+  </Class>
+  <Class>
+    <Title>Business Mathematics</Title>
+    <Course>MATH132M</Course>
+    <CRN>33350</CRN>
+  </Class>
+  <Class>
+    <Title>Numerical Algebra and Trig</Title>
+    <Course>MATH135M</Course>
+    <CRN>33310</CRN>
+  </Class>
+  <Class>
+    <Title>Princ of Mktg:A Global Perspec</Title>
+    <Course>MKTG125M</Course>
+    <CRN>33321</CRN>
+  </Class>
+  <Class>
+    <Title>Princ of Mktg:A Global Perspec</Title>
+    <Course>MKTG125M</Course>
+    <CRN>33322</CRN>
+  </Class>
+  <Class>
+    <Title>International Marketing</Title>
+    <Course>MKTG205M</Course>
+    <CRN>33323</CRN>
+  </Class>
+  <Class>
+    <Title>Marketing Research</Title>
+    <Course>MKTG282M</Course>
+    <CRN>33324</CRN>
+  </Class>
+  <Class>
+    <Title>Ethics</Title>
+    <Course>PHIL240M</Course>
+    <CRN>33327</CRN>
+  </Class>
+  <Class>
+    <Title>Ethics</Title>
+    <Course>PHIL240M</Course>
+    <CRN>33352</CRN>
+  </Class>
+  <Class>
+    <Title>Ethics</Title>
+    <Course>PHIL240M</Course>
+    <CRN>33326</CRN>
+  </Class>
+  <Class>
+    <Title>Introductory Physics</Title>
+    <Course>PHYS100M</Course>
+    <CRN>33329</CRN>
+  </Class>
+  <Class>
+    <Title>American Government</Title>
+    <Course>POLS110M</Course>
+    <CRN>33331</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Psychology</Title>
+    <Course>PSYC110M</Course>
+    <CRN>33332</CRN>
+  </Class>
+  <Class>
+    <Title>Human Growth &amp; Development</Title>
+    <Course>PSYC210M</Course>
+    <CRN>33335</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Psychology</Title>
+    <Course>PSYC110M</Course>
+    <CRN>33333</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Psychology</Title>
+    <Course>PSYC110M</Course>
+    <CRN>33353</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Psychology</Title>
+    <Course>PSYC110M</Course>
+    <CRN>33334</CRN>
+  </Class>
+  <Class>
+    <Title>Human Growth &amp; Development</Title>
+    <Course>PSYC210M</Course>
+    <CRN>33393</CRN>
+  </Class>
+  <Class>
+    <Title>Human Growth &amp; Development</Title>
+    <Course>PSYC210M</Course>
+    <CRN>33336</CRN>
+  </Class>
+  <Class>
+    <Title>Abnormal Psychology</Title>
+    <Course>PSYC215M</Course>
+    <CRN>33387</CRN>
+  </Class>
+  <Class>
+    <Title>Introduction to Sociology</Title>
+    <Course>SOCI110M</Course>
+    <CRN>33338</CRN>
+  </Class>
+  <Class>
+    <Title>Contemporary Social Problems</Title>
+    <Course>SOCI109M</Course>
+    <CRN>33337</CRN>
+  </Class>
+  <Class>
+    <Title>Technology in Education</Title>
+    <Course>TCHE205M</Course>
+    <CRN>33340</CRN>
+  </Class>
+</ThreeCreditClasses>

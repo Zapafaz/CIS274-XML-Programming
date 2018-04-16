@@ -1,0 +1,620 @@
+<SecondFloorClasses>
+  <Class room="274">
+    <Title>Introduction to Accounting and Financial Reporting II</Title>
+    <Course>ACCT123M</Course>
+    <CRN>33425</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="215">
+    <Title>Introduction to Engineering Design and Solid Modeling</Title>
+    <Course>ADMT112M</Course>
+    <CRN>33899</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="215">
+    <Title>Engineering Print Reading</Title>
+    <Course>ADMT115M</Course>
+    <CRN>33896</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="217">
+    <Title>Motor Control and PLC for Manufacturing</Title>
+    <Course>ADMT120M</Course>
+    <CRN>33900</CRN>
+    <Cost>$110.00</Cost>
+  </Class>
+  <Class room="219">
+    <Title>Motor Control and PLC for Manufacturing</Title>
+    <Course>ADMT120M</Course>
+    <CRN>33900</CRN>
+    <Cost>$110.00</Cost>
+  </Class>
+  <Class room="231">
+    <Title>Introduction to Engineering Design and Solid Modeling</Title>
+    <Course>ADMT112M</Course>
+    <CRN>33899</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="231">
+    <Title>Engineering Print Reading</Title>
+    <Course>ADMT115M</Course>
+    <CRN>33896</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="225">
+    <Title>Welding for the Artist</Title>
+    <Course>ARTS110M</Course>
+    <CRN>33223</CRN>
+    <Cost>$998.00</Cost>
+  </Class>
+  <Class room="285">
+    <Title>College Biology I</Title>
+    <Course>BIOL108M</Course>
+    <CRN>33243</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="285">
+    <Title>Microbiology</Title>
+    <Course>BIOL210M</Course>
+    <CRN>33251</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="285">
+    <Title>Microbiology</Title>
+    <Course>BIOL210M</Course>
+    <CRN>33252</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="285">
+    <Title>Microbiology</Title>
+    <Course>BIOL210M</Course>
+    <CRN>33253</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="289">
+    <Title>The Human Body</Title>
+    <Course>BIOL106M</Course>
+    <CRN>33240</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="289">
+    <Title>The Human Body Lab</Title>
+    <Course>BIOL107M</Course>
+    <CRN>33242</CRN>
+    <Cost>$336.00</Cost>
+  </Class>
+  <Class room="289">
+    <Title>Anatomy &amp; Physiology II</Title>
+    <Course>BIOL120M</Course>
+    <CRN>33247</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="289">
+    <Title>Anatomy &amp; Physiology II</Title>
+    <Course>BIOL120M</Course>
+    <CRN>33359</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="289">
+    <Title>Anatomy &amp; Physiology II</Title>
+    <Course>BIOL120M</Course>
+    <CRN>33360</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="289">
+    <Title>Anatomy &amp; Physiology II</Title>
+    <Course>BIOL120M</Course>
+    <CRN>33360</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="289">
+    <Title>Marine Biology</Title>
+    <Course>BIOL130M</Course>
+    <CRN>33433</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="295">
+    <Title>General Concepts in Biology</Title>
+    <Course>BIOL101M</Course>
+    <CRN>33432</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="295">
+    <Title>College Biology II</Title>
+    <Course>BIOL109M</Course>
+    <CRN>33382</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="295">
+    <Title>Anatomy &amp; Physiology I</Title>
+    <Course>BIOL110M</Course>
+    <CRN>33244</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="295">
+    <Title>Anatomy &amp; Physiology I</Title>
+    <Course>BIOL110M</Course>
+    <CRN>33246</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="295">
+    <Title>Anatomy &amp; Physiology I</Title>
+    <Course>BIOL110M</Course>
+    <CRN>33245</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="295">
+    <Title>Anatomy &amp; Physiology I</Title>
+    <Course>BIOL110M</Course>
+    <CRN>33357</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="295">
+    <Title>Anatomy &amp; Physiology I</Title>
+    <Course>BIOL110M</Course>
+    <CRN>33358</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="295">
+    <Title>Anatomy &amp; Physiology I</Title>
+    <Course>BIOL110M</Course>
+    <CRN>33358</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="279">
+    <Title>Foundations of Chemistry</Title>
+    <Course>CHEM090M</Course>
+    <CRN>33263</CRN>
+    <Cost>$110.00</Cost>
+  </Class>
+  <Class room="279">
+    <Title>Foundations of Chemistry</Title>
+    <Course>CHEM090M</Course>
+    <CRN>33263</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="279">
+    <Title>General Chemistry I</Title>
+    <Course>CHEM115M</Course>
+    <CRN>33265</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="279">
+    <Title>General Chemistry I</Title>
+    <Course>CHEM115M</Course>
+    <CRN>33265</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="279">
+    <Title>General Chemistry I</Title>
+    <Course>CHEM115M</Course>
+    <CRN>33399</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="279">
+    <Title>General Chemistry II</Title>
+    <Course>CHEM116M</Course>
+    <CRN>33266</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="279">
+    <Title>General Chemistry II</Title>
+    <Course>CHEM116M</Course>
+    <CRN>33266</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="235">
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33267</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="235">
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33269</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="235">
+    <Title>Microsoft Computer Applications I</Title>
+    <Course>CIS110M</Course>
+    <CRN>33411</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="235">
+    <Title>Introduction to Python</Title>
+    <Course>CIS126M</Course>
+    <CRN>33271</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="235">
+    <Title>Object-Oriented Programming</Title>
+    <Course>CIS220M</Course>
+    <CRN>33436</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="237">
+    <Title>Investgtn &amp; Evidence Recovery</Title>
+    <Course>CYBD110M</Course>
+    <CRN>33272</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="237">
+    <Title>Investgtn &amp; Evidence Recovery</Title>
+    <Course>CYBD110M</Course>
+    <CRN>33272</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="237">
+    <Title>Mobile &amp; Emerging Device Analy</Title>
+    <Course>CYBD230M</Course>
+    <CRN>33342</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="237">
+    <Title>Mobile &amp; Emerging Device Analy</Title>
+    <Course>CYBD230M</Course>
+    <CRN>33342</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="255">
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="255">
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="255">
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="255">
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="255">
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="255">
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="255">
+    <Title>Creative Activities and Curriculum for Early Childhood</Title>
+    <Course>ECE105M</Course>
+    <CRN>33417</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="236">
+    <Title>College Composition I</Title>
+    <Course>ENGL110M</Course>
+    <CRN>33283</CRN>
+    <Cost>$904.00</Cost>
+  </Class>
+  <Class room="236">
+    <Title>College Composition I</Title>
+    <Course>ENGL110M</Course>
+    <CRN>33284</CRN>
+    <Cost>$904.00</Cost>
+  </Class>
+  <Class room="236">
+    <Title>College Composition I</Title>
+    <Course>ENGL110M</Course>
+    <CRN>33285</CRN>
+    <Cost>$904.00</Cost>
+  </Class>
+  <Class room="272">
+    <Title>Intro to Public Speaking</Title>
+    <Course>ENGL113M</Course>
+    <CRN>33288</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="272">
+    <Title>Science Fiction:  Evolution Ethics and Technology</Title>
+    <Course>ENGL210M</Course>
+    <CRN>33434</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="274">
+    <Title>Topics:Heroes/Vilns -Middl Age</Title>
+    <Course>ENGL200M</Course>
+    <CRN>33343</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="243">
+    <Title>ACE Personal Trainer Exam Review</Title>
+    <Course>EXER100M</Course>
+    <CRN>33290</CRN>
+    <Cost>$226.00</Cost>
+  </Class>
+  <Class room="243">
+    <Title>ACE Personal Trainer Exam Review</Title>
+    <Course>EXER100M</Course>
+    <CRN>33290</CRN>
+    <Cost>$226.00</Cost>
+  </Class>
+  <Class room="243">
+    <Title>Resistance Training</Title>
+    <Course>EXER213M</Course>
+    <CRN>33421</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="243">
+    <Title>Resistance Training</Title>
+    <Course>EXER213M</Course>
+    <CRN>33420</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="236">
+    <Title>Professional Seminar I</Title>
+    <Course>HSV116M</Course>
+    <CRN>33422</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="207">
+    <Title>Related Electricity I Theory</Title>
+    <Course>HVAC109M</Course>
+    <CRN>33300</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="207">
+    <Title>Gas Equipment Installation adn Service Theory</Title>
+    <Course>HVAC230M</Course>
+    <CRN>33302</CRN>
+    <Cost>$904.00</Cost>
+  </Class>
+  <Class room="222">
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33303</CRN>
+    <Cost>$0.00</Cost>
+  </Class>
+  <Class room="222">
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33303</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="222">
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33304</CRN>
+    <Cost>$0.00</Cost>
+  </Class>
+  <Class room="222">
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33304</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="222">
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33375</CRN>
+    <Cost>$0.00</Cost>
+  </Class>
+  <Class room="222">
+    <Title>Foundations of College Math</Title>
+    <Course>MATH090M</Course>
+    <CRN>33375</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="238">
+    <Title>Pre-Calculus</Title>
+    <Course>MATH171M</Course>
+    <CRN>33312</CRN>
+    <Cost>$904.00</Cost>
+  </Class>
+  <Class room="272">
+    <Title>Topics in Applied College Mathematics</Title>
+    <Course>MATH145M</Course>
+    <CRN>33306</CRN>
+    <Cost>$904.00</Cost>
+  </Class>
+  <Class room="272">
+    <Title>Calculus I</Title>
+    <Course>MATH204M</Course>
+    <CRN>33316</CRN>
+    <Cost>$904.00</Cost>
+  </Class>
+  <Class room="276">
+    <Title>Probability &amp; Statistics</Title>
+    <Course>MATH202M</Course>
+    <CRN>33314</CRN>
+    <Cost>$904.00</Cost>
+  </Class>
+  <Class room="231">
+    <Title>Solid Modeling</Title>
+    <Course>NCMI107M</Course>
+    <CRN>34102</CRN>
+    <Cost>$175.00</Cost>
+  </Class>
+  <Class room="231">
+    <Title>STEM Camp</Title>
+    <Course>NCMI86M</Course>
+    <CRN>34091</CRN>
+    <Cost>$175.00</Cost>
+  </Class>
+  <Class room="231">
+    <Title>Girl's Career Camp</Title>
+    <Course>NCMI90M</Course>
+    <CRN>34095</CRN>
+    <Cost>$175.00</Cost>
+  </Class>
+  <Class room="231">
+    <Title>Thingamajigs Summer Camp</Title>
+    <Course>NCMI91M</Course>
+    <CRN>34088</CRN>
+    <Cost>$175.00</Cost>
+  </Class>
+  <Class room="238">
+    <Title>Robotics Camp</Title>
+    <Course>NCMI85M</Course>
+    <CRN>34094</CRN>
+    <Cost>$175.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>Video Game Animation</Title>
+    <Course>NCMI102M</Course>
+    <CRN>34096</CRN>
+    <Cost>$150.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>3D Printing Fundamentals</Title>
+    <Course>NCMI108M</Course>
+    <CRN>34103</CRN>
+    <Cost>$150.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>VEX IQ Robotics Fundamentals</Title>
+    <Course>NCMI109M</Course>
+    <CRN>34104</CRN>
+    <Cost>$150.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>App IO:  Make Your First Multiplayer App!</Title>
+    <Course>NCMI110M</Course>
+    <CRN>34109</CRN>
+    <Cost>$150.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>Advanced 3D Video Game with Unity</Title>
+    <Course>NCMI111M</Course>
+    <CRN>34110</CRN>
+    <Cost>$150.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>Introduction to Robotics (VEX IQ)</Title>
+    <Course>NCMI113M</Course>
+    <CRN>34112</CRN>
+    <Cost>$250.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>Robotic Sensors and Programming (VEX IQ)</Title>
+    <Course>NCMI114M</Course>
+    <CRN>34113</CRN>
+    <Cost>$250.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>Minecraft Designers</Title>
+    <Course>NCMI87M</Course>
+    <CRN>34099</CRN>
+    <Cost>$150.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>Minecraft Modders</Title>
+    <Course>NCMI89M</Course>
+    <CRN>34098</CRN>
+    <Cost>$150.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>App Attack!</Title>
+    <Course>NCMI95M</Course>
+    <CRN>34097</CRN>
+    <Cost>$150.00</Cost>
+  </Class>
+  <Class room="246">
+    <Title>Code Breakers</Title>
+    <Course>NCMI97M</Course>
+    <CRN>34101</CRN>
+    <Cost>$150.00</Cost>
+  </Class>
+  <Class room="253">
+    <Title>Solid Modeling</Title>
+    <Course>NCMI107M</Course>
+    <CRN>34102</CRN>
+    <Cost>$175.00</Cost>
+  </Class>
+  <Class room="253">
+    <Title>STEM Camp</Title>
+    <Course>NCMI86M</Course>
+    <CRN>34091</CRN>
+    <Cost>$175.00</Cost>
+  </Class>
+  <Class room="253">
+    <Title>Girl's Career Camp</Title>
+    <Course>NCMI90M</Course>
+    <CRN>34095</CRN>
+    <Cost>$175.00</Cost>
+  </Class>
+  <Class room="253">
+    <Title>Thingamajigs Summer Camp</Title>
+    <Course>NCMI91M</Course>
+    <CRN>34088</CRN>
+    <Cost>$175.00</Cost>
+  </Class>
+  <Class room="255">
+    <Title>College Physics II</Title>
+    <Course>PHYS136M</Course>
+    <CRN>34050</CRN>
+    <Cost>$110.00</Cost>
+  </Class>
+  <Class room="274">
+    <Title>University Physics II</Title>
+    <Course>PHYS220M</Course>
+    <CRN>33378</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="297">
+    <Title>Introductory Physics</Title>
+    <Course>PHYS100M</Course>
+    <CRN>33329</CRN>
+    <Cost>$788.00</Cost>
+  </Class>
+  <Class room="297">
+    <Title>College Physics I</Title>
+    <Course>PHYS135M</Course>
+    <CRN>33330</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="297">
+    <Title>College Physics II</Title>
+    <Course>PHYS136M</Course>
+    <CRN>34050</CRN>
+    <Cost>$110.00</Cost>
+  </Class>
+  <Class room="297">
+    <Title>University Physics</Title>
+    <Course>PHYS210M</Course>
+    <CRN>33377</CRN>
+    <Cost>$1014.00</Cost>
+  </Class>
+  <Class room="274">
+    <Title>Introduction to Psychology</Title>
+    <Course>PSYC110M</Course>
+    <CRN>33332</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="238">
+    <Title>Introduction to Sociology</Title>
+    <Course>SOCI110M</Course>
+    <CRN>33338</CRN>
+    <Cost>$678.00</Cost>
+  </Class>
+  <Class room="225">
+    <Title>Basic Arc and Gas</Title>
+    <Course>WELD180M</Course>
+    <CRN>33418</CRN>
+    <Cost>$662.00</Cost>
+  </Class>
+  <Class room="225">
+    <Title>Intermediate Arc and Gas</Title>
+    <Course>WELD181M</Course>
+    <CRN>33419</CRN>
+    <Cost>$662.00</Cost>
+  </Class>
+</SecondFloorClasses>
