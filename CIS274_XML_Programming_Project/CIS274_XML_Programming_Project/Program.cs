@@ -20,7 +20,11 @@ namespace CIS274_XML_Programming_Project
         // Keeping paths here is (much) easier than writing an actual user interface, and it's functional enough for this project
         private static string _rootPath = @"H:\Projects\School\CIS274-XML-Programming\CIS274_XML_Programming_Project\CIS274_XML_Programming_Project";
 
-        private static string _currentWeekOutputPath = @"ScriptOutput\week10.xml";
+        private static string _currentWeek = "Week11";
+
+        private static string _outputFolderPath = @"ScriptOutput\";
+        private static string _currentWeekOutputPath = $@"ScriptOutput\{_currentWeek}.xml";
+        private static string _currentWeekOutputFolderPath = $@"ScriptOutput\{_currentWeek}\";
 
         private static string _xsltPath = @"Resources\XML\XSLT\SummerBase.xslt";
         private static string _schedulePath= @"Resources\XML\SummerBase.xml";
@@ -30,18 +34,34 @@ namespace CIS274_XML_Programming_Project
         private static string _csvFolderPath = @"Resources\CSV";
         private static string _textFolderPath = @"Resources\Text";
 
-        private static string _scriptOutputFolderPath = @"ScriptOutput\";
-        private static string _queryOutputFolderPath = @"ScriptOutput\Week10\";
-
         internal static string[] supportedConversionFormats = { ".csv", ".txt", ".xml" };
 
         static void Main(string[] args)
         {
             Environment.CurrentDirectory = _rootPath;
-
-            PerformQueriesInFolder(_schedulePath, _xQueryPath, _queryOutputFolderPath);
-
+            
             ContinuePrompt();
+        }
+
+        public static XmlDocument PerformQuery(XmlDocument input, string query)
+        {
+            var processor = new Processor();
+            XdmNode inputXml = processor.NewDocumentBuilder().Build(new XmlNodeReader(input));
+            XQueryCompiler compiler = processor.NewXQueryCompiler();
+            XQueryExecutable executable = compiler.Compile(query);
+            XQueryEvaluator evaluator = executable.Load();
+            evaluator.ContextItem = inputXml;
+            var domOut = new DomDestination();
+            evaluator.Run(domOut);
+            return domOut.XmlDocument;
+        }
+
+        public static XmlDocument PerformQuery(string inputPath, string query)
+        {
+            var input = new XmlDocument();
+            input.Load(inputPath);
+            
+            return PerformQuery(input, query);
         }
 
         /// <summary>
@@ -97,12 +117,12 @@ namespace CIS274_XML_Programming_Project
         }
 
         /// <summary>
-        /// Takes a <paramref name="inputPath"/> and converts it to HTML using the XSLT at <paramref name="xsltPath"/>, then outputs it to <paramref name="outputPath"/>
+        /// Takes a <paramref name="inputPath"/> and converts using the XSLT at <paramref name="xsltPath"/>, then outputs it to <paramref name="outputPath"/>
         /// </summary>
-        /// <param name="inputPath">An XML file of a course schedule.</param>
-        /// <param name="xsltPath">An XSLT file for converting course schedules.</param>
-        /// <param name="outputPath">The file location for the output HTML.</param>
-        public static void ConvertScheduleToHtml(string inputPath, string xsltPath, string outputPath)
+        /// <param name="inputPath">An XML file.</param>
+        /// <param name="xsltPath">An XSLT file.</param>
+        /// <param name="outputPath">The file location for the output file.</param>
+        public static void PerformXslTransform(string inputPath, string xsltPath, string outputPath)
         {
             var transformer = new XslCompiledTransform();
             transformer.Load(xsltPath);
@@ -117,26 +137,13 @@ namespace CIS274_XML_Programming_Project
         /// <param name="outputFolderPath">The location to output query results at.</param>
         public static void PerformQueriesInFolder(string inputPath, string queryFolder, string outputFolderPath)
         {
-            var processor = new Processor();
-            var input = new XmlDocument();
-            input.Load(inputPath);
-            XdmNode inputXml = processor.NewDocumentBuilder().Build(new XmlNodeReader(input));
-
-            XQueryCompiler compiler = processor.NewXQueryCompiler();
-
             string[] queryFiles = Directory.GetFiles(queryFolder);
             foreach(string path in queryFiles)
             {
                 using (var reader = new StreamReader(path))
                 {
-                    string query = reader.ReadToEnd();
-                    XQueryExecutable executable = compiler.Compile(query);
-                    XQueryEvaluator evaluator = executable.Load();
-                    evaluator.ContextItem = inputXml;
-                    var domOut = new DomDestination();
-                    evaluator.Run(domOut);
-                    XmlDocument resultDocument =  domOut.XmlDocument;
-                    resultDocument.Save(outputFolderPath + Path.GetFileName(path) + "-results.xml");
+                    PerformQuery(inputPath, reader.ReadToEnd())
+                        .Save(outputFolderPath + Path.GetFileName(path) + "-results.xml");
                 }
             }
         }
@@ -144,12 +151,12 @@ namespace CIS274_XML_Programming_Project
         /// <summary>
         /// Gets a new document (poem) from wikisource.org via a GET HTTPrequest, then parses the HTTPresponse.
         /// </summary>
-        public static void GetNewDocumentFromWeb()
+        public static void GetNewDocumentFromWeb(string outputFolderPath)
         {
             var handler = new WebHandler();
             handler.GetResponse(handler.SendRequest(@"https://en.wikisource.org/wiki/Ozymandias_(Shelley)", "GET"));
             var converter = new WikiTextPuller();
-            converter.ConvertWikiPoemToPlainText(handler.SavedResponse, _scriptOutputFolderPath);
+            converter.ConvertWikiPoemToPlainText(handler.SavedResponse, outputFolderPath);
         }
 
         /// <summary>
