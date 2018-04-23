@@ -1,0 +1,10 @@
+<!ELEMENT DocumentSet (Document+)>
+<!ELEMENT Document (DocumentTitle | DocumentAuthor | DocumentSection)*>
+<!ELEMENT DocumentTitle (#PCDATA)>
+<!ELEMENT DocumentAuthor (#PCDATA)>
+<!ELEMENT DocumentSection (#PCDATA | DocumentLine)*>
+<!ELEMENT DocumentLine (#PCDATA)>
+<!ATTLIST Document ID ID #IMPLIED>
+<!ATTLIST Document title CDATA #IMPLIED>
+<!ATTLIST Document author CDATA #IMPLIED>
+<!ATTLIST DocumentSection ID CDATA #IMPLIED>

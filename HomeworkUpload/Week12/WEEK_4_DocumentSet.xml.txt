@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE DocumentSet SYSTEM "DocumentSet.dtd">
+<DocumentSet>
+  <Document ID="A">
+    <DocumentTitle>Richard Cory</DocumentTitle>
+    <DocumentAuthor>Edwin Arlington Robinson</DocumentAuthor>
+    <DocumentSection ID="A:1">
+      <DocumentLine>Whenever Richard Cory went down town,</DocumentLine>
+      <DocumentLine>We people on the pavement looked at him;</DocumentLine>
+      <DocumentLine>He was a gentleman from sole to crown,</DocumentLine>
+      <DocumentLine>Clean favored, and imperially slim.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="A:2">
+      <DocumentLine>And he was always quietly arrayed,</DocumentLine>
+      <DocumentLine>And he was always human when he talked;</DocumentLine>
+      <DocumentLine>But still he fluttered pulses when he said,</DocumentLine>
+      <DocumentLine>"Good-morning," and he glittered when he walked.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="A:3">
+      <DocumentLine>And he was rich - yes, richer than a king,</DocumentLine>
+      <DocumentLine>And admirably schooled in every grace;</DocumentLine>
+      <DocumentLine>In fine, we thought that he was everything</DocumentLine>
+      <DocumentLine>To make us wish that we were in his place.</DocumentLine>
+    </DocumentSection>
+  </Document>
+  <Document ID="B">
+    <DocumentTitle>The Charge of the Light Brigade</DocumentTitle>
+    <DocumentAuthor>Alfred Tennyson</DocumentAuthor>
+    <DocumentSection ID="B:1">
+      <DocumentLine>Half a league, half a league,</DocumentLine>
+      <DocumentLine>Half a league onward,</DocumentLine>
+      <DocumentLine>All in the valley of Death</DocumentLine>
+      <DocumentLine>Rode the six hundred.</DocumentLine>
+      <DocumentLine>"Forward, the Light Brigade!</DocumentLine>
+      <DocumentLine>"Charge for the guns!" he said:</DocumentLine>
+      <DocumentLine>Into the valley of Death</DocumentLine>
+      <DocumentLine>Rode the six hundred.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="B:2">
+      <DocumentLine>"Forward, the Light Brigade!"</DocumentLine>
+      <DocumentLine>Was there a man dismay'd?</DocumentLine>
+      <DocumentLine>Not tho' the soldier knew</DocumentLine>
+      <DocumentLine>Someone had blunder'd:</DocumentLine>
+      <DocumentLine>Theirs not to make reply,</DocumentLine>
+      <DocumentLine>Theirs not to reason why,</DocumentLine>
+      <DocumentLine>Theirs but to do and die:</DocumentLine>
+      <DocumentLine>Into the valley of Death</DocumentLine>
+      <DocumentLine>Rode the six hundred.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="B:3">
+      <DocumentLine>Cannon to right of them,</DocumentLine>
+      <DocumentLine>Cannon to left of them,</DocumentLine>
+      <DocumentLine>Cannon in front of them</DocumentLine>
+      <DocumentLine>Volley'd and thunder'd;</DocumentLine>
+      <DocumentLine>Storm'd at with shot and shell,</DocumentLine>
+      <DocumentLine>Boldly they rode and well,</DocumentLine>
+      <DocumentLine>Into the jaws of Death,</DocumentLine>
+      <DocumentLine>Into the mouth of Hell</DocumentLine>
+      <DocumentLine>Rode the six hundred.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="B:4">
+      <DocumentLine>Flash'd all their sabres bare,</DocumentLine>
+      <DocumentLine>Flash'd as they turn'd in air,</DocumentLine>
+      <DocumentLine>Sabring the gunners there,</DocumentLine>
+      <DocumentLine>Charging an army, while</DocumentLine>
+      <DocumentLine>All the world wonder'd:</DocumentLine>
+      <DocumentLine>Plunged in the battery-smoke</DocumentLine>
+      <DocumentLine>Right thro' the line they broke;</DocumentLine>
+      <DocumentLine>Cossack and Russian</DocumentLine>
+      <DocumentLine>Reel'd from the sabre stroke</DocumentLine>
+      <DocumentLine>Shatter'd and sunder'd.</DocumentLine>
+      <DocumentLine>Then they rode back, but not</DocumentLine>
+      <DocumentLine>Not the six hundred.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="B:5">
+      <DocumentLine>Cannon to right of them,</DocumentLine>
+      <DocumentLine>Cannon to left of them,</DocumentLine>
+      <DocumentLine>Cannon behind them</DocumentLine>
+      <DocumentLine>Volley'd and thunder'd;</DocumentLine>
+      <DocumentLine>Storm'd at with shot and shell,</DocumentLine>
+      <DocumentLine>While horse and hero fell,</DocumentLine>
+      <DocumentLine>They that had fought so well</DocumentLine>
+      <DocumentLine>Came thro' the jaws of Death</DocumentLine>
+      <DocumentLine>Back from the mouth of Hell,</DocumentLine>
+      <DocumentLine>All that was left of them,</DocumentLine>
+      <DocumentLine>Left of six hundred.</DocumentLine>
+    </DocumentSection>
+  </Document>
+  <Document ID="C">
+    <DocumentTitle>The Declaration of Independence</DocumentTitle>
+    <DocumentAuthor>United States Congress of July 4th, 1776</DocumentAuthor>
+    <DocumentSection ID="C:1">
+      <DocumentLine>The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:2">
+      <DocumentLine>We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.--Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government. The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:3">
+      <DocumentLine>He has refused his Assent to Laws, the most wholesome and necessary for the public good.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:4">
+      <DocumentLine>He has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected to attend to them.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:5">
+      <DocumentLine>He has refused to pass other Laws for the accommodation of large districts of people, unless those people would relinquish the right of Representation in the Legislature, a right inestimable to them and formidable to tyrants only.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:6">
+      <DocumentLine>He has called together legislative bodies at places unusual, uncomfortable, and distant from the depository of their public Records, for the sole purpose of fatiguing them into compliance with his measures.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:7">
+      <DocumentLine>He has dissolved Representative Houses repeatedly, for opposing with manly firmness his invasions on the rights of the people.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:8">
+      <DocumentLine>He has refused for a long time, after such dissolutions, to cause others to be elected; whereby the Legislative powers, incapable of Annihilation, have returned to the People at large for their exercise; the State remaining in the mean time exposed to all the dangers of invasion from without, and convulsions within.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:9">
+      <DocumentLine>He has endeavoured to prevent the population of these States; for that purpose obstructing the Laws for Naturalization of Foreigners; refusing to pass others to encourage their migrations hither, and raising the conditions of new Appropriations of Lands.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:10">
+      <DocumentLine>He has obstructed the Administration of Justice, by refusing his Assent to Laws for establishing Judiciary powers.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:11">
+      <DocumentLine>He has made Judges dependent on his Will alone, for the tenure of their offices, and the amount and payment of their salaries.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:12">
+      <DocumentLine>He has erected a multitude of New Offices, and sent hither swarms of Officers to harrass our people, and eat out their substance.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:13">
+      <DocumentLine>He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:14">
+      <DocumentLine>He has affected to render the Military independent of and superior to the Civil power.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:15">
+      <DocumentLine>He has combined with others to subject us to a jurisdiction foreign to our constitution, and unacknowledged by our laws; giving his Assent to their Acts of pretended Legislation:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:16">
+      <DocumentLine>For Quartering large bodies of armed troops among us:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:17">
+      <DocumentLine>For protecting them, by a mock Trial, from punishment for any Murders which they should commit on the Inhabitants of these States:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:18">
+      <DocumentLine>For cutting off our Trade with all parts of the world:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:19">
+      <DocumentLine>For imposing Taxes on us without our Consent:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:20">
+      <DocumentLine>For depriving us in many cases, of the benefits of Trial by Jury:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:21">
+      <DocumentLine>For transporting us beyond Seas to be tried for pretended offences</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:22">
+      <DocumentLine>For abolishing the free System of English Laws in a neighbouring Province, establishing therein an Arbitrary government, and enlarging its Boundaries so as to render it at once an example and fit instrument for introducing the same absolute rule into these Colonies:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:23">
+      <DocumentLine>For taking away our Charters, abolishing our most valuable Laws, and altering fundamentally the Forms of our Governments:</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:24">
+      <DocumentLine>For suspending our own Legislatures, and declaring themselves invested with power to legislate for us in all cases whatsoever.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:25">
+      <DocumentLine>He has abdicated Government here, by declaring us out of his Protection and waging War against us.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:26">
+      <DocumentLine>He has plundered our seas, ravaged our Coasts, burnt our towns, and destroyed the lives of our people.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:27">
+      <DocumentLine>He is at this time transporting large Armies of foreign Mercenaries to compleat the works of death, desolation and tyranny, already begun with circumstances of Cruelty &amp; perfidy scarcely paralleled in the most barbarous ages, and totally unworthy the Head of a civilized nation.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:28">
+      <DocumentLine>He has constrained our fellow Citizens taken Captive on the high Seas to bear Arms against their Country, to become the executioners of their friends and Brethren, or to fall themselves by their Hands.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:29">
+      <DocumentLine>He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:30">
+      <DocumentLine>In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A Prince whose character is thus marked by every act which may define a Tyrant, is unfit to be the ruler of a free people.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="C:31">
+      <DocumentLine>Nor have We been wanting in attentions to our Brittish brethren. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpations, which, would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.</DocumentLine>
+    </DocumentSection>
+  </Document>
+  <Document ID="D">
+    <DocumentTitle>The Gettysburg Address</DocumentTitle>
+    <DocumentAuthor>Abraham Lincoln</DocumentAuthor>
+    <DocumentSection ID="D:1">
+      <DocumentLine>Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</DocumentLine>
+    </DocumentSection>
+    <DocumentSection ID="D:2">
+      <DocumentLine>Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.</DocumentLine>
+    </DocumentSection>
+  </Document>
+</DocumentSet>

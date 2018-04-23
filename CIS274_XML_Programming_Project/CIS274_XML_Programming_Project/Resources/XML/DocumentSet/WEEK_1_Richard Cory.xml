@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE DocumentSet SYSTEM "DocumentSet.dtd">
+<DocumentSet>
+	<Document>
+		<DocumentTitle>Richard Cory</DocumentTitle>
+		<DocumentAuthor>Edwin Arlington Robinson</DocumentAuthor>
+		<DocumentSection>
+			Whenever Richard Cory went down town,
+			We people on the pavement looked at him:
+			He was a gentleman from sole to crown,
+			Clean favored, and imperially slim.
+		</DocumentSection>
+		<DocumentSection>
+			And he was always quietly arrayed,
+			And he was always human when he talked;
+			But still he fluttered pulses when he said,
+			"Good-morning," and he glittered when he walked.
+		</DocumentSection>
+		<DocumentSection>
+			And he was rich—yes, richer than a king—
+			And admirably schooled in every grace:
+			In fine, we thought that he was everything
+			To make us wish that we were in his place.
+		</DocumentSection>
+		<DocumentSection>
+			So on we worked, and waited for the light,
+			And went without the meat, and cursed the bread;
+			And Richard Cory, one calm summer night,
+			Went home and put a bullet through his head.
+		</DocumentSection>
+	</Document>
+</DocumentSet>
