@@ -64,6 +64,9 @@
     <None Include="packages.config" />
     <None Include="Resources\CSV\Summer.csv" />
     <None Include="Resources\XML\DocumentSet\DocumentSet.dtd" />
+    <None Include="Resources\XML\DocumentSet\DocumentSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Resources\XML\XQuery\SummerBase-3CreditHrs.xqy" />
   </ItemGroup>
   <ItemGroup>
@@ -76,7 +79,7 @@
     <Content Include="Resources\Text\3_DoI.txt" />
     <Content Include="Resources\Text\4_Gettysburg.txt" />
     <Content Include="Resources\Text\5_Ozymandias.txt" />
-    <Content Include="Resources\XML\DocumentSet\WEEK_1_Richard Cory.xml.txt" />
+    <Content Include="Resources\XML\DocumentSet\WEEK_1_Richard Cory.xml" />
     <Content Include="Resources\XML\DocumentSet\WEEK_2_PoemSet.xml" />
     <Content Include="Resources\XML\DocumentSet\WEEK_3_PoemSet.xml" />
     <Content Include="Resources\XML\DocumentSet\WEEK_4_DocumentSet.xml" />

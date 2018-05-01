@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Not an ideal URI for a namespace (mainly because I don't control github.com), but it's functional -->
+<xs:schema id="DocumentSet" elementFormDefault="qualified" targetNamespace="https://github.com/Zapafaz/CIS274-XML-Programming" 
+    xmlns="https://github.com/Zapafaz/CIS274-XML-Programming" 
+    xmlns:mstns="https://github.com/Zapafaz/CIS274-XML-Programming" 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- going overkill here (and in the process losing some human readability) since my goal is learning rather than making a usable Schema -->
+    <!-- reusable named types -->
+    <xs:simpleType name="stringtype">
+        <xs:restriction base="xs:string" />
+    </xs:simpleType>
+    <xs:simpleType name="identifier">
+        <xs:restriction base="xs:ID">
+            <!-- restricts ID values to either format of ID: "capital letter(s)" or "capital letter(s)-nonzero positive integer"-->
+            <xs:pattern value="[A-Z]+(-[0-9]+)?" />
+        </xs:restriction>
+    </xs:simpleType>
+    <!-- simple elements -->
+    <xs:element name="DocumentTitle" type="stringtype" />
+    <xs:element name="DocumentAuthor" type="stringtype" />
+    <xs:element name="DocumentLine" type="stringtype" />
+    <!-- attributes -->
+    <xs:attribute name="title" type="stringtype" />
+    <xs:attribute name="author" type="stringtype" />
+    <xs:attribute name="ID" type="identifier" />
+    <!-- groups -->
+    <xs:group name="elementTitleAuthor">
+        <xs:sequence>
+            <xs:element ref="DocumentTitle" />
+            <xs:element ref="DocumentAuthor" />
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="attributeTitleAuthor">
+        <xs:attribute ref="title" />
+        <xs:attribute ref="author" />
+    </xs:attributeGroup>
+    <!-- complex elements -->
+    <xs:element name="DocumentSection">
+        <xs:complexType>
+            <xs:sequence >
+                <!-- minOccurs at 0 to accommodate week 1 file -->
+                <xs:element ref="DocumentLine" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <xs:attribute ref="ID" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Document">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- minOccurs at 0 to accommodate week 2 file -->
+                <xs:group ref="elementTitleAuthor" minOccurs="0" maxOccurs="unbounded" />
+                <xs:element ref="DocumentSection" maxOccurs="unbounded" />
+            </xs:sequence>
+            <xs:attributeGroup ref="attributeTitleAuthor" />
+            <xs:attribute ref="ID" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DocumentSet">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Document" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
